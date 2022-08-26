@@ -17,7 +17,7 @@ My link : [https://www.linkedin.com/in/kavyamandlem/](https://www.linkedin.com/i
  
 
 ## Sreeja Kumbhum
-<p> Presently am pursuing masters at Nortwest missouri state university in Applied Computer Science. I have done my bachelors in Civil Engineering at Vidya Jyothi Instiute of technology , Hyderabad. I like coding so am pursuring my masters in computers </p>
+<p> Presently am pursuing masters at Nortwest missouri state university in Applied Computer Science. I have done my bachelors in Civil Engineering at Vidya Jyothi Instiute of technology , Hyderabad. I like coding so am pursuring my masters in computers. </p>
 
 
 My link : [https://github.com/ksreejareddy](https://github.com/ksreejareddy)
@@ -25,7 +25,10 @@ My link : [https://github.com/ksreejareddy](https://github.com/ksreejareddy)
 
 
 ## Thaarani Yerramsetty
-<p> I am Thaarani Yerramsetty fro Vijayawada,Andhra Pradesh. I have done my engineering from Andhra Loyola Institute of Engineering and Technology.At present I am pursuing my masters from Northwest Missouri State University.
+<p> I am Thaarani Yerramsetty from Vijayawada,Andhra Pradesh. I have done my engineering from Andhra Loyola Institute of Engineering and Technology.At present I am pursuing my masters from Northwest Missouri State University.
 </p>
 
 My Link: [https://github.com/ThaaraniY/](https://github.com/ThaaraniY/)
+
+## Reethu Gopireddy
+<p> Myself Reethu Gopireddy, Completed my bachelors in computer science. Presently pursuing my masters in applied computer science in northwest missouri state university to upgrade my knowledge and work on my skills. 
