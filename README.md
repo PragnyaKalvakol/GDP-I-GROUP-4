@@ -24,6 +24,8 @@ My link : [https://github.com/ksreejareddy](https://github.com/ksreejareddy)
 
 
 
-## Thaarni Yerramsetty
+## Thaarani Yerramsetty
 <p> I am Thaarani Yerramsetty fro Vijayawada,Andhra Pradesh. I have done my engineering from Andhra Loyola Institute of Engineering and Technology.At present I am pursuing my masters from Northwest Missouri State University.
 </p>
+
+My Link: [https://github.com/ThaaraniY/](https://github.com/ThaaraniY/)
