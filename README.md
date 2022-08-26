@@ -14,12 +14,7 @@ My link : [https://www.linkedin.com/in/kavyamandlem/](https://www.linkedin.com/i
   </p>
   
   My link : [https://github.com/PragnyaKalvakol](https://github.com/PragnyaKalvakol)
-  
-  
-  
-  ## Thaarani Yerramsetty
-<p> I am Thaarani Yerramsetty and I am from Vijayawada, AndhraPradesh. I have completed my Engineering from Andhra Loyola Institute Of Engineering And Technology in the year 2020.At present Iam at Northwest Missouri State University to pursue my Masters in Computer Science.</p>
-
-My Link: [https://github.com/ThaaraniY](https://github.com/ThaaraniY)
-
  
+
+## Sreeja Kumbhum
+<p> Presently am pursuing masters at Nortwest missouri state university in Applied Computer Science. I have done my bachelors in Civil Engineering at Vidya Jyothi Instiute of technology , Hyderabad. I like coding so am pursuring my masters in computers </p>
