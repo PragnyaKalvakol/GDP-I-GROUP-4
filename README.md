@@ -14,4 +14,10 @@ My link : [https://www.linkedin.com/in/kavyamandlem/](https://www.linkedin.com/i
   </p>
   
   My link : [https://github.com/PragnyaKalvakol](https://github.com/PragnyaKalvakol)
+  
+  
+  
+  ## Thaarani Yerramsetty
+<p> I am Thaarani Yerramsetty and I am from Vijayawada, AndhraPradesh. I have completed my Engineering from Andhra Loyola Institute Of Engineering And Technology in the year 2020.At present Iam at Northwest Missouri State University to pursue my Masters in Computer Science.</p>
+
  
