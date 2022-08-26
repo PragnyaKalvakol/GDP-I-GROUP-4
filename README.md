@@ -12,4 +12,6 @@ My link : [https://www.linkedin.com/in/kavyamandlem/](https://www.linkedin.com/i
 ## Pragnya Kalvakol
 <p> I am Pragnya Kalvakol from Hyderabad. I did my Bachelors in computer science and engineering in Sreyas institute of engineeering and technology in the year 2021. 
   </p>
+  
+  My link : [https://github.com/PragnyaKalvakol](https://github.com/PragnyaKalvakol)
  
