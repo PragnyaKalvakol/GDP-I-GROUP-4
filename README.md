@@ -31,4 +31,8 @@ My link : [https://github.com/ksreejareddy](https://github.com/ksreejareddy)
 My Link: [https://github.com/ThaaraniY/](https://github.com/ThaaraniY/)
 
 ## Reethu Gopireddy
-<p> Myself Reethu Gopireddy, Completed my bachelors in computer science. Presently pursuing my masters in applied computer science in northwest missouri state university to upgrade my knowledge and work on my skills. 
+<p> Myself Reethu Gopireddy, Completed my bachelors in computer science. Presently pursuing my masters in applied computer science in northwest missouri state university to upgrade my knowledge and work on my skills.
+</p>
+
+My Link: [https://www.linkedin.com/in/gopireddy-reethu-a77834194/](https://www.linkedin.com/in/gopireddy-reethu-a77834194/)
+  
