@@ -48,3 +48,9 @@ In highly populated countries, food wastage is a disturbing issue. Food wastage 
 
 ### Softwares used in this project (LOOW)
 <p> Database, Javascript, html,CSS, Anroid studio are used in this project.</p>
+
+
+### Features of the Application
+<ol>Registrations for both end users<br>
+  Implementing of chatbot for any assistance</ol>
+  
