@@ -45,3 +45,6 @@ In highly populated countries, food wastage is a disturbing issue. Food wastage 
   The food remaining from hotels and restaurants may be collected and given to those in need with the help of this android-based food waste management system. Through this program, NGOs that support underprivileged communities in their fight against malnutrition and starvation can request food from restaurants and hotels.
   
   </p>
+
+# Softwares used in this project (LOOW)
+<p> Database, Javascript, html,CSS, Anroid studio are used in this project.</p>
