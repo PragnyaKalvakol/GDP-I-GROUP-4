@@ -38,5 +38,10 @@ My Link: [https://www.linkedin.com/in/gopireddy-reethu-a77834194/](https://www.l
 
 # Introduction to Left Over On Wheels (LOOW)
 <p>
-In highly populated countries, food wastage is a disturbing issue. Food wastage is not only an indication of hunger or pollution,but also of many economic problems. The high standard of living has resulted in the wastage of food, clothes, etc. because of quick changes in habits and lifestyle. Instead of wasting these things we can put them in use by donating them to various organizations such as orphanages, old age homes, etc. The product is a web application which aims to establish a link between restaurantsand the charity homes/needy households to enable excess food donation.
+In highly populated countries, food wastage is a disturbing issue. Food wastage is not only an indication of hunger or pollution,but also of many economic problems. The high standard of living has resulted in the wastage of food, clothes, etc. because of quick changes in habits and lifestyle. Instead of wasting these things we can put them in use by donating them to various organizations such as orphanages, old age homes, etc. The product is a web application which aims to establish a link between restaurants and the charity homes/needy households to enable excess food donation.
+  </p>
+  
+  <p>
+  The food remaining from hotels and restaurants may be collected and given to those in need with the help of this android-based food waste management system. Through this program, NGOs that support underprivileged communities in their fight against malnutrition and starvation can request food from restaurants and hotels.
+  
   </p>
