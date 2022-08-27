@@ -51,6 +51,8 @@ In highly populated countries, food wastage is a disturbing issue. Food wastage 
 
 
 ### Features of the Application
-<ol>Registrations for both end users<br>
-  Implementing of chatbot for any assistance</ol>
+<ol>1. Registrations for both end users<br>
+    2. Implementing of chatbot for any assistance<br>
+    3. Popup notifications will be sent when food available<br>
+    4. Users can track their food using geo locations implementing in the application</ol>
   
