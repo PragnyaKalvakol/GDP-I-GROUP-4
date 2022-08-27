@@ -36,7 +36,7 @@ My Link: [https://github.com/ThaaraniY/](https://github.com/ThaaraniY/)
 
 My Link: [https://www.linkedin.com/in/gopireddy-reethu-a77834194/](https://www.linkedin.com/in/gopireddy-reethu-a77834194/)
 
-# Introduction to Left Over On Wheels (LOOW)
+### Introduction to Left Over On Wheels (LOOW)
 <p>
 In highly populated countries, food wastage is a disturbing issue. Food wastage is not only an indication of hunger or pollution,but also of many economic problems. The high standard of living has resulted in the wastage of food, clothes, etc. because of quick changes in habits and lifestyle. Instead of wasting these things we can put them in use by donating them to various organizations such as orphanages, old age homes, etc. The product is a web application which aims to establish a link between restaurants and the charity homes/needy households to enable excess food donation.
   </p>
@@ -46,5 +46,5 @@ In highly populated countries, food wastage is a disturbing issue. Food wastage 
   
   </p>
 
-# Softwares used in this project (LOOW)
+### Softwares used in this project (LOOW)
 <p> Database, Javascript, html,CSS, Anroid studio are used in this project.</p>
