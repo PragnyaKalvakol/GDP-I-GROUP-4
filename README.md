@@ -58,8 +58,10 @@ In highly populated countries, food wastage is a disturbing issue. Food wastage 
   
 ### Roles And Responsibilities 
 <ol> Kavya Mandlem : Application Designer (User Interface)<br>
-    Sreeja Kumbhum : Database Manger <br>
+    Sreeja Kumbhum : Database Manager <br>
    Reethu Gopireddy : Application Developer <br>
    Pragnya Kalvakol : Application Designer (Front End) <br>
+  Thaarani Yerramsetty : Database Administrator<br>
+  </ol>
    
  
