@@ -64,4 +64,11 @@ In highly populated countries, food wastage is a disturbing issue. Food wastage 
   Thaarani Yerramsetty : Database Administrator<br>
   </ol>
    
+ ### Client Details
+ <p> Chandra Mouli Kotteti <br>
+ Northwest Missouri State University <br>
+  
+ GitHub Link : [https://github.com/cm2kotteti](https://github.com/cm2kotteti)
+  
+  </p>
  
