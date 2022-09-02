@@ -57,7 +57,9 @@ In highly populated countries, food wastage is a disturbing issue. Food wastage 
     4. Users can track their food using geo locations implementing in the application</ol>
   
 ### Roles And Responsibilities 
-<ol> Kavya Mandlem : Application designer (User Interface)<br>
+<ol> Kavya Mandlem : Application Designer (User Interface)<br>
     Sreeja Kumbhum : Database Manger <br>
    Reethu Gopireddy : Application Developer <br>
+   Pragnya Kalvakol : Application Designer (Front End) <br>
+   
  
