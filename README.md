@@ -88,3 +88,8 @@ In highly populated countries, food wastage is a disturbing issue. Food wastage 
 
 #### Software Interface
 <p> During our system development, we design both static and dynamic website interfaces. The application software will run on operating system Window8, windows 10 with additional requirements and also in android mobiles. </p>
+
+
+#### Communication Interface
+
+<p> The application supports Google Chrome, Mozilla Firefox web browsers.</P>
