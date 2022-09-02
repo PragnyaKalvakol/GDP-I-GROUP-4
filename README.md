@@ -83,4 +83,8 @@ In highly populated countries, food wastage is a disturbing issue. Food wastage 
   </p>
   
 #### Hardware Interface
-<p> The hardware requirement at the user end is really simple and the website cal alsorun on the hardware that can run a basic simple browser. The application will runon any system with basic requirement. </p>
+<p> The hardware requirement at the user end is really simple and the website cal alsorun on the hardware that can run a basic simple browser. The application will run on any system with basic requirement. </p>
+
+
+#### Software Interface
+<p> During our system development, we design both static and dynamic website interfaces. The application software will run on operating system Window8, windows 10 with additional requirements and also in android mobiles. </p>
