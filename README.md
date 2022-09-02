@@ -57,4 +57,4 @@ In highly populated countries, food wastage is a disturbing issue. Food wastage 
     4. Users can track their food using geo locations implementing in the application</ol>
   
 ### Roles And Responsibilities 
-<ol> Kavya Mandlem : Design and build advanced applications for the Android platform
+<ol> Kavya Mandlem : Application designer (User Interface)
