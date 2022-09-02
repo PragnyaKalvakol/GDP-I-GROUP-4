@@ -93,3 +93,6 @@ In highly populated countries, food wastage is a disturbing issue. Food wastage 
 #### Communication Interface
 
 <p> The application supports Google Chrome, Mozilla Firefox web browsers.</P>
+
+### Discussions
+<p> As a team we decided the project and project name and roles and responsibilities of each team member. Research on few other similar sites related to our project was done to get additional information and to gather all the requirements needed to create website. Decided what all modules to be added in application and started working on how to implement modules in web page. </p>
