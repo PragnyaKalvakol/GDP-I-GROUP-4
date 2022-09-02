@@ -81,3 +81,6 @@ In highly populated countries, food wastage is a disturbing issue. Food wastage 
 #### User Interface
 <p> The interface shall be web based allowing user to access the system. This designand layout will be very clear and interactive to the user. There will be a proper collection of GUI interface, which will provide better look. <br> 
   </p>
+  
+#### Hardware Interface
+<p> The hardware requirement at the user end is really simple and the website cal alsorun on the hardware that can run a basic simple browser. The application will runon any system with basic requirement. </p>
