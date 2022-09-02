@@ -56,3 +56,5 @@ In highly populated countries, food wastage is a disturbing issue. Food wastage 
     3. Popup notifications will be sent when food available<br>
     4. Users can track their food using geo locations implementing in the application</ol>
   
+### Roles And Responsibilities 
+<ol> Kavya Mandlem : Design and build advanced applications for the Android platform
