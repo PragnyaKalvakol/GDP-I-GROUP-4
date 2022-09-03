@@ -97,3 +97,4 @@ In highly populated countries, food wastage is a disturbing issue. Food wastage 
 ### Discussions
 <p> As a team we decided the project and project name and roles and responsibilities of each team member. Research on few other similar sites related to our project was done to get additional information and to gather all the requirements needed to create website. Decided what all modules to be added in application and started working on how to implement modules in web page. </p>
 <p> We have gathered required information related to the food leftover from the restuarants. Research on the similar applications and websites. Started to learn how to implememt pop up notifications. Gathered information about orphanages. </p>
+<p> Decided to implement chatbot and pop up notifications. Chatbot assists the users and notifications helps the users to notify the information related to the leftover food.</p>
