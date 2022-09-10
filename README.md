@@ -107,7 +107,7 @@ Project link : [https://github.com/users/PragnyaKalvakol/projects/1/views/1?layo
 
 <p> We had managed to gather some essential data about attributes and functions from similar apps. Entity model relationships for both the Restaurant and the Orphanage have been prepared. </p>
 <p> We had a talk with the on-campus food stalls and gathered information about the leftover food details and also started to work on the database connections.</p>
-<p> As a team we have designed the flowchart and web page templates for the application.</p>
+<p> As a team we have designed the flowchart and web page templates for the applictaion.</p>
 
 ### Flowchart
 ![flowchart](https://user-images.githubusercontent.com/98142665/189464754-b9e92f28-1a30-41d6-b92b-24e8def208b9.jpg)
@@ -124,8 +124,11 @@ Project link : [https://github.com/users/PragnyaKalvakol/projects/1/views/1?layo
 ### Admin Portal
 <img width="220" alt="admin portal" src="https://user-images.githubusercontent.com/98135627/189465178-9eef3323-f03f-4107-bd8a-1528c3736ed2.jpeg">
 
-### Volunteer Portal
-<img width="220" alt="volunteer portal" src="https://user-images.githubusercontent.com/98135627/189465308-72718551-3607-460e-9b41-418afd5b7ec1.jpeg">
+### Chat Bot
+<img width="270" alt="Chat bot" src="https://user-images.githubusercontent.com/98132897/189465503-d2426692-9f8f-4b3e-a519-799a2cee4d7f.jpeg">
+
+### Restaurant food Information Page
+<img width="220" alt="Restaurant food Information" src="https://user-images.githubusercontent.com/98132897/189465605-1eadbf2a-4e2c-4012-82dc-2f5524f0b752.jpeg">
 
 
 
