@@ -130,7 +130,8 @@ Project link : [https://github.com/users/PragnyaKalvakol/projects/1/views/1?layo
 ### Restaurant food Information Page
 <img width="220" alt="Restaurant food Information" src="https://user-images.githubusercontent.com/98132897/189465605-1eadbf2a-4e2c-4012-82dc-2f5524f0b752.jpeg">
 
-
+### FOOD TRACKER
+<img width="220" alt="Food Tracker" src="https://user-images.githubusercontent.com/98137201/189465937-1f0a9393-216d-4088-8655-a0fafa2b0acc.jpeg">
 
 
 
