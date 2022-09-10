@@ -121,6 +121,9 @@ Project link : [https://github.com/users/PragnyaKalvakol/projects/1/views/1?layo
 ### Forget Password Page
 <img width="270" alt="forget password page" src="https://user-images.githubusercontent.com/98135573/189464984-ee14612f-b55e-478a-a738-df91770430bd.jpeg">
 
+### Admin Portal
+<img width="220" alt="admin portal" src="https://user-images.githubusercontent.com/98135627/189465178-9eef3323-f03f-4107-bd8a-1528c3736ed2.jpeg">
+
 
 
 
