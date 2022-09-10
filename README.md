@@ -102,3 +102,6 @@ In highly populated countries, food wastage is a disturbing issue. Food wastage 
 
 
 Wiki Link : [https://github.com/PragnyaKalvakol/GDP-I-GROUP-4.wiki.git](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4.wiki.git)
+
+Project link : [https://github.com/users/PragnyaKalvakol/projects/1/views/1?layout=board](https://github.com/users/PragnyaKalvakol/projects/1/views/1?layout=board)
+
