@@ -108,3 +108,6 @@ Project link : [https://github.com/users/PragnyaKalvakol/projects/1/views/1?layo
 <p> We had managed to gather some essential data about attributes and functions from similar apps. Entity model relationships for both the Restaurant and the Orphanage have been prepared. </p>
 <p> We had a talk with the on-campus food stalls and gathered information about the leftover food details and also started to work on the database connections.</p>
 <p> As a team we have designed the flowchart and web page templates for the applictaion.</p>
+
+
+![flowchart](https://user-images.githubusercontent.com/98142665/189464754-b9e92f28-1a30-41d6-b92b-24e8def208b9.jpg)
