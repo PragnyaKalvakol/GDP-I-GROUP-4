@@ -116,10 +116,10 @@ Project link : [https://github.com/users/PragnyaKalvakol/projects/1/views/1?layo
 <img width="322" alt="login" src="https://user-images.githubusercontent.com/98142665/189464873-4be505af-b850-4e74-9986-75519cf4b21e.PNG">
 
 ### Sign Up Page
-![Sign up page](https://user-images.githubusercontent.com/98135573/189464957-942c24d1-45f7-41da-b7cc-72a65173774f.jpeg)
+<img width="322" alt="sign up" src="https://user-images.githubusercontent.com/98135573/189464957-942c24d1-45f7-41da-b7cc-72a65173774f.jpeg">
 
 ### Forget Password Page
-![Forget password page](https://user-images.githubusercontent.com/98135573/189464984-ee14612f-b55e-478a-a738-df91770430bd.jpeg)
+<img width="270" alt="forget password page" src="https://user-images.githubusercontent.com/98135573/189464984-ee14612f-b55e-478a-a738-df91770430bd.jpeg">
 
 
 
