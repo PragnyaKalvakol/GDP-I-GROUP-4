@@ -109,5 +109,10 @@ Project link : [https://github.com/users/PragnyaKalvakol/projects/1/views/1?layo
 <p> We had a talk with the on-campus food stalls and gathered information about the leftover food details and also started to work on the database connections.</p>
 <p> As a team we have designed the flowchart and web page templates for the applictaion.</p>
 
-
+### Flowchart
 ![flowchart](https://user-images.githubusercontent.com/98142665/189464754-b9e92f28-1a30-41d6-b92b-24e8def208b9.jpg)
+
+### Login Page
+<img width="322" alt="login" src="https://user-images.githubusercontent.com/98142665/189464873-4be505af-b850-4e74-9986-75519cf4b21e.PNG">
+
+
