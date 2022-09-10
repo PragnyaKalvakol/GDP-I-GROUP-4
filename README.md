@@ -105,3 +105,4 @@ Wiki Link : [https://github.com/PragnyaKalvakol/GDP-I-GROUP-4.wiki.git](https://
 
 Project link : [https://github.com/users/PragnyaKalvakol/projects/1/views/1?layout=board](https://github.com/users/PragnyaKalvakol/projects/1/views/1?layout=board)
 
+<p> We had managed to gather some essential data about attributes and functions from similar apps. Entity model relationships for both the Restaurant and the Orphanage have been prepared. </p>
