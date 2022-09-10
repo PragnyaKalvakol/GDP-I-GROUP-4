@@ -99,3 +99,6 @@ In highly populated countries, food wastage is a disturbing issue. Food wastage 
 <p> We have gathered required information related to the food leftover from the restuarants. Research on the similar applications and websitescfor the project. Started to learn how to implememt pop up notifications. Gathered information about orphanages. </p>
 <p> Decided to implement chatbot and pop up notifications. Chatbot assists the users and notifications helps the users to notify the information related to the leftover food.</p>
 <p> As a team member am working on the enrollment forms for both restuarants and orphanages. Learning new things on the Maps. Research on some related modules. Collected required information on food leftovers from sources.</p>
+
+
+Wiki Link : [https://github.com/PragnyaKalvakol/GDP-I-GROUP-4.wiki.git](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4.wiki.git)
