@@ -3,8 +3,6 @@
 <p> Myself Kavya who is interested in cloud computing and coding currently pursuing masters in cs in North West Missouri state University along with that 
 having 3.5 years of technical knowledge in Azure cloud services.
 </p>
-<<<<<<< HEAD
-=======
 
 My link : [https://www.linkedin.com/in/kavyamandlem/](https://www.linkedin.com/in/kavyamandlem/)
 
@@ -110,4 +108,3 @@ Project link : [https://github.com/users/PragnyaKalvakol/projects/1/views/1?layo
 <p> We had managed to gather some essential data about attributes and functions from similar apps. Entity model relationships for both the Restaurant and the Orphanage have been prepared. </p>
 <p> We had a talk with the on-campus food stalls and gathered information about the leftover food details and also started to work on the database connections.</p>
 <p> As a team we have designed the flowchart and web page templates for the applictaion.</p>
->>>>>>> ab8651269bd573c2a9e5c4245ab6d95f116262da
