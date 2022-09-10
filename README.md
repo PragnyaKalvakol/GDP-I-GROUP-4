@@ -133,5 +133,8 @@ Project link : [https://github.com/users/PragnyaKalvakol/projects/1/views/1?layo
 ### FOOD TRACKER
 <img width="220" alt="Food Tracker" src="https://user-images.githubusercontent.com/98137201/189465937-1f0a9393-216d-4088-8655-a0fafa2b0acc.jpeg">
 
+### Restuarant Entity
+<img width="350" alt="Restaurants entity" src="https://user-images.githubusercontent.com/98137201/189466028-f949fd28-fbf1-492c-808d-abaa16ac96f8.png">
+
 
 
