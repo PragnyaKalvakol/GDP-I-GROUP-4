@@ -140,4 +140,5 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 ##### Web Login Page 
 <img width ="500" alt="Login page" src="https://user-images.githubusercontent.com/98142665/190836208-5514c1a6-9bf8-4eac-a6df-3481c4010174.png">
 
-
+#### User Classes and Characteristics
+<p> Our application hopes to draw on three main user groups. The Admin, User and Supplier have their own individual login id and password.</p>
