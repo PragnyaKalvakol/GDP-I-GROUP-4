@@ -58,7 +58,7 @@ In highly populated countries, food wastage is a disturbing issue. High standard
  </p>
 
 #### Softwares used in this project (LOOW)
-<p> Database, Javascript, html,CSS, Anroid studio are used in this project.</p>
+<p> Database, Javascript, html,CSS, Anroid studio, azure services, powerapps are used in this project.</p>
 
 
 #### Features of the Application
@@ -66,7 +66,8 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 <ol>1. Registrations for both end users<br>
     2. Use of a chatbot to provide assistance<br>
     3. When food becomes readily accessible,  popup notifications will be sent to the receiver.<br>
-    4. Users can track their food using the application's geolocation features.</ol>
+    4. Users can track their food using the application's geolocation features.<br>
+    5. Users can donate funds. </ol>
   
 #### Roles And Responsibilities 
 <ol> Chandra Mouli Kotteti : Team Manager <br>
