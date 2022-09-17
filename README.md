@@ -139,4 +139,9 @@ Project link : [https://github.com/users/PragnyaKalvakol/projects/1/views/1?layo
 ### Orphanage Entity
 <img width="375" alt="Orphanage entity" src="https://user-images.githubusercontent.com/98132897/190834933-6936fd26-47ac-4895-8bc3-b6000a5c8834.png">
 
+### ER Diagram
+<img width="500" alt="ER Diagram" src="https://user-images.githubusercontent.com/98135573/190835096-fd332889-f94b-4364-88b9-3c888f54028f.png">
+
+
+
 
