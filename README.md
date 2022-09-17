@@ -142,3 +142,5 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 
 #### User Classes and Characteristics
 <p> Our application hopes to draw on three main user groups. The Admin, User and Supplier have their own individual login id and password.</p>
+<p> The three main user groups are:
+    (A) Admin: Maps the users and suppliers databases and checks the orders and confirms it. And takes the delivery report.</p>
