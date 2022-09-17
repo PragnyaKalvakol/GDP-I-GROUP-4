@@ -130,6 +130,7 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 ##### ER Diagram
 <img width="500" alt="ER Diagram" src="https://user-images.githubusercontent.com/98135573/190835096-fd332889-f94b-4364-88b9-3c888f54028f.png">
 
-
+##### Web Login Page 
+<img width ="500" alt="Login page" src="https://user-images.githubusercontent.com/98142665/190836208-5514c1a6-9bf8-4eac-a6df-3481c4010174.png">
 
 
