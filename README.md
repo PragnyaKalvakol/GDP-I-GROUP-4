@@ -62,15 +62,16 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 
 
 #### Features of the Application
+
 <ol>1. Registrations for both end users<br>
-    2. Implementing of chatbot for any assistance<br>
-    3. Popup notifications will be sent when food available<br>
-    4. Users can track their food using geo locations implementing in the application</ol>
+    2. Use of a chatbot to provide assistance<br>
+    3. When food becomes readily accessible,  popup notifications will be sent to the receiver.<br>
+    4. Users can track their food using the application's geolocation features.</ol>
   
 #### Roles And Responsibilities 
 <ol> Chandra Mouli Kotteti : Team Manager <br>
   Kavya Mandlem : Application Designer (User Interface)<br>
-    Sreeja Kumbhum : Database Manager <br>
+   Sreeja Kumbhum : Database Manager <br>
    Reethu Gopireddy : Application Developer <br>
    Pragnya Kalvakol : Application Designer (Front End) <br>
   Thaarani Yerramsetty : Database Administrator<br>
