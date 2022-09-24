@@ -65,7 +65,7 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 
 <ol>1. Registrations for both end users<br>
     2. Use of a chatbot to provide assistance<br>
-    3. When food becomes readily accessible,  popup notifications will be sent to the receiver.<br>
+    3. When food becomes readily accessible, popup notifications will be sent to the receiver.<br>
     4. Users can track their food using the application's geolocation features.<br>
     5. Users can donate funds. </ol>
   
@@ -134,9 +134,12 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 ##### Orphanage Entity
 <img width="375" alt="Orphanage entity" src="https://user-images.githubusercontent.com/98132897/190834933-6936fd26-47ac-4895-8bc3-b6000a5c8834.png">
 
+##### Volunteer Entity
+
+<img width="376" alt="Volunteer" src="https://user-images.githubusercontent.com/98132897/192072944-6fee3f74-1d0b-4570-bd8d-cddfb19d1c8b.png">
+
 ##### ER Diagram
 <img width="500" alt="ER Diagram" src="https://user-images.githubusercontent.com/98132897/192071174-7d05f6e3-93de-4248-b11a-5202db71539d.jpeg">
-
 
 ##### Web Login Page 
 <img width ="500" alt="Login page" src="https://user-images.githubusercontent.com/98142665/190836208-5514c1a6-9bf8-4eac-a6df-3481c4010174.png">
