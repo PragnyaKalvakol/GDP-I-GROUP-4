@@ -37,16 +37,18 @@ My Link: [https://github.com/ThaaraniY/](https://github.com/ThaaraniY/)
 My Link: [https://www.linkedin.com/in/gopireddy-reethu-a77834194/](https://www.linkedin.com/in/gopireddy-reethu-a77834194/)
 
 ### Table of Contents
-- ##### Introduction 
-- ##### Softwares Used 
-- ##### Features 
-- ##### Roles and Responsibilities
-- ##### Client details 
-- ##### How it works 
-- ##### Interface requirements
-- ##### Flowchart 
-- ##### Prototypes and Templates
-- ##### Database schema 
+- [Introduction](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4#introduction-to-left-over-on-wheels-loow) 
+- [Softwares Used](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4#softwares-used-in-this-project-loow)
+- [Features](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4#features-of-the-application)
+- [Roles and Responsibilities](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4#roles-and-responsibilities-1)
+- [Client details](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4#client-details-1) 
+- [How it works](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4#how-it-works-1) 
+- [Interface requirements](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4#interface-requirements-1)
+- [Flowchart](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4#flowchart-1) 
+- [Prototypes and Templates](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4#login-page)
+- [Database schema](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4#restaurant-entity)
+- [Login page](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4#web-login-page)
+- [About Azure and Services](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4#azure)
 
 Wiki Link - [https://github.com/PragnyaKalvakol/GDP-I-GROUP-4/wiki](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4/wiki)
 
@@ -150,7 +152,3 @@ In highly populated countries, food wastage is a disturbing issue. High standard
     (A) Admin: Maps the users and volunteer databases and checks the orders and confirms it. And takes the delivery report.<br>
     (B) User: Posts the availability of the food.<br>
     (C) Volunteer: Goes,picks up the food posted by the user and delivers it to the needy.</p>
-   
- #### Azure
- <p> Azure is an Microsoft's public cloud computing platform. It provides a range of cloud services, including compute, analytics, storage and networking.</p>
-
