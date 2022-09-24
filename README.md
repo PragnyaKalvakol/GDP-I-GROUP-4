@@ -165,3 +165,8 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 
 #### Sign In Page
 <img width="375" alt="Sign In page" src="https://user-images.githubusercontent.com/98135573/192076258-6400d409-e561-4ab2-98e7-c1be022528ab.jpeg">
+
+#### Sign Up Page
+<img width="375" alt="Sign Up Page " src= "https://user-images.githubusercontent.com/98142665/192076471-b3f238c7-9efb-4ac6-a397-b1b840bf6c05.png" >
+
+
