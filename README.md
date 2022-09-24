@@ -153,5 +153,6 @@ In highly populated countries, food wastage is a disturbing issue. High standard
    
 #### Azure
 <p> Azure is an Microsoft's public cloud computing platform. It provides a range of cloud services, including compute, analytics, storage and networking.</p>
+
 #### Azure Active Directory
 <p> Azure Active Directory (Azure AD) is a cloud-based identity and access management service.</p>
