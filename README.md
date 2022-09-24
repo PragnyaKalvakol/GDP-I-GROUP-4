@@ -135,7 +135,8 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 <img width="375" alt="Orphanage entity" src="https://user-images.githubusercontent.com/98132897/190834933-6936fd26-47ac-4895-8bc3-b6000a5c8834.png">
 
 ##### ER Diagram
-<img width="500" alt="ER Diagram" src="https://user-images.githubusercontent.com/98135573/190835096-fd332889-f94b-4364-88b9-3c888f54028f.png">
+<img width="500" alt="ER Diagram" src="https://user-images.githubusercontent.com/98132897/192071174-7d05f6e3-93de-4248-b11a-5202db71539d.jpeg">
+
 
 ##### Web Login Page 
 <img width ="500" alt="Login page" src="https://user-images.githubusercontent.com/98142665/190836208-5514c1a6-9bf8-4eac-a6df-3481c4010174.png">
