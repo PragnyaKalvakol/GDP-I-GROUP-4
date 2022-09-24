@@ -58,7 +58,7 @@ In highly populated countries, food wastage is a disturbing issue. High standard
  </p>
 
 #### Softwares used in this project (LOOW)
-<p> Database, Javascript, html,CSS, Anroid studio, azure services, powerapps are used in this project.</p>
+<p> Database, Javascript, html,CSS, Anroid studio, azure services, powerapps are used in this project</p>
 
 
 #### Features of the Application
