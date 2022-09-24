@@ -143,13 +143,6 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 
 ##### Web Login Page 
 <img width ="500" alt="Login page" src="https://user-images.githubusercontent.com/98142665/190836208-5514c1a6-9bf8-4eac-a6df-3481c4010174.png">
-
-#### User Classes and Characteristics
-<p> Our application hopes to draw on three main user groups. The Admin, User and Volunteer have their own individual login id and password.</p>
-<p> The three main user groups are:<br>
-    (A) Admin: Maps the users and volunteer databases and checks the orders and confirms it. And takes the delivery report.<br>
-    (B) User: Posts the availability of the food.<br>
-    (C) Volunteer: Goes,picks up the food posted by the user and delivers it to the needy.</p>
    
 #### Azure
 <p> Azure is an Microsoft's public cloud computing platform. It provides a range of cloud services, including compute, analytics, storage and networking.</p>
@@ -157,5 +150,10 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 #### Azure Active Directory
 <p> Azure Active Directory (Azure AD) is a cloud-based identity and access management service.</p>
 
-<img width="220" alt="Food Tracker" src= "https://user-images.githubusercontent.com/98142665/192076003-5208d121-3267-406b-a0fe-8f2cba947704.png" >
+<img width="220" alt="Azure Active directory" src= "https://user-images.githubusercontent.com/98142665/192076003-5208d121-3267-406b-a0fe-8f2cba947704.png" >
+
+#### User flow 
+<p> A user flow lets you determine how users interact with your application when they do things like sign-in, sign-up, edit a profile, or reset a password. </p>
+
+<img width="220" alt="User Flow " src= "https://user-images.githubusercontent.com/98142665/192076095-8f892560-5a90-4be7-8500-1b3d971b6af6.png" >
 
