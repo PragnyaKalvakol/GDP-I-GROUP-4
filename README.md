@@ -169,4 +169,7 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 #### Sign Up Page
 <img width="375" alt="Sign Up Page " src= "https://user-images.githubusercontent.com/98142665/192076471-b3f238c7-9efb-4ac6-a397-b1b840bf6c05.png" >
 
+#### Cosmos DB
+<p> Azure Cosmos DB is a server less database which is commonly used within web and mobile applications, and is well suited for modeling social interactions.</p>
+
 
