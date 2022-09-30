@@ -179,8 +179,13 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 <img width="375" alt="Data Explorer" src= "https://user-images.githubusercontent.com/98137201/192078589-b1d8f2f1-1092-468b-b203-3ba85599e6f1.jpeg">
 
 
-#### Azure function Work Flow
+#### Azure Function Work Flow
 <img width="375" alt="Azure function work flow" src= "https://user-images.githubusercontent.com/98135573/193368454-b9b8a527-4db6-469f-aa28-3f93d50e0608.png">
+
+#### Azure Functions Architecture
+<img width="375" alt="Azure Function Architecture" src= "https://user-images.githubusercontent.com/98135573/193368700-75380a2a-2648-4abf-97c4-14fd2bb1ad02.png">
+
+
 
 
 
