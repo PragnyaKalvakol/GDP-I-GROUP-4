@@ -186,6 +186,10 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 #### B2C Architecture
 <img width="375" alt="b2cArchi" src="https://user-images.githubusercontent.com/98142665/193368695-14dc5d48-b4fe-416f-bd31-307d19e0cab9.png">
 
+#### Azure B2C Important Features
+<img width="375" alt="b2cArchi" src="https://user-images.githubusercontent.com/98132897/193370066-fc6114eb-819a-4531-82cf-71fddf58a75e.png">
+
+
 #### B2C Workflow
 <img width="375" alt="b2cworkflow" src="https://user-images.githubusercontent.com/98142665/193369094-4644feb2-930f-486a-a63d-378f9a92c4e9.PNG">
 
