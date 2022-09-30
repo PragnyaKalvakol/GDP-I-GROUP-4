@@ -162,6 +162,7 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 
 #### Azure Active Directory B2C
 <p> Azure Active Directory B2C offers customer identity and access management in the cloud.</p>
+<p>It is an authentication platform which simplifies the signing in, signing out, reseting passwords, lot of build-in interfaces.</p>
 
 #### B2C Tenant
 <p> An Azure AD B2C tenant represents a collection of identities to be used with relying party applications.</p>
