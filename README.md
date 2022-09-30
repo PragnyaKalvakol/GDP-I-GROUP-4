@@ -140,9 +140,6 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 
 ##### ER Diagram
 <img width="500" alt="ER Diagram" src="https://user-images.githubusercontent.com/98132897/192071174-7d05f6e3-93de-4248-b11a-5202db71539d.jpeg">
-
-##### Web Login Page 
-<img width ="500" alt="Login page" src="https://user-images.githubusercontent.com/98142665/190836208-5514c1a6-9bf8-4eac-a6df-3481c4010174.png">
    
 #### Azure
 <p> Azure is an Microsoft's public cloud computing platform. It provides a range of cloud services, including compute, analytics, storage and networking.</p>
@@ -162,6 +159,10 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 <p> A user flow lets you determine how users interact with your application when they do things like sign-in, sign-up, edit a profile, or reset a password. </p>
 
 <img width="375" alt="User Flow " src= "https://user-images.githubusercontent.com/98142665/192076095-8f892560-5a90-4be7-8500-1b3d971b6af6.png" >
+
+##### Web Login Page 
+<img width ="500" alt="Login page" src="https://user-images.githubusercontent.com/98142665/190836208-5514c1a6-9bf8-4eac-a6df-3481c4010174.png">
+
 
 #### Sign In Page
 <img width="375" alt="Sign In page" src="https://user-images.githubusercontent.com/98135573/192076258-6400d409-e561-4ab2-98e7-c1be022528ab.jpeg">
