@@ -37,18 +37,18 @@ My Link: [https://github.com/ThaaraniY/](https://github.com/ThaaraniY/)
 My Link: [https://www.linkedin.com/in/gopireddy-reethu-a77834194/](https://www.linkedin.com/in/gopireddy-reethu-a77834194/)
 
 ### Table of Contents
-- ##### Introduction 
-- ##### Softwares Used 
-- ##### Features 
-- ##### Roles and Responsibilities
-- ##### Client details 
-- ##### How it works 
-- ##### Interface requirements
-- ##### Flowchart 
-- ##### Prototypes and Templates
-- ##### Database schema 
-- ##### Pages
-- ##### About Azure
+- ##### [Introduction](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4#introduction-to-left-over-on-wheels-loow) 
+- ##### [Softwares Used](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4#softwares-used-in-this-project-loow)
+- ##### [Features](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4#features-of-the-application)
+- ##### [Roles and Responsibilities](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4#roles-and-responsibilities-1)
+- ##### [Client details](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4#client-details-1)
+- ##### [How it works](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4#how-it-works-1)
+- ##### [Interface requirements](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4#interface-requirements-1)
+- ##### [Flowchart](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4#flowchart-1)
+- ##### [Prototypes and Templates](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4#login-page)
+- ##### [Database schema](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4#restaurant-entity) 
+- ##### [Pages](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4#web-login-page)
+- ##### [About Azure](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4#azure)
 
 Wiki Link - [https://github.com/PragnyaKalvakol/GDP-I-GROUP-4/wiki](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4/wiki)
 
@@ -185,10 +185,6 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 
 #### B2C Architecture
 <img width="375" alt="b2cArchi" src="https://user-images.githubusercontent.com/98142665/193368695-14dc5d48-b4fe-416f-bd31-307d19e0cab9.png">
-
-#### Azure B2C Important Features
-<img width="375" alt="b2cArchi" src="https://user-images.githubusercontent.com/98132897/193370066-fc6114eb-819a-4531-82cf-71fddf58a75e.png">
-
 
 #### B2C Workflow
 <img width="375" alt="b2cworkflow" src="https://user-images.githubusercontent.com/98142665/193369094-4644feb2-930f-486a-a63d-378f9a92c4e9.PNG">
