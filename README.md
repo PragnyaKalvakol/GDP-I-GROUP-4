@@ -186,7 +186,6 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 
 #### B2C Architecture
 <img width="375" alt="b2cArchi" src="https://user-images.githubusercontent.com/98142665/193368695-14dc5d48-b4fe-416f-bd31-307d19e0cab9.png">
-<p> Azure Active Directory B2C provides business-to-customer identity as a service. Your customers use their preferred social, enterprise, or local account identities to get single sign-on access to your applications and APIs. In this CRM (Customer Relationship Management) is a tool for gathering and organizing all customer data. </p>
 
 #### B2C Workflow
 <img width="375" alt="b2cworkflow" src="https://user-images.githubusercontent.com/98142665/193369094-4644feb2-930f-486a-a63d-378f9a92c4e9.PNG">
@@ -199,6 +198,8 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 #### Azure Functions Architecture
 <img width="375" alt="Azure Function Architecture" src= "https://user-images.githubusercontent.com/98135573/193368700-75380a2a-2648-4abf-97c4-14fd2bb1ad02.png">
 
+#### COSMO DB
+<img width="375" alt="COSMO DB" src= "https://user-images.githubusercontent.com/98137201/193372213-489173ed-c122-4665-9e3a-4d79d10e2096.png">
 
 
 
