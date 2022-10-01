@@ -161,6 +161,12 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 
 <img width="375" alt="azure" src="https://user-images.githubusercontent.com/98142665/193375666-e6e81e94-c80b-451d-b3cc-8ebcef4a28d8.PNG">
 
+#### Pros of Azure
+<ol>
+  <li>Seamless integrations with other microsoft products and services</li>
+  <li>Improved support for linux and open source applications</li>
+</ol>
+
 #### Azure Active Directory
 <p> Azure Active Directory (Azure AD) is a cloud-based identity and access management service.</p>
 
