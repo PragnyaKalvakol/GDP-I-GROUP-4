@@ -167,6 +167,12 @@ In highly populated countries, food wastage is a disturbing issue. High standard
   <li>Improved support for linux and open source applications</li>
 </ol>
 
+#### Cons of Azure
+<ol>
+  <li>Costlier-pay as you service</li>
+  <li>Advanced technical expertize is required to implement azure in reliable,secure way</li>
+</ol>
+
 #### Azure Active Directory
 <p> Azure Active Directory (Azure AD) is a cloud-based identity and access management service.</p>
 
