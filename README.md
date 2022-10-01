@@ -201,6 +201,10 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 #### COSMO DB
 <img width="375" alt="COSMO DB" src= "https://user-images.githubusercontent.com/98137201/193372213-489173ed-c122-4665-9e3a-4d79d10e2096.png">
 
+#### Advantages of COSMO DB
+<img width="375" alt="Advantages of COSMO DB" src= "https://user-images.githubusercontent.com/98137201/193373329-f716daed-dddf-4a54-936f-6fa28a38fd39.PNG">
+
+
 
 
 
