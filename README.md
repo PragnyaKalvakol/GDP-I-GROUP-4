@@ -186,6 +186,7 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 
 #### B2C Architecture
 <img width="375" alt="b2cArchi" src="https://user-images.githubusercontent.com/98142665/193368695-14dc5d48-b4fe-416f-bd31-307d19e0cab9.png">
+<p> Azure Active Directory B2C provides business-to-customer identity as a service. Your customers use their preferred social, enterprise, or local account identities to get single sign-on access to your applications and APIs. In this CRM (Customer Relationship Management) is a tool for gathering and organizing all customer data. </p>
 
 #### B2C Workflow
 <img width="375" alt="b2cworkflow" src="https://user-images.githubusercontent.com/98142665/193369094-4644feb2-930f-486a-a63d-378f9a92c4e9.PNG">
