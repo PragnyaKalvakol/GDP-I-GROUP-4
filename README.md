@@ -224,7 +224,7 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 #### Advantages of COSMO DB
 <img width="375" alt="Advantages of COSMO DB" src= "https://user-images.githubusercontent.com/98137201/193373329-f716daed-dddf-4a54-936f-6fa28a38fd39.PNG">
 
-
+<p>An Azure Cosmos DB database in-turn manages users, permissions and containers. An Azure Cosmos DB container is a schema-agnostic container of arbitrary user-generated entities and stored procedures, triggers and user-defined-functions (UDFs).</p>
 
 
 
