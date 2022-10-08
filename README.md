@@ -226,7 +226,13 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 
 <p>An Azure Cosmos DB database in-turn manages users, permissions and containers. An Azure Cosmos DB container is a schema-agnostic container of arbitrary user-generated entities and stored procedures, triggers and user-defined-functions (UDFs).</p>
 
+##### Power Virtual agent
 
+Respond rapidly to your customer and employee needs—at scale—using intelligent conversational bots built with Power Virtual Agents.
+
+##### Chatbot 
+
+A chatbot is a type of software that can help customers by automating conversations and interact with them through messaging platforms.
 
 
 
