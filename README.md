@@ -230,6 +230,13 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 
 Respond rapidly to your customer and employee needs—at scale—using intelligent conversational bots built with Power Virtual Agents.
 
+##### Features of Power Virtual Agent
+
+- Build bots quickly and easily
+- Deploy across channels and languages
+- Scale securely with centralized management
+- Improve your bots over time
+
 ##### Chatbot 
 
 A chatbot is a type of software that can help customers by automating conversations and interact with them through messaging platforms.
