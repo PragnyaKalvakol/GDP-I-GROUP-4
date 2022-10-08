@@ -275,6 +275,8 @@ A chatbot is a type of software that can help customers by automating conversati
 ##### Architecture of LOOW
 <img width="375" alt="Architecture of LOOW" src= "https://user-images.githubusercontent.com/98135573/194678006-d11dbf36-6dd1-4855-8141-1c6a484921ad.png">
 
+#### User Interface
+<p>A Web user interface or Web app allows the user to interact with content or software running on a remote server through a Web browser. </p>
 
 
 
