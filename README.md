@@ -245,6 +245,8 @@ Respond rapidly to your customer and employee needs—at scale—using intellige
 
 A chatbot is a type of software that can help customers by automating conversations and interact with them through messaging platforms.
 
+<img width="375" alt="chatbot" src="https://user-images.githubusercontent.com/98142665/194678329-a2dd0a6a-5163-4d4d-8e39-4ea4cec8ad98.PNG">
+
 
 ##### Architecture of LOOW
 <img width="375" alt="Architecture of LOOW" src= "https://user-images.githubusercontent.com/98135573/194678006-d11dbf36-6dd1-4855-8141-1c6a484921ad.png">
