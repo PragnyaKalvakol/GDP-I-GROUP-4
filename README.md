@@ -278,6 +278,9 @@ A chatbot is a type of software that can help customers by automating conversati
 #### User Interface
 <p>A Web user interface or Web app allows the user to interact with content or software running on a remote server through a Web browser. </p>
 
+#### Advantages of using HTML and CSS for Web Application
+<p>Using CSS, you can control the color of the text, the style of fonts, the spacing between paragraphs, how columns are sized and laid out, etc.</p>
+
 
 
 
