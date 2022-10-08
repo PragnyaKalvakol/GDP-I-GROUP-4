@@ -281,6 +281,11 @@ A chatbot is a type of software that can help customers by automating conversati
 #### Advantages of using HTML and CSS for Web Application
 <p>Using CSS, you can control the color of the text, the style of fonts, the spacing between paragraphs, how columns are sized and laid out, etc.</p>
 
+#### Main Screen
+<img width="375" alt="Architecture of LOOW" src= "https://user-images.githubusercontent.com/98137201/194682518-40ebb8f9-6e49-4d6e-a61e-e7f4e471e034.png">
+
+
+
 
 
 
