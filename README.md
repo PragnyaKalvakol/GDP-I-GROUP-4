@@ -245,6 +245,13 @@ Respond rapidly to your customer and employee needs—at scale—using intellige
 
 A chatbot is a type of software that can help customers by automating conversations and interact with them through messaging platforms.
 
+#### Features of Chatbot
+
+- 24/7 Customer service
+- Simple User Interface Design and User Experience
+- Acknowledge When Questions are Beyond Their Scope
+- Customer Experience Comes First
+
 <img width="375" alt="chatbot" src="https://user-images.githubusercontent.com/98142665/194678329-a2dd0a6a-5163-4d4d-8e39-4ea4cec8ad98.PNG">
 
 
