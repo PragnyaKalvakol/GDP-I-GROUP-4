@@ -259,6 +259,13 @@ A chatbot is a type of software that can help customers by automating conversati
 - Reduced labour costs
 - Multipurpose
 
+##### Cons of Chatbot
+
+- Limited responses
+- Complex chatbots are expensive
+- Frustation
+- Chatbots are not fruitful for all businesses
+
 <img width="375" alt="chatbot" src="https://user-images.githubusercontent.com/98142665/194678329-a2dd0a6a-5163-4d4d-8e39-4ea4cec8ad98.PNG">
 
 
