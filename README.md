@@ -178,7 +178,7 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 </ol>
 
 #### Azure Active Directory
-<p> Azure Active Directory (Azure AD) is a cloud-based identity and access management service.</p>
+<p> Azure Active Directory (Azure AD) is a cloud-based identity and access management service. Customers preferred social, enterprise, or local account identities to get single sign-on access to your applications and APIs.</p>
 
 #### Azure Active Directory B2C
 <p> Azure Active Directory B2C offers customer identity and access management in the cloud.</p>
