@@ -154,6 +154,7 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 <img width="375" alt="Sign Up Page " src= "https://user-images.githubusercontent.com/98142665/192076471-b3f238c7-9efb-4ac6-a397-b1b840bf6c05.png" >
 
 #### Enrollment Form
+<P>Restaurants, orphanages and volunteers can register to LOOW app for the leftover food delivery, update and donate.</P>
 <img width="375" alt="Enrollment Form" src= "https://user-images.githubusercontent.com/98135573/194678149-efe8de77-3a1a-4763-8129-e67a534e95a4.png">
 
 
