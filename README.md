@@ -56,7 +56,7 @@ Project Link - [https://github.com/PragnyaKalvakol/GDP-I-GROUP-4/projects](https
 
 #### Introduction to Left Over On Wheels (LOOW)
 <p>
-In highly populated countries, food wastage is a disturbing issue. High standard of living has resulted in the wastage of food because of quick changes in habits and lifestyle. Instead of wasting these things we can put them in use by donating them to various organizations such as orphanages or old age homes. The product is a web application which aims to establish a link between restaurants and the charity homes/needy households to enable excess food donation.
+In highly populated countries, food wastage is a disturbing issue. High standard of living has resulted in the wastage of food because of quick changes in habits and lifestyle. Instead of wasting these things we can put them in use by donating them to various organizations such as orphanages or old age homes. The product is a web application which aims to establish a link between restaurants and the charity homes/needy households to enable excess food donation
  </p>
 
 #### Softwares used in this project (LOOW)
