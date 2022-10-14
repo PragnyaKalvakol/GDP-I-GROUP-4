@@ -192,6 +192,11 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 
 <img width="375" alt="Azure Active directory" src= "https://user-images.githubusercontent.com/98142665/192076003-5208d121-3267-406b-a0fe-8f2cba947704.png" >
 
+#### How it is created?
+
+<img width="375" alt="creation" src= "https://user-images.githubusercontent.com/98135573/195896419-dad79189-3ecd-48f0-baf3-b5c23850a20b.jpeg">
+
+
 #### User Flow 
 <p> A user flow lets you determine how users interact with your application when they do things like sign-in, sign-up, edit a profile, or reset a password. </p>
 
@@ -302,8 +307,6 @@ A chatbot is a type of software that can help customers by automating conversati
 #### Advantages of using HTML and CSS for Web Application
 <p>Using CSS, you can control the color of the text, the style of fonts, the spacing between paragraphs, how columns are sized and laid out, etc.</p>
 
-#### Main Screen
-<img width="375" alt="Architecture of LOOW" src= "https://user-images.githubusercontent.com/98137201/194682518-40ebb8f9-6e49-4d6e-a61e-e7f4e471e034.png">
 
 
 
