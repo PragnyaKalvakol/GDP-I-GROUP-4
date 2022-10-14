@@ -195,6 +195,10 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 #### User Flow 
 <p> A user flow lets you determine how users interact with your application when they do things like sign-in, sign-up, edit a profile, or reset a password. </p>
 
+##### How userflow is implemented
+
+<img width="375" alt="creation of userflow" src="https://user-images.githubusercontent.com/98142665/195886180-9ee25d74-09a9-49c2-bf2a-f2d27f7c7b4f.png">
+                 
 <img width="375" alt="User Flow " src= "https://user-images.githubusercontent.com/98142665/192076095-8f892560-5a90-4be7-8500-1b3d971b6af6.png" >
 
 #### Cosmos DB
