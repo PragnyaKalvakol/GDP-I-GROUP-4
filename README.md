@@ -272,6 +272,10 @@ A chatbot is a type of software that can help customers by automating conversati
 <img width="375" alt="chatbot" src="https://user-images.githubusercontent.com/98142665/194678329-a2dd0a6a-5163-4d4d-8e39-4ea4cec8ad98.PNG">
 
 
+<img width="375" alt="testbot" src="https://user-images.githubusercontent.com/98142665/195884613-2a83122a-7ca4-45a8-ad06-2b8210998728.PNG">
+
+
+
 ##### Architecture of LOOW
 <img width="375" alt="Architecture of LOOW" src= "https://user-images.githubusercontent.com/98135573/194678006-d11dbf36-6dd1-4855-8141-1c6a484921ad.png">
 
