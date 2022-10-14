@@ -298,6 +298,12 @@ A chatbot is a type of software that can help customers by automating conversati
 #### Main Screen
 <img width="375" alt="Architecture of LOOW" src= "https://user-images.githubusercontent.com/98137201/194682518-40ebb8f9-6e49-4d6e-a61e-e7f4e471e034.png">
 
+##### How function app is created ?
+<img width="375" alt="Create function" src= "https://user-images.githubusercontent.com/98135627/195894559-cc4ccdf1-8346-4b3b-b6f8-ffc45ec9e266.jpeg">
+
+
+
+
 
 
 
