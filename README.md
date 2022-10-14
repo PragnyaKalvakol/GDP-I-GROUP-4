@@ -251,7 +251,7 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 
 ##### Power Virtual agent
 
-Respond rapidly to your customer and employee needs—at scale—using intelligent conversational bots built with Power Virtual Agents.
+<p>Microsoft Power Virtual Agent (PVA) is a Microsoft platform for no-code and citizen development of powerful bots. It offers a low-code platform for Building AI-driven chatbots which puts conversational AI, automated customer service, and intelligent virtual assistants within reach for many businesses. It also bridges the gap between your “low code developers” and “pro-code developers,” further expediting your bot building process.</p>
 
 ##### Features of Power Virtual Agent
 
