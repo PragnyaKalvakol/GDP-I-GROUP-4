@@ -144,6 +144,11 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 <img width="900" alt="Food request entity" src="https://user-images.githubusercontent.com/98132897/195959514-1425afb6-3529-44ba-b796-d7775113a32b.png">
 
 
+##### Admin Entity
+<img width="450" alt="admin entity" src="https://user-images.githubusercontent.com/98132897/195960397-733e9a73-59db-4344-99e2-9bc30b9e6d61.png">
+
+
+
 ##### ER Diagram
 <img width="500" alt="ER Diagram" src="https://user-images.githubusercontent.com/98132897/192071174-7d05f6e3-93de-4248-b11a-5202db71539d.jpeg">
 
