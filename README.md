@@ -321,7 +321,7 @@ A chatbot is a type of software that can help customers by automating conversati
 #### UI for First Page
 <img width="375" alt="testbot" src="https://user-images.githubusercontent.com/98137201/195965914-448dff7b-b0af-4003-91cf-9594d119ed9f.png">
 
-
+<p> This page includes the options like Home, Contact Us ,About Us and Signin/Signup.Onclicking these buttons they will redirect you to further pages.<p/>
 
 
 
