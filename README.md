@@ -327,6 +327,7 @@ A chatbot is a type of software that can help customers by automating conversati
  
 <img width="375" alt="testbot" src="https://user-images.githubusercontent.com/98137201/198753666-218b0eba-123f-468a-b86b-0be568d596dd.png">
 
-
+  
+ <p> The above image shows all the respective fields that are to be filled by a resturant while registering into the web application.</p>
 
 
