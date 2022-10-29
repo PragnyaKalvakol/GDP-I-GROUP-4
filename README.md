@@ -269,6 +269,9 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 - Scale securely with centralized management
 - Improve your bots over time
 
+##### Power Automate
+<p> Power Automate, formerly Microsoft Flow, is an online tool within the Microsoft 365 applications and add-ins, used for the creation of automated workflows between apps and services to synchronize files, get notifications, and collect data.</p>
+
 ##### Chatbot 
 
 A chatbot is a type of software that can help customers by automating conversations and interact with them through messaging platforms.
