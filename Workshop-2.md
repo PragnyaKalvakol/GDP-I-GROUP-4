@@ -5,3 +5,6 @@
 #### Features of Sharepoint
 <img width="500" alt="ER Diagram" src="https://user-images.githubusercontent.com/98137201/199834048-bae42974-dd00-4fe0-8380-5da8add5bec5.png">
 
+#### Benefits of Sharepoint
+<p><ul>SharePoint enables increased productivity and visibility for information workers across all verticals, in businesses large and small.Increases collaboration experience that enables secure sharing, content management and workflow collaboration features among many others.</ul></p>
+
