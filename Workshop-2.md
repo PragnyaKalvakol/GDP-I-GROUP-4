@@ -13,4 +13,11 @@ Formerly known as Microsoft Flow, this new name Power Automate has the connectiv
 
 <img width="250" alt="ER Diagram" src="https://user-images.githubusercontent.com/98132897/199836615-91a4c9c4-9c91-4ae5-91e2-43f140b8faa6.png">
 
-
+#### Features Of Power Automate
+<ol> 1.Hundreds of prebuilt connectors.<br>
+2. No-code guidance.<br>
+3. Cloud-based data loss prevention.<br>
+4. Identity and access management.<br>
+5. Peek code feature.<br>
+6. Trigger search.
+AI Builder.<br>
