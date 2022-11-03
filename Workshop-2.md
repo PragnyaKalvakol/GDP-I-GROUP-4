@@ -11,7 +11,7 @@
 #### Power Automate
 Formerly known as Microsoft Flow, this new name Power Automate has the connectivity to the PowerApps
 
-<img width="250" alt="ER Diagram" src="https://user-images.githubusercontent.com/98132897/199836615-91a4c9c4-9c91-4ae5-91e2-43f140b8faa6.png">
+<img width="250" alt="Power Automate" src="https://user-images.githubusercontent.com/98132897/199836615-91a4c9c4-9c91-4ae5-91e2-43f140b8faa6.png">
 
 #### Features Of Power Automate
 <ol> 1.Hundreds of prebuilt connectors.<br>
@@ -20,4 +20,9 @@ Formerly known as Microsoft Flow, this new name Power Automate has the connectiv
 4. Identity and access management.<br>
 5. Peek code feature.<br>
 6. Trigger search.
-AI Builder.<br>
+AI Builder.<br></ol>
+
+#### Workflow And Integration Communication Of Power Automate
+<p> Power Automate integrate with the PowerApps as shown below </p>
+<img width="350" alt="Power Automate" src="https://user-images.githubusercontent.com/98132897/199841152-a35a82e0-84b4-4411-a572-c329c2d1c5e6.png">
+
