@@ -272,6 +272,23 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 ##### Power Automate
 <p> Power Automate, formerly Microsoft Flow, is an online tool within the Microsoft 365 applications and add-ins, used for the creation of automated workflows between apps and services to synchronize files, get notifications, and collect data.</p>
 
+##### Flutter
+<p>Flutter is framework created by google. </p>
+<p>A cross-platform framework used to develop application for :</p>
+
+- Android
+- iOS
+- Web
+- Desktop.
+
+##### Why Flutter
+- Open source.
+- Faster development cycle.
+- Super productive.
+- Ease to learn & code sharing.
+- Widget libraries.
+- Community support.
+
 ##### Chatbot 
 
 A chatbot is a type of software that can help customers by automating conversations and interact with them through messaging platforms.
