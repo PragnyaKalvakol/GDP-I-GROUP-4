@@ -89,7 +89,7 @@ In highly populated countries, food wastage is a disturbing issue. High standard
   </p>
  
  #### How it works
- <p> The proposed application is web-based, developed on Android Studio using html and css requires internet connection and will provide a platform for donating leftover food to all needy people/organizations.This web based application has been developed through which people can donate food items as per their capacity and the application also allows organizations to put up their requests,if any. <br>
+ <p> The proposed application is web-based, developed on Android Studio using html and css requires internet connection and will provide a platform for donating leftover food to all needy people/organizations.This web based application has been developed through which people can donate food items as per their capacity and the application also allows organizations to put up their requests,if any.<br>
 </p>
 
 #### Interface Requirements
