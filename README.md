@@ -289,6 +289,13 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 - Widget libraries.
 - Community support.
 
+##### Feature of Flutter
+- Rapid app development.
+- Expressive interfaces.
+- Faster debug.
+- Easy learning curve.
+- Cost-saving.
+
 ##### Chatbot 
 
 A chatbot is a type of software that can help customers by automating conversations and interact with them through messaging platforms.
