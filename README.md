@@ -331,6 +331,11 @@ Firebase is a set of hosting services for any type of application. It offers NoS
 - Lacks Dedicated Server and Enterprise Support
 - No GraphQL APIs
 
+##### Microsfot forms
+
+<p>Microsoft Forms is a simple, lightweight tool that lets you quickly create a form, collect responses in real time, and view automatic charts to visualize your data. 
+You can build a form in minutes no training necessary, and respondents can fill it out on any browser without having to install a separate app.</p>
+
 
 ##### Chatbot 
 
