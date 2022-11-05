@@ -338,23 +338,8 @@ A chatbot is a type of software that can help customers by automating conversati
 
 ##### Architecture of LOOW
 <img width="375" alt="Architecture of LOOW" src= "https://user-images.githubusercontent.com/98135573/194678006-d11dbf36-6dd1-4855-8141-1c6a484921ad.png">
-
 #### User Interface
 <p>A Web user interface or Web app allows the user to interact with content or software running on a remote server through a Web browser. </p>
 
-#### Advantages of using HTML and CSS for Web Application
-<p>Using CSS, you can control the color of the text, the style of fonts, the spacing between paragraphs, how columns are sized and laid out, etc.</p>
-
-#### UI for First Page
-<img width="375" alt="testbot" src="https://user-images.githubusercontent.com/98137201/195965914-448dff7b-b0af-4003-91cf-9594d119ed9f.png">
-
-<p> This page includes the options like Home, Contact Us ,About Us and Signin/Signup.Onclicking these buttons they will redirect you to further p
-
-#### Restaurant SIGNUP PAGE
- 
-<img width="375" alt="testbot" src="https://user-images.githubusercontent.com/98137201/198753666-218b0eba-123f-468a-b86b-0be568d596dd.png">
-
-  
- <p> The above image shows all the respective fields that are to be filled by a resturant while registering into the web application.</p>
 
 
