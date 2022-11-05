@@ -300,6 +300,23 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 
 Dart is a client-optimized language for fast apps on any platform.
 
+##### Firebase
+
+Firebase is a set of hosting services for any type of application. It offers NoSQL and real-time hosting of databases, content, social authentication, and notifications, or services, such as a real-time communication server. 
+
+###### Firebase Advantages
+
+- Free Plan
+- Faster App Development
+- Turnkey App Development Service
+- Google Supports Firebase
+- Enables Developers to Focus on Frontend Coding.
+- Serverless Platform
+- Integrated Machine Learning Functions
+- Generates Traffic
+- App Monitoring
+- Top-Notch Security
+
 ##### Chatbot 
 
 A chatbot is a type of software that can help customers by automating conversations and interact with them through messaging platforms.
@@ -342,8 +359,8 @@ A chatbot is a type of software that can help customers by automating conversati
 
 ##### Architecture of LOOW
 <img width="375" alt="Architecture of LOOW" src= "https://user-images.githubusercontent.com/98135573/194678006-d11dbf36-6dd1-4855-8141-1c6a484921ad.png">
-#### User Interface
-<p>A Web user interface or Web app allows the user to interact with content or software running on a remote server through a Web browser. </p>
+
+
 
 
 
