@@ -296,6 +296,10 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 - Easy learning curve.
 - Cost-saving.
 
+#### Dart
+
+Dart is a client-optimized language for fast apps on any platform.
+
 ##### Chatbot 
 
 A chatbot is a type of software that can help customers by automating conversations and interact with them through messaging platforms.
