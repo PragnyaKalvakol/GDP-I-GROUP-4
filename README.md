@@ -317,6 +317,21 @@ Firebase is a set of hosting services for any type of application. It offers NoS
 - App Monitoring
 - Top-Notch Security
 
+##### Firebase Disadvantages
+
+- A Closed Source Platform
+- Vendor Lock-In
+- Complex Billing Estimation
+- Not Available Globally
+- Do Not Support SQL Database
+- Handling of ACID properties
+- Usage and Limits
+- Free Plan Support Basic Functions Only
+- Restricted to Google Cloud
+- Lacks Dedicated Server and Enterprise Support
+- No GraphQL APIs
+
+
 ##### Chatbot 
 
 A chatbot is a type of software that can help customers by automating conversations and interact with them through messaging platforms.
