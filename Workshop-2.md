@@ -26,3 +26,12 @@ AI Builder.<br></ol>
 <p> Power Automate integrate with the PowerApps as shown below </p>
 <img width="350" alt="Power Automate" src="https://user-images.githubusercontent.com/98132897/199841152-a35a82e0-84b4-4411-a572-c329c2d1c5e6.png">
 
+#### Benefits of Power Automate
+1. Streamline everyday tasks
+2. Improve workforce productivity
+3. Automate tasks across business systems
+4. Increase employee satisfaction and reduce human error
+5. Save time with decision making
+6. Use predefined templates to create a flow
+7. Accessible anywhere
+
