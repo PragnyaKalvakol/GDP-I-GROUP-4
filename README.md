@@ -348,6 +348,11 @@ You can build a form in minutes no training necessary, and respondents can fillÂ
 
 A chatbot is a type of software that can help customers by automating conversations and interact with them through messaging platforms.
 
+##### Whatis a Topic in Chatbot
+
+<p>A topic has trigger phrases and conversation nodes. Trigger phrases are phrases, keywords, and questions that a user is likely to type that are related to a specific issue. Conversation nodes define how a bot should respond to a trigger phrase and what it should do.</p>
+
+
 ##### Features of Chatbot
 
 - 24/7 Customer service
