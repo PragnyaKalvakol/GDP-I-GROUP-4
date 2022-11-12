@@ -403,6 +403,8 @@ A chatbot is a type of software that can help customers by automating conversati
 ####  Tab bars in Android application
 <p>A tab bar appears at the bottom of the application screen and allows you to quickly move from one section to another in the application. This is the most popular navigation structure for mobile applications. It usually contains between 4 and 5 tabs.</p>
 
+#### App bars in Android Application
+<p>When using fragments, the app bar can be implemented as an ActionBar that is owned by the host activity or a toolbar within your fragment's layout. Ownership of the app bar varies depending on the needs of your app.</p>
 
 
 
