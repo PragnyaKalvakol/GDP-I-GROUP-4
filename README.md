@@ -311,6 +311,8 @@ Dart is a client-optimized language for fast apps on any platform.
 - Dart is fairly new to the programmers and rarely used in the market
 - The absence of native support.
 
+#### Widgets
+<p>Widgets enable users to interact with an Android Studio application page. There are various kinds of widgets, such as Buttons and TextViews. To see all the widgets at your disposal, create a new application project called “Widgets” and select "empty activity". Call your activity “MainActivity”.</p>
 
 ##### Firebase
 
