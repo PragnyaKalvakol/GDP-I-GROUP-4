@@ -400,6 +400,9 @@ A chatbot is a type of software that can help customers by automating conversati
 ####  SharePoint Overview
 <img width="375" alt="Sharepoint overview" src="https://user-images.githubusercontent.com/98137201/201448958-05793a0e-857f-40d0-bdba-2588cea6831d.png">
 
+####  Tab bars in Android application
+<p>A tab bar appears at the bottom of the application screen and allows you to quickly move from one section to another in the application. This is the most popular navigation structure for mobile applications. It usually contains between 4 and 5 tabs.</p>
+
 
 
 
