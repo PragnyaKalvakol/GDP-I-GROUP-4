@@ -306,6 +306,11 @@ Dart is a client-optimized language for fast apps on any platform.
 -  High performance
 -  Dart is very stable and it can be used to build production quality real-time applications.
 
+##### Dart Disadvantages
+- Dart has very limited resources online and it’s hard to find solutions to problems
+- Dart is fairly new to the programmers and rarely used in the market
+- The absence of native support.
+
 
 ##### Firebase
 
