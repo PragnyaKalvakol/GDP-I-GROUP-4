@@ -300,6 +300,13 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 
 Dart is a client-optimized language for fast apps on any platform.
 
+##### Dart Advantages
+-  Easy to learn
+-  Availability of documentation
+-  High performance
+-  Dart is very stable and it can be used to build production quality real-time applications.
+
+
 ##### Firebase
 
 Firebase is a set of hosting services for any type of application. It offers NoSQL and real-time hosting of databases, content, social authentication, and notifications, or services, such as a real-time communication server. 
