@@ -397,6 +397,10 @@ A chatbot is a type of software that can help customers by automating conversati
 <img width="375" alt="Architecture of LOOW" src= "https://user-images.githubusercontent.com/98135573/194678006-d11dbf36-6dd1-4855-8141-1c6a484921ad.png">
 
 
+####  SharePoint Overview
+<img width="375" alt="Sharepoint overview" src="https://user-images.githubusercontent.com/98137201/201448958-05793a0e-857f-40d0-bdba-2588cea6831d.png">
+
+
 
 
 
