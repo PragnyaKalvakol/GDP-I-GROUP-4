@@ -358,6 +358,12 @@ You can build a form in minutes no training necessary, and respondents can fillÂ
 - Mathematical Keyboard.
 - Branching in Microsoft Forms.
 
+##### Limitations of microsoft forms
+- 100 questions limitation.
+- Microsoft Forms does not have an update feature for submitted answers or the option to save a form for later.
+- There is a 4000-character maximum on text responses.
+
+
 ##### Microsoft Power Platform
 <img width="375" alt="Microsoft Power Platform" src= "https://user-images.githubusercontent.com/98132897/202502963-63643654-43d2-4030-b66a-26790a5015c6.jpg">
 
