@@ -362,9 +362,6 @@ You can build a form in minutes no training necessary, and respondents can fillÂ
 - 100 questions limitation.
 - Microsoft Forms does not have an update feature for submitted answers or the option to save a form for later.
 - There is a 4000-character maximum on text responses.
-- There are 2 to 10 options per response for ranking questions. Which means you can only ask 50 questions. 
-- There can only be 60 options stored for choice questions.
-- You only have 20 questions when using the Likert scale. This is because the Likert scale counts each statement as one question.
 
 
 ##### Microsoft Power Platform
@@ -431,6 +428,9 @@ A chatbot is a type of software that can help customers by automating conversati
 
 #### App bars in Android Application
 <p>When using fragments, the app bar can be implemented as an ActionBar that is owned by the host activity or a toolbar within your fragment's layout. Ownership of the app bar varies depending on the needs of your app.</p>
+
+#### Register 
+<p>It is the page which allows the user to type in the details like name,password,emailid,contact details and location details.</p> 
 
 
 
