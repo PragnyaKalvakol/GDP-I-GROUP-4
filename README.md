@@ -272,6 +272,10 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 ##### Power Automate
 <p> Power Automate, formerly Microsoft Flow, is an online tool within the Microsoft 365 applications and add-ins, used for the creation of automated workflows between apps and services to synchronize files, get notifications, and collect data.</p>
 
+##### Features of Power Automate
+<img width="375" alt="Features of Power Automate" src= "https://user-images.githubusercontent.com/98132897/203895424-93f58f35-e004-4ef6-9e4c-f2bec751baed.jpg">
+
+
 ##### Flutter
 <p>Flutter is framework created by google. </p>
 <p>A cross-platform framework used to develop application for :</p>
