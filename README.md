@@ -275,6 +275,14 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 ##### Features of Power Automate
 <img width="375" alt="Features of Power Automate" src= "https://user-images.githubusercontent.com/98132897/203895424-93f58f35-e004-4ef6-9e4c-f2bec751baed.jpg">
 
+##### Power Automate Flows
+<ol>
+<li>Schedule Flow</li>
+<li>Automated Cloud Flow</li>
+<li>Instant Flow</li>
+<li>UI Flow</li>
+<li>Business Process Flow</li>
+</ol>
 
 ##### Flutter
 <p>Flutter is framework created by google. </p>
