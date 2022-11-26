@@ -331,6 +331,11 @@ Platform Independent. Dart supports all primary operating systems such as Window
 #### Widgets
 <p>Widgets enable users to interact with an Android Studio application page. There are various kinds of widgets, such as Buttons and TextViews. To see all the widgets at your disposal, create a new application project called “Widgets” and select "empty activity". Call your activity “MainActivity”.</p>
 
+##### Pros of widgets
+- Widgets are simple, easy-to-use software applications intended for one or more platforms. 
+- Serving as independent applications, widgets can easily be embedded into the body of websites. 
+- Widgets work with the real-time website data and can be personalized to respond to website identity.
+
 ##### Firebase
 
 Firebase is a set of hosting services for any type of application. It offers NoSQL and real-time hosting of databases, content, social authentication, and notifications, or services, such as a real-time communication server. 
