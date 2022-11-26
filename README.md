@@ -372,6 +372,9 @@ Firebase is a set of hosting services for any type of application. It offers NoS
 - Lacks Dedicated Server and Enterprise Support
 - No GraphQL APIs
 
+##### Firebase Features
+<p>Developers can create iOS, Android, and Web apps using the Google-sponsored application development platform known as Firebase. Tools are available from Firebase for monitoring analytics, reporting and resolving app errors, as well as developing marketing and product experiments.</p>
+
 ##### Microsoft forms
 
 <p>Microsoft Forms is a simple, lightweight tool that lets you quickly create a form, collect responses in real time, and view automatic charts to visualize your data.
