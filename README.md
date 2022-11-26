@@ -459,6 +459,8 @@ A chatbot is a type of software that can help customers by automating conversati
 #### Register 
 <p>It is the page which allows the user to type in the details like name,password,emailid,contact details and location details.</p> 
 
+#### Plugins
+<p>UI Plugins provide a way to include Javascript and CSS files in various parts of the Rundeck GUI's HTML pages.</p>
 
 
 
