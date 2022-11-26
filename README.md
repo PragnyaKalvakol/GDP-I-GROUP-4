@@ -336,6 +336,11 @@ Platform Independent. Dart supports all primary operating systems such as Window
 - Serving as independent applications, widgets can easily be embedded into the body of websites. 
 - Widgets work with the real-time website data and can be personalized to respond to website identity.
 
+##### Cons of widgets
+- Upgrade Issues and Compatibility.
+- Developer Lock-In.
+- Lack of Understanding.
+
 ##### Firebase
 
 Firebase is a set of hosting services for any type of application. It offers NoSQL and real-time hosting of databases, content, social authentication, and notifications, or services, such as a real-time communication server. 
