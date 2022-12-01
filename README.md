@@ -108,26 +108,6 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 ##### Flowchart
 ![flowchart](https://user-images.githubusercontent.com/98142665/189464754-b9e92f28-1a30-41d6-b92b-24e8def208b9.jpg)
 
-
-
-##### Sign Up Page
-<img width="322" alt="sign up" src="https://user-images.githubusercontent.com/98135573/189464957-942c24d1-45f7-41da-b7cc-72a65173774f.jpeg">
-
-##### Forget Password Page
-<img width="270" alt="forget password page" src="https://user-images.githubusercontent.com/98135573/189464984-ee14612f-b55e-478a-a738-df91770430bd.jpeg">
-
-##### Admin Portal
-<img width="220" alt="admin portal" src="https://user-images.githubusercontent.com/98135627/189465178-9eef3323-f03f-4107-bd8a-1528c3736ed2.jpeg">
-
-##### Chat Bot
-<img width="270" alt="Chat bot" src="https://user-images.githubusercontent.com/98132897/189465503-d2426692-9f8f-4b3e-a519-799a2cee4d7f.jpeg">
-
-##### Restaurant food Information Page
-<img width="220" alt="Restaurant food Information" src="https://user-images.githubusercontent.com/98132897/189465605-1eadbf2a-4e2c-4012-82dc-2f5524f0b752.jpeg">
-
-##### FOOD TRACKER
-<img width="220" alt="Food Tracker" src="https://user-images.githubusercontent.com/98137201/189465937-1f0a9393-216d-4088-8655-a0fafa2b0acc.jpeg">
-
 ##### Restaurant Entity
 <img width="350" alt="Restaurants entity" src="https://user-images.githubusercontent.com/98137201/189466028-f949fd28-fbf1-492c-808d-abaa16ac96f8.png">
 
