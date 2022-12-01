@@ -48,7 +48,6 @@ My Link: [https://www.linkedin.com/in/gopireddy-reethu-a77834194/](https://www.l
 - ##### [Prototypes and Templates](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4#login-page)
 - ##### [Database schema](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4#restaurant-entity) 
 - ##### [Pages](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4#web-login-page)
-- ##### [About Azure](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4#azure)
 
 Wiki Link - [https://github.com/PragnyaKalvakol/GDP-I-GROUP-4/wiki](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4/wiki)
 
@@ -109,8 +108,7 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 ##### Flowchart
 ![flowchart](https://user-images.githubusercontent.com/98142665/189464754-b9e92f28-1a30-41d6-b92b-24e8def208b9.jpg)
 
-##### Login Page
-<img width="322" alt="login" src="https://user-images.githubusercontent.com/98142665/189464873-4be505af-b850-4e74-9986-75519cf4b21e.PNG">
+
 
 ##### Sign Up Page
 <img width="322" alt="sign up" src="https://user-images.githubusercontent.com/98135573/189464957-942c24d1-45f7-41da-b7cc-72a65173774f.jpeg">
@@ -149,10 +147,6 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 ##### ER Diagram
 <img width="500" alt="ER Diagram" src="https://user-images.githubusercontent.com/98132897/192071174-7d05f6e3-93de-4248-b11a-5202db71539d.jpeg">
 
-##### Web Login Page 
-<img width ="500" alt="Login page" src="https://user-images.githubusercontent.com/98142665/190836208-5514c1a6-9bf8-4eac-a6df-3481c4010174.png">
-
-
 #### Sign In Page
 <P>Users can sign in to LOOW application with a unique id which is stored in active directory.</P>
 <img width="375" alt="Sign In page" src="https://user-images.githubusercontent.com/98135573/192076258-6400d409-e561-4ab2-98e7-c1be022528ab.jpeg">
@@ -165,13 +159,11 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 <P>Restaurants, orphanages and volunteers can register to LOOW app for the leftover food delivery, update and donate.</P>
 <img width="375" alt="Enrollment Form" src= "https://user-images.githubusercontent.com/98135573/194678149-efe8de77-3a1a-4763-8129-e67a534e95a4.png">
 
-
 #### How it is created?
 <img width="375" alt="create" src= "https://user-images.githubusercontent.com/98135573/195895355-69410e43-d53b-40e3-8dd5-0f991bdd0112.jpeg">
 
 ##### How function app is created ?
 <img width="375" alt="Create function" src= "https://user-images.githubusercontent.com/98135627/195894559-cc4ccdf1-8346-4b3b-b6f8-ffc45ec9e266.jpeg">
-
 
 #### Integration
 <img width="375" alt="Integration" src= "https://user-images.githubusercontent.com/98137201/192078452-1aa44278-4646-45a9-8158-8aa2407e6968.jpeg">
@@ -180,31 +172,9 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 <img width="375" alt="Data Explorer" src= "https://user-images.githubusercontent.com/98137201/192078589-b1d8f2f1-1092-468b-b203-3ba85599e6f1.jpeg">
 
 
-#### B2C Architecture
-<img width="375" alt="b2cArchi" src="https://user-images.githubusercontent.com/98142665/193368695-14dc5d48-b4fe-416f-bd31-307d19e0cab9.png">
-
-#### Azure B2C Important Features.
-<img width="375" alt="b2cArchi" src="https://user-images.githubusercontent.com/98132897/193375626-2a263fda-d301-4fe3-8986-7985d5bac000.png">
-
 #### B2C Workflow
 <img width="375" alt="b2cworkflow" src="https://user-images.githubusercontent.com/98142665/193369094-4644feb2-930f-486a-a63d-378f9a92c4e9.PNG">
 
-#### Azure Functions
-<p>Process events with serverless code - Build and debug locally without additional setup, deploy and operate at scale in the cloud, and integrate services using triggers and bindings</p>
-
-#### Azure Function Work Flow
-<img width="375" alt="Azure function work flow" src= "https://user-images.githubusercontent.com/98135573/193368454-b9b8a527-4db6-469f-aa28-3f93d50e0608.png">
-
-#### Azure Functions Architecture
-<img width="375" alt="Azure Function Architecture" src= "https://user-images.githubusercontent.com/98135573/193368700-75380a2a-2648-4abf-97c4-14fd2bb1ad02.png">
-
-#### COSMO DB
-<img width="375" alt="COSMO DB" src= "https://user-images.githubusercontent.com/98137201/193372213-489173ed-c122-4665-9e3a-4d79d10e2096.png">
-
-#### Advantages of COSMO DB
-<img width="375" alt="Advantages of COSMO DB" src= "https://user-images.githubusercontent.com/98137201/193373329-f716daed-dddf-4a54-936f-6fa28a38fd39.PNG">
-
-<p>An Azure Cosmos DB database in-turn manages users, permissions and containers. An Azure Cosmos DB container is a schema-agnostic container of arbitrary user-generated entities and stored procedures, triggers and user-defined-functions (UDFs).</p>
 
 ##### Power Virtual agent
 
