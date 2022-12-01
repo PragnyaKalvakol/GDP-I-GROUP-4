@@ -166,55 +166,6 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 <img width="375" alt="Enrollment Form" src= "https://user-images.githubusercontent.com/98135573/194678149-efe8de77-3a1a-4763-8129-e67a534e95a4.png">
 
 
-   
-#### Azure
-<p> Azure is an Microsoft's public cloud computing platform. It provides a range of cloud services, including compute, analytics, storage and networking.</p>
-
-#### Azure Features
-
-<img width="375" alt="azure" src="https://user-images.githubusercontent.com/98142665/193375666-e6e81e94-c80b-451d-b3cc-8ebcef4a28d8.PNG">
-
-#### Pros of Azure
-<ol>
-  <li>Seamless integrations with other microsoft products and services</li>
-  <li>Improved support for linux and open source applications</li>
-</ol>
-
-#### Cons of Azure
-<ol>
-  <li>Costlier-pay as you service</li>
-  <li>Advanced technical expertize is required to implement azure in reliable,secure way</li>
-</ol>
-
-#### Azure Active Directory
-<p> Azure Active Directory (Azure AD) is a cloud-based identity and access management service. Customers preferred social, enterprise, or local account identities to get single sign-on access to your applications and APIs.</p>
-
-#### Azure Active Directory B2C
-<p> Azure Active Directory B2C offers customer identity and access management in the cloud.</p>
-<p>It is an authentication platform which simplifies the signing in, signing out, reseting passwords, lot of build-in interfaces.</p>
-
-#### B2C Tenant
-<p> An Azure AD B2C tenant represents a collection of identities to be used with relying party applications.</p>
-
-<img width="375" alt="Azure Active directory" src= "https://user-images.githubusercontent.com/98142665/192076003-5208d121-3267-406b-a0fe-8f2cba947704.png" >
-
-#### How it is created?
-
-<img width="375" alt="creation" src= "https://user-images.githubusercontent.com/98135573/195896419-dad79189-3ecd-48f0-baf3-b5c23850a20b.jpeg">
-
-
-#### User Flow 
-<p> A user flow lets you determine how users interact with your application when they do things like sign-in, sign-up, edit a profile, or reset a password. </p>
-
-##### How userflow is implemented
-
-<img width="375" alt="creation of userflow" src="https://user-images.githubusercontent.com/98142665/195886180-9ee25d74-09a9-49c2-bf2a-f2d27f7c7b4f.png">
-                 
-<img width="375" alt="User Flow " src= "https://user-images.githubusercontent.com/98142665/192076095-8f892560-5a90-4be7-8500-1b3d971b6af6.png" >
-
-#### Cosmos DB
-<p> Azure Cosmos DB is a server less database which is commonly used within web and mobile applications, and is well suited for modeling social interactions.</p>
-
 #### How it is created?
 <img width="375" alt="create" src= "https://user-images.githubusercontent.com/98135573/195895355-69410e43-d53b-40e3-8dd5-0f991bdd0112.jpeg">
 
