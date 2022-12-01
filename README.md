@@ -127,35 +127,6 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 ##### ER Diagram
 <img width="500" alt="ER Diagram" src="https://user-images.githubusercontent.com/98132897/192071174-7d05f6e3-93de-4248-b11a-5202db71539d.jpeg">
 
-#### Sign In Page
-<P>Users can sign in to LOOW application with a unique id which is stored in active directory.</P>
-<img width="375" alt="Sign In page" src="https://user-images.githubusercontent.com/98135573/192076258-6400d409-e561-4ab2-98e7-c1be022528ab.jpeg">
-
-#### Sign Up Page
-<p>Users can sign up to access LOOW app.</p>
-<img width="300" alt="Sign Up Page " src= "https://user-images.githubusercontent.com/98132897/194680183-4657efda-4234-4b83-8c5c-8330caa05e01.png">
-
-#### Enrollment Form
-<P>Restaurants, orphanages and volunteers can register to LOOW app for the leftover food delivery, update and donate.</P>
-<img width="375" alt="Enrollment Form" src= "https://user-images.githubusercontent.com/98135573/194678149-efe8de77-3a1a-4763-8129-e67a534e95a4.png">
-
-#### How it is created?
-<img width="375" alt="create" src= "https://user-images.githubusercontent.com/98135573/195895355-69410e43-d53b-40e3-8dd5-0f991bdd0112.jpeg">
-
-##### How function app is created ?
-<img width="375" alt="Create function" src= "https://user-images.githubusercontent.com/98135627/195894559-cc4ccdf1-8346-4b3b-b6f8-ffc45ec9e266.jpeg">
-
-#### Integration
-<img width="375" alt="Integration" src= "https://user-images.githubusercontent.com/98137201/192078452-1aa44278-4646-45a9-8158-8aa2407e6968.jpeg">
-
-#### Data Explorer
-<img width="375" alt="Data Explorer" src= "https://user-images.githubusercontent.com/98137201/192078589-b1d8f2f1-1092-468b-b203-3ba85599e6f1.jpeg">
-
-
-#### B2C Workflow
-<img width="375" alt="b2cworkflow" src="https://user-images.githubusercontent.com/98142665/193369094-4644feb2-930f-486a-a63d-378f9a92c4e9.PNG">
-
-
 ##### Power Virtual agent
 
 <p>Microsoft Power Virtual Agent (PVA) is a Microsoft platform for no-code and citizen development of powerful bots. It offers a low-code platform for Building AI-driven chatbots which puts conversational AI, automated customer service, and intelligent virtual assistants within reach for many businesses. It also bridges the gap between your “low code developers” and “pro-code developers,” further expediting your bot building process.</p>
