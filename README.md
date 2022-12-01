@@ -56,11 +56,11 @@ Project Link - [https://github.com/PragnyaKalvakol/GDP-I-GROUP-4/projects](https
 
 #### Introduction to Left Over On Wheels (LOOW)
 <p>
-In highly populated countries, food wastage is a disturbing issue. High standard of living has resulted in the wastage of food because of quick changes in habits and lifestyle. Instead of wasting these things we can put them in use by donating them to various organizations such as orphanages or old age homes. The product is a web application which aims to establish a link between restaurants and the charity homes/needy households to enable excess food donation.
+In highly populated countries, food wastage is a disturbing issue. High standard of living has resulted in the wastage of food because of quick changes in habits and lifestyle. Instead of wasting these things we can put them in use by donating them to various organizations such as orphanages or old age homes. The product is a android application which aims to establish a link between restaurants and the charity homes/needy households to enable excess food donation.
  </p>
 
 #### Softwares used in this project (LOOW)
-<p> Database, Javascript, html,CSS, Anroid studio, azure services, powerapps are used in this project</p>
+<p> Firebase, Power Automate, Microsoft Power Virtual Agents, HTML, CSS, Android studio</p>
 
 
 #### Features of the Application
@@ -68,11 +68,10 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 <ol>1. Registrations for both end users<br>
     2. Use of a chatbot to provide assistance<br>
     3. When food becomes readily accessible, popup notifications will be sent to the receiver.<br>
-    4. Users can track their food using the application's geolocation features.<br>
-    5. Users can donate funds. </ol>
+    4. Users can donate funds.<br></ol>
   
 #### Roles And Responsibilities 
-<ol> Chandra Mouli Kotteti : Team Manager <br>
+<ol> Chandra Mouli Kotteti : Client <br>
   Kavya Mandlem : Application Designer (User Interface)<br>
    Sreeja Kumbhum : Database Manager <br>
    Reethu Gopireddy : Application Developer <br>
@@ -81,20 +80,21 @@ In highly populated countries, food wastage is a disturbing issue. High standard
   </ol>
    
  #### Client Details
- <p> Chandra Mouli Kotteti <br>
- Northwest Missouri State University <br>
+ <p> Dr.Chandra Mouli Kotteti, <br>
+ M.S. Applied Computer Science,<br>
+ Northwest Missouri State University.<br>
   
  GitHub Link : [https://github.com/cm2kotteti](https://github.com/cm2kotteti)
   
   </p>
  
  #### How it works
- <p> The proposed application is web-based, developed on Android Studio using html and css requires internet connection and will provide a platform for donating leftover food to all needy people/organizations.This web based application has been developed through which people can donate food items as per their capacity and the application also allows organizations to put up their requests,if any.<br>
+ <p> The proposed application is android based application, developed on Android Studio using HTML and CSS which requires internet connection and will provide a platform for donating leftover food to all needy people/organizations.Through this application restaurant  can send the leftover food items as per their capacity and the application also allows organizations to put up their requests,if any.<br>
 </p>
 
 #### Interface Requirements
 ##### User Interface
-<p> The interface shall be web based allowing user to access the system. This designand layout will be very clear and interactive to the user. There will be a proper collection of GUI interface, which will provide better look. <br> 
+<p> The interface shall be android based allowing user to access the system. This designand layout will be very clear and interactive to the user. There will be a proper collection of GUI interface, which will provide better look. <br> 
   </p>
   
 ##### Hardware Interface
