@@ -110,6 +110,9 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 <img width="150" src ="https://user-images.githubusercontent.com/98135627/213962247-e1f2141f-4e33-4a43-a4b2-f3b9aa03e124.png">
 <p>This screen will provide the update by the restaurant regarding food availability.</p>
 
+<img width="150" src ="https://user-images.githubusercontent.com/98135627/213962520-2a591f02-8243-40c0-b637-57997a79ed72.png">
+<p>The orphanage can request the food upto 5 KGs, they have to submit the amount of they want to receive in order not to waste unaccepted amount of food.</p>
+
 
 #### Interface Requirements
 ##### User Interface
