@@ -106,6 +106,11 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 <img width="150" src ="https://user-images.githubusercontent.com/98135573/213961326-1bf2c12a-1367-44a2-9e01-2b3025382abf.png">
 <p>This screen gives the detailed information about the food available in the restaurant.</p>
 
+##### Orphanage view
+<img width="150" src ="https://user-images.githubusercontent.com/98135627/213962247-e1f2141f-4e33-4a43-a4b2-f3b9aa03e124.png">
+<p>This screen will provide the update by the restaurant regarding food availability.</p>
+
+
 #### Interface Requirements
 ##### User Interface
 <p> The interface shall be android based allowing user to access the system. This designand layout will be very clear and interactive to the user. There will be a proper collection of GUI interface, which will provide better look. <br> 
