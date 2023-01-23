@@ -153,107 +153,6 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 <img width ="500" alt="Login page" src="https://user-images.githubusercontent.com/98142665/190836208-5514c1a6-9bf8-4eac-a6df-3481c4010174.png">
 
 
-#### Sign In Page
-<P>Users can sign in to LOOW application with a unique id which is stored in active directory.</P>
-<img width="375" alt="Sign In page" src="https://user-images.githubusercontent.com/98135573/192076258-6400d409-e561-4ab2-98e7-c1be022528ab.jpeg">
-
-#### Sign Up Page
-<p>Users can sign up to access LOOW app.</p>
-<img width="300" alt="Sign Up Page " src= "https://user-images.githubusercontent.com/98132897/194680183-4657efda-4234-4b83-8c5c-8330caa05e01.png">
-
-#### Enrollment Form
-<P>Restaurants, orphanages and volunteers can register to LOOW app for the leftover food delivery, update and donate.</P>
-<img width="375" alt="Enrollment Form" src= "https://user-images.githubusercontent.com/98135573/194678149-efe8de77-3a1a-4763-8129-e67a534e95a4.png">
-
-
-   
-#### Azure
-<p> Azure is an Microsoft's public cloud computing platform. It provides a range of cloud services, including compute, analytics, storage and networking.</p>
-
-#### Azure Features
-
-<img width="375" alt="azure" src="https://user-images.githubusercontent.com/98142665/193375666-e6e81e94-c80b-451d-b3cc-8ebcef4a28d8.PNG">
-
-#### Pros of Azure
-<ol>
-  <li>Seamless integrations with other microsoft products and services</li>
-  <li>Improved support for linux and open source applications</li>
-</ol>
-
-#### Cons of Azure
-<ol>
-  <li>Costlier-pay as you service</li>
-  <li>Advanced technical expertize is required to implement azure in reliable,secure way</li>
-</ol>
-
-#### Azure Active Directory
-<p> Azure Active Directory (Azure AD) is a cloud-based identity and access management service. Customers preferred social, enterprise, or local account identities to get single sign-on access to your applications and APIs.</p>
-
-#### Azure Active Directory B2C
-<p> Azure Active Directory B2C offers customer identity and access management in the cloud.</p>
-<p>It is an authentication platform which simplifies the signing in, signing out, reseting passwords, lot of build-in interfaces.</p>
-
-#### B2C Tenant
-<p> An Azure AD B2C tenant represents a collection of identities to be used with relying party applications.</p>
-
-<img width="375" alt="Azure Active directory" src= "https://user-images.githubusercontent.com/98142665/192076003-5208d121-3267-406b-a0fe-8f2cba947704.png" >
-
-#### How it is created?
-
-<img width="375" alt="creation" src= "https://user-images.githubusercontent.com/98135573/195896419-dad79189-3ecd-48f0-baf3-b5c23850a20b.jpeg">
-
-
-#### User Flow 
-<p> A user flow lets you determine how users interact with your application when they do things like sign-in, sign-up, edit a profile, or reset a password. </p>
-
-##### How userflow is implemented
-
-<img width="375" alt="creation of userflow" src="https://user-images.githubusercontent.com/98142665/195886180-9ee25d74-09a9-49c2-bf2a-f2d27f7c7b4f.png">
-                 
-<img width="375" alt="User Flow " src= "https://user-images.githubusercontent.com/98142665/192076095-8f892560-5a90-4be7-8500-1b3d971b6af6.png" >
-
-#### Cosmos DB
-<p> Azure Cosmos DB is a server less database which is commonly used within web and mobile applications, and is well suited for modeling social interactions.</p>
-
-#### How it is created?
-<img width="375" alt="create" src= "https://user-images.githubusercontent.com/98135573/195895355-69410e43-d53b-40e3-8dd5-0f991bdd0112.jpeg">
-
-##### How function app is created ?
-<img width="375" alt="Create function" src= "https://user-images.githubusercontent.com/98135627/195894559-cc4ccdf1-8346-4b3b-b6f8-ffc45ec9e266.jpeg">
-
-
-#### Integration
-<img width="375" alt="Integration" src= "https://user-images.githubusercontent.com/98137201/192078452-1aa44278-4646-45a9-8158-8aa2407e6968.jpeg">
-
-#### Data Explorer
-<img width="375" alt="Data Explorer" src= "https://user-images.githubusercontent.com/98137201/192078589-b1d8f2f1-1092-468b-b203-3ba85599e6f1.jpeg">
-
-
-#### B2C Architecture
-<img width="375" alt="b2cArchi" src="https://user-images.githubusercontent.com/98142665/193368695-14dc5d48-b4fe-416f-bd31-307d19e0cab9.png">
-
-#### Azure B2C Important Features.
-<img width="375" alt="b2cArchi" src="https://user-images.githubusercontent.com/98132897/193375626-2a263fda-d301-4fe3-8986-7985d5bac000.png">
-
-#### B2C Workflow
-<img width="375" alt="b2cworkflow" src="https://user-images.githubusercontent.com/98142665/193369094-4644feb2-930f-486a-a63d-378f9a92c4e9.PNG">
-
-#### Azure Functions
-<p>Process events with serverless code - Build and debug locally without additional setup, deploy and operate at scale in the cloud, and integrate services using triggers and bindings</p>
-
-#### Azure Function Work Flow
-<img width="375" alt="Azure function work flow" src= "https://user-images.githubusercontent.com/98135573/193368454-b9b8a527-4db6-469f-aa28-3f93d50e0608.png">
-
-#### Azure Functions Architecture
-<img width="375" alt="Azure Function Architecture" src= "https://user-images.githubusercontent.com/98135573/193368700-75380a2a-2648-4abf-97c4-14fd2bb1ad02.png">
-
-#### COSMO DB
-<img width="375" alt="COSMO DB" src= "https://user-images.githubusercontent.com/98137201/193372213-489173ed-c122-4665-9e3a-4d79d10e2096.png">
-
-#### Advantages of COSMO DB
-<img width="375" alt="Advantages of COSMO DB" src= "https://user-images.githubusercontent.com/98137201/193373329-f716daed-dddf-4a54-936f-6fa28a38fd39.PNG">
-
-<p>An Azure Cosmos DB database in-turn manages users, permissions and containers. An Azure Cosmos DB container is a schema-agnostic container of arbitrary user-generated entities and stored procedures, triggers and user-defined-functions (UDFs).</p>
 
 ##### Power Virtual agent
 
@@ -311,12 +210,6 @@ A chatbot is a type of software that can help customers by automating conversati
 
 ##### Architecture of LOOW
 <img width="375" alt="Architecture of LOOW" src= "https://user-images.githubusercontent.com/98135573/194678006-d11dbf36-6dd1-4855-8141-1c6a484921ad.png">
-
-#### User Interface
-<p>A Web user interface or Web app allows the user to interact with content or software running on a remote server through a Web browser. </p>
-
-#### Advantages of using HTML and CSS for Web Application
-<p>Using CSS, you can control the color of the text, the style of fonts, the spacing between paragraphs, how columns are sized and laid out, etc.</p>
 
 
 
