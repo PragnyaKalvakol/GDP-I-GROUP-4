@@ -186,7 +186,9 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 - Optionally, you can add more tokens, other text, or both to the body of the email.
 - Near the top of the screen, select Save.
 
+##### power automate emailflow 
 
+<img width="375" alt ="power automate email flow" src= "https://user-images.githubusercontent.com/98142665/213960750-be36a97c-0c02-49f0-80b0-48e47fedbcaf.png" >
 
 
 
