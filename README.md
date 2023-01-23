@@ -163,6 +163,22 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 <li>Business Process Flow</li>
 </ol>
 
+##### To send email notifications via power automate
+
+- Select the Create button at the bottom of the screen.
+- In the box that shows Search connectors and actions, enter send email, and then select Send an email
+- If prompted, select the sign-in button, and then provide your credentials.
+- In the form that appears, enter your email address in the To box, and then select your name from the list of contacts that appears.
+- In the Subject box, enter New tweet from:, and then type a space.
+- In the list of tokens, select the Tweeted by token to add a placeholder for it.
+- Select the Body box, and then select the Tweet text token to add a placeholder for it.
+- Optionally, you can add more tokens, other text, or both to the body of the email.
+- Near the top of the screen, select Save.
+
+
+
+
+
 ##### Flutter
 <p>Flutter is framework created by google. </p>
 <p>A cross-platform framework used to develop application for :</p>
