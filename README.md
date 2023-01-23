@@ -100,6 +100,9 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 <img width="150" src="https://user-images.githubusercontent.com/98135573/213960640-c6f8c608-1267-4c6f-a26f-b69a7aef81d6.png">
 <p> This screen will provide the information about user sign in. If they are new user, they must fill the all the requested fields and create an account.</p>
 
+<img width="150" src="https://user-images.githubusercontent.com/98135573/213961101-f7c0ec7f-6c35-489c-9e21-aab2b896d59c.png">
+<p>This screen this provides the information about navigation with in the application.</p>
+
 #### Interface Requirements
 ##### User Interface
 <p> The interface shall be android based allowing user to access the system. This designand layout will be very clear and interactive to the user. There will be a proper collection of GUI interface, which will provide better look. <br> 
