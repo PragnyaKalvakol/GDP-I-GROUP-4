@@ -120,6 +120,8 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 <img width="150" src="https://user-images.githubusercontent.com/98132897/213963782-c10b16a6-900c-45d0-b8a5-11afa76d5063.png">
 <p>In this the volunteer who has registered will get the notification for the delivery of food to the orphanage from restaurant</p>
 
+<img width="150" src="https://user-images.githubusercontent.com/98132897/213964274-7dee2fb7-60ca-49db-9e56-9768601c81d1.png">
+<p> This screen show the dashboard of the volunteer with the above features. Once he accept the delivery then the request turn into parcel progress category.</p>
 
 
 #### Interface Requirements
