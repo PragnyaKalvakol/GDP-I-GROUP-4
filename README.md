@@ -123,6 +123,8 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 <img width="150" src="https://user-images.githubusercontent.com/98132897/213964274-7dee2fb7-60ca-49db-9e56-9768601c81d1.png">
 <p> This screen show the dashboard of the volunteer with the above features. Once he accept the delivery then the request turn into parcel progress category.</p>
 
+<img width="150" src="https://user-images.githubusercontent.com/98132897/213964995-3b99f931-c492-4471-87ed-3ba26ea6c2b0.png">
+<p>This screen volunteer will set the drop-off location</p>
 
 #### Interface Requirements
 ##### User Interface
