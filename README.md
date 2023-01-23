@@ -215,7 +215,7 @@ Platform Independent. Dart supports all primary operating systems such as Window
 
 ##### Firebase
 
-Firebase is a set of hosting services for any type of application. It offers NoSQL and real-time hosting of databases, content, social authentication, and notifications, or services, such as a real-time communication server. 
+Firebase is a set of hosting services for any type of application. It offers NoSQL and real-time hosting of databases, content, social authentication, and notifications, or services, such as a real-time communication server. Firebase provides detailed documentation and cross-platform SDKs to help you build and ship apps on Android, iOS, the web, C++, and Unity.
 
 ###### Firebase Advantages
 
