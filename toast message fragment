@@ -1,0 +1,19 @@
+public class DialogFragment extends DialogFragment {
+   @Override
+   public Dialog onCreateDialog(Bundle savedInstanceState) {
+      // Use the Builder class for convenient dialog construction
+      AlertDialog.Builder builder = new AlertDialog.Builder(getActivity());
+      builder.setPositiveButton(R.string.fire, new DialogInterface.OnClickListener() {
+         public void onClick(DialogInterface dialog, int id) {
+            toast.makeText(this,"your order have placed",Toast.LENTH_SHORT).show();
+         }
+      })
+      .setNegativeButton(R.string.cancel, new DialogInterface.OnClickListener() {
+         public void onClick(DialogInterface dialog, int id) {
+            finish();
+         });
+         // Create the AlertDialog object and return it
+         return builder.create();
+      }
+   }
+}
