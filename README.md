@@ -390,5 +390,7 @@ A chatbot is a type of software that can help customers by automating conversati
 #### Plugins
 <p>UI Plugins provide a way to include Javascript and CSS files in various parts of the Rundeck GUI's HTML pages.</p>
 
+#### Project Documentation
+<p>Here we are using LaTeX for our documentation.It is a tool for typesetting professional-looking documents.</p>
 
 
