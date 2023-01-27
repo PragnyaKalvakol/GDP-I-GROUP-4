@@ -392,6 +392,12 @@ A chatbot is a type of software that can help customers by automating conversati
 
 #### Plugins
 <p>UI Plugins provide a way to include Javascript and CSS files in various parts of the Rundeck GUI's HTML pages.</p>
+<p>UI Plugin Page Configurations consist of:
+
+pages: A list of applicable Page paths. This can be a single path string, a list of paths, or a * which will match all paths. <br>
+scripts: A single file or list of files. These are relative to the resources directory in your zip file.<br>
+styles: A single file, or a list of files. Thes are relative to the resources directory in your zip file.<br>
+requires: A single or list of other UI plugin provider IDs.</p>
 
 #### Project Documentation
 <p>Here we are using LaTeX for our documentation.It is a tool for typesetting professional-looking documents.</p>
