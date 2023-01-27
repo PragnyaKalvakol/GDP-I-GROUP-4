@@ -1,0 +1,20 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\begin{document}
+
+\title{ABSTRACT}
+The software business is going inexorably toward centralized computing. As a result of this trend, software and data are being moved away from traditional PCs and placed in public or private clouds. 
+Our applications work the same. Flutter is Google's UI toolkit for creating beautiful, natively compiled applications for android, web, and desktops from a single codebase. Firebase is Google's mobile app development platform. 
+Its benefits include an end-to-end development environment, a quicker time to market for app creation, and scalable infrastructure.
+Firebase is Google cloud computing service created for building, testing, deploying, and managing applications and services through Google-managed data centers.
+The food remaining from hotels and restaurants may be collected and given to those in need like to orphanages, charity etc. with the help of this android-based food waste management system.
+Through this application, NGOs that support underprivileged communities in their fight against malnutrition and starvation of food can request food from restaurants and hotels and give it to them. 
+Instead of wasting these things in hotels and restaurants we can put them in use by donating them to various organizations such as orphanages or old age homes or to charity. 
+The product is an android application which aims to establish a link between restaurants and the charity homes/needy households to enable excess food donation.
+Also, there are volunteers who help in delivering the food from restaurants to orphanages.
+In this application, people who are willing to donate funds to the needy can donate.
+
+\maketitle
+
+\end{document}
