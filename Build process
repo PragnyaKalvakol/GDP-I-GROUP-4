@@ -1,0 +1,6 @@
+How the build is running
+
+Launching lib\main.dart on SM A526U in debug mode...
+Running Gradle task 'assembleDebug'...
+Parameter format not correct -
+√  Built build\app\outputs\flutter-apk\app-debug.apk.
