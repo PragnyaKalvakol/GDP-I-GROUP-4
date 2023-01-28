@@ -1,0 +1,18 @@
+When user gives input, these are the logs.
+
+
+
+I/InputMethodManager(30784): startInputInner - mService.startInputOrWindowGainedFocus
+I/ViewRootImpl@bebf43d[MainActivity](30784): ViewPostIme pointer 0
+I/ViewRootImpl@bebf43d[MainActivity](30784): ViewPostIme pointer 1
+I/ViewRootImpl@bebf43d[MainActivity](30784): ViewPostIme pointer 0
+I/ViewRootImpl@bebf43d[MainActivity](30784): ViewPostIme pointer 1
+V/Toast   (30784): show: caller = io.github.ponnamkarthik.toast.fluttertoast.MethodCallHandlerImpl.onMethodCall:102 
+I/ViewRootImpl@bebf43d[MainActivity](30784): ViewPostIme key 0
+I/ViewRootImpl@bebf43d[MainActivity](30784): ViewPostIme key 1
+I/ViewRootImpl@bebf43d[MainActivity](30784): ViewPostIme key 0
+I/ViewRootImpl@bebf43d[MainActivity](30784): ViewPostIme key 1
+I/ViewRootImpl@bebf43d[MainActivity](30784): ViewPostIme pointer 0
+I/ViewRootImpl@bebf43d[MainActivity](30784): ViewPostIme pointer 1
+I/UrlLauncher(30784): component name for https://www.google.com/maps/search/?api=1&query=40.3487012,-94.8767454 is {com.google.android.apps.maps/com.google.android.maps.MapsActivity
+}
