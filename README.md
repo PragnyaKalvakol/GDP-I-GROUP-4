@@ -168,6 +168,12 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 ##### Why APK?
 <p>While developing an Android app, you would usually run it on a physical device or an emulator. If you want to share it with someone for their feedback, you would share an APK that can easily be installed on any Android device.</p>
 
+##### How you can extract an APK file using Android Studio?
+1. In the Android menu, go to Build > Build Bundle(s) / APK (s) > Build APK(s).
+2. Android Studio will start building the APK for you. Once done, a pop-up on the bottom right will notify you of its completion. Click the ‘locate’ button in this dialog.
+3. The ‘locate’ button should open File Explorer with the debug folder open that contains a file called “app-debug.apk”.
+4. That’s it. Rename this file and share!
+
 ##### Power Virtual agent
 
 <p>Microsoft Power Virtual Agent (PVA) is a Microsoft platform for no-code and citizen development of powerful bots. It offers a low-code platform for Building AI-driven chatbots which puts conversational AI, automated customer service, and intelligent virtual assistants within reach for many businesses. It also bridges the gap between your “low code developers” and “pro-code developers,” further expediting your bot building process.</p>
