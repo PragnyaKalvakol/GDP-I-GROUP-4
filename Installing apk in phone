@@ -1,0 +1,11 @@
+When we run the main file this is how it gets connected and synced to the phone
+
+Installing build\app\outputs\flutter-apk\app.apk...
+D/FlutterGeolocator(30784): Attaching Geolocator to activity
+D/FlutterGeolocator(30784): Creating service.
+D/FlutterGeolocator(30784): Binding to location service.
+D/FlutterGeolocator(30784): Geolocator foreground service connected
+D/FlutterGeolocator(30784): Initializing Geolocator services
+D/FlutterGeolocator(30784): Flutter engine connected. Connected engine count 1
+Debug service listening on ws://127.0.0.1:64538/vD7hr9lcy2g=/ws
+Syncing files to device SM A526U...
