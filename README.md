@@ -168,6 +168,12 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 ##### Andriod Studio
 Android Studio is the official Integrated Development Environment (IDE) for Android app development. Based on the powerful code editor and developer tools from IntelliJ IDEA , Android Studio offers even more features that enhance your productivity when building Android apps.
 
+##### Project Structure in Andriod Studio
+Each project in Android Studio contains one or more modules with source code files and resource files. The types of modules include:
+- Android app modules
+- Library modules
+- Google App Engine modules
+
 ##### Why APK?
 <p>While developing an Android app, you would usually run it on a physical device or an emulator. If you want to share it with someone for their feedback, you would share an APK that can easily be installed on any Android device.</p>
 
