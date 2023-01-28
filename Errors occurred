@@ -1,0 +1,16 @@
+Errors occured while running the application
+
+
+D/SurfaceView@952fdcd(30784): windowPositionLost, frameNr = 0
+D/OpenGLRenderer(30784): setSurface called with nullptr
+D/OpenGLRenderer(30784): setSurface() destroyed EGLSurface
+D/OpenGLRenderer(30784): destroyEglSurface
+D/ViewRootImpl@bebf43d[MainActivity](30784): performTraversals mFirst=false windowShouldResize=false viewVisibilityChanged=true mForceNextWindowRelayout=false params=null
+I/ViewRootImpl@bebf43d[MainActivity](30784): Relayout returned: old=(0,0,1080,2400) new=(0,0,1080,2400) req=(1080,2400)8 dur=10 res=0x2 s={false 0x0} ch=true seqId=0
+I/SurfaceView@952fdcd(30784): windowStopped(true) false io.flutter.embedding.android.FlutterSurfaceView{952fdcd V.E...... ........ 0,0-1080,2274} of ViewRootImpl@bebf43d[MainActivity]
+D/SurfaceView@952fdcd(30784): updateSurface: surface is not valid
+I/SurfaceView@952fdcd(30784): releaseSurfaces: viewRoot = ViewRootImpl@bebf43d[MainActivity]
+I/SurfaceView@952fdcd(30784): applyTransactionOnVriDraw: vri = ViewRootImpl@bebf43d[MainActivity] fRS = true t = 0xb400007da700e730 android.view.SurfaceView.releaseSurfaces:858 android.view.SurfaceView.updateSurface:998 android.view.SurfaceView.setWindowStopped:335 
+I/SurfaceView@952fdcd(30784): applyTransactionOnVriDraw: viewRoot.applyTransactionOnDrawFromReleaseSurfaces
+I/ViewRootImpl@bebf43d[MainActivity](30784): from releaseSurfaces t.apply t = 0xb400007da700e730
+D/SurfaceView@952fdcd(30784): updateSurface: surface is not valid
