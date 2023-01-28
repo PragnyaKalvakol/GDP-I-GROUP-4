@@ -1,0 +1,10 @@
+class _SearchScreenState extends State<SearchScreen> {
+  Future<QuerySnapshot>? restaurantsDocumentsList;
+  String sellerNameText = "";
+
+  initSearchingRestaurant(String textEntered) {
+    restaurantsDocumentsList = FirebaseFirestore.instance
+        .collection("sellers")
+        .where("sellerName", isGreaterThanOrEqualTo: textEntered)
+        .get();
+  }
