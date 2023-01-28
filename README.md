@@ -165,6 +165,9 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 ##### ER Diagram
 <img width="500" alt="ER Diagram" src="https://user-images.githubusercontent.com/98132897/192071174-7d05f6e3-93de-4248-b11a-5202db71539d.jpeg">
 
+##### Why APK?
+<p>While developing an Android app, you would usually run it on a physical device or an emulator. If you want to share it with someone for their feedback, you would share an APK that can easily be installed on any Android device.</p>
+
 ##### Power Virtual agent
 
 <p>Microsoft Power Virtual Agent (PVA) is a Microsoft platform for no-code and citizen development of powerful bots. It offers a low-code platform for Building AI-driven chatbots which puts conversational AI, automated customer service, and intelligent virtual assistants within reach for many businesses. It also bridges the gap between your “low code developers” and “pro-code developers,” further expediting your bot building process.</p>
