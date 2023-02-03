@@ -131,6 +131,10 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 <img width="150" src="https://user-images.githubusercontent.com/98132897/215166809-94bcf120-89b3-4166-920a-69b24f46f2a2.png">
 <p>This screen will show the restaurant pick-up location. </p>
 
+<img width="150" src="https://user-images.githubusercontent.com/98132897/216689508-2b183d98-8445-402f-9c13-a53c6bb1413a.png">
+<p> This screen will show the both location then automatically then the order Id date, time and the volunteer who has accepted will be generated.</p>
+
+
 #### Interface Requirements
 ##### User Interface
 <p> The interface shall be android based allowing user to access the system. This designand layout will be very clear and interactive to the user. There will be a proper collection of GUI interface, which will provide better look. <br> 
