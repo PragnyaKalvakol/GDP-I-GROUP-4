@@ -132,7 +132,7 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 <p>This screen will show the restaurant pick-up location. </p>
 
 <img width="150" src="https://user-images.githubusercontent.com/98132897/216689508-2b183d98-8445-402f-9c13-a53c6bb1413a.png">
-<p> This screen will show the both location then automatically then the order Id date, time and the volunteer who has accepted will be generated.</p>
+<p> The order Id date, time and the volunteer who has accepted will be generated automatically when the olunteer accepts to delivery food .</p>
 
 
 #### Interface Requirements
