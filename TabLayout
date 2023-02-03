@@ -1,0 +1,11 @@
+<com.google.android.material.tabs.TabLayout
+         android:layout_height="wrap_content"
+         android:layout_width="match_parent">
+
+     <com.google.android.material.tabs.TabItem
+             android:text="@string/tab_text"/>
+
+     <com.google.android.material.tabs.TabItem
+             android:icon="@drawable/ic_android"/>
+
+ </com.google.android.material.tabs.TabLayout>
