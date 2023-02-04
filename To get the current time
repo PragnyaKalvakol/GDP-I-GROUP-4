@@ -3,7 +3,17 @@ INTL
 Provides internationalization and localization facilities, including message translation, plurals and genders, date/number formatting and parsing, and bidirectional text.
 
 
+To run intl methods we need to execute the following commands
 
+With Dart:
+ $ dart pub add intl
+ 
+With Flutter:
+ $ flutter pub add intl
+ 
+This will add a line like this to your package's pubspec.yaml (and run an implicit dart pub get):
+dependencies:
+  intl: ^0.18.0
 
 
 
