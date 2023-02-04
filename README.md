@@ -292,6 +292,7 @@ Platform Independent. Dart supports all primary operating systems such as Window
 
 #### Widgets
 <p>Widgets enable users to interact with an Android Studio application page. There are various kinds of widgets, such as Buttons and TextViews. To see all the widgets at your disposal, create a new application project called “Widgets” and select "empty activity". Call your activity “MainActivity”.</p>
+<p> The ability to customize a home screen is greatly aided by widgets. They could be thought of as "at-a-glance" representations of an app's most crucial information and features that are available directly from the user's home screen. The quantity of information a widget contains can be customized by users by moving widgets across the panels on their home screen and, if supported, by resizing them.</p>
 
 ##### Pros of widgets
 - Widgets are simple, easy-to-use software applications intended for one or more platforms. 
