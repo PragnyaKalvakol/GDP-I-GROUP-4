@@ -422,6 +422,7 @@ pages: A list of applicable Page paths. This can be a single path string, a list
 scripts: A single file or list of files. These are relative to the resources directory in your zip file.<br>
 styles: A single file, or a list of files. Thes are relative to the resources directory in your zip file.<br>
 requires: A single or list of other UI plugin provider IDs.</p>
+<p>Best plugins in android studio are ADB Idea, Key Promoter X, Android Input, Wrap-up and CodeGlance.</p>
 
 #### Project Documentation
 <p>Here we are using LaTeX for our documentation.It is a tool for typesetting professional-looking documents.</p>
