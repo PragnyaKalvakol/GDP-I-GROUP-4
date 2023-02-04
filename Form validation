@@ -1,3 +1,20 @@
+##### Shared preferences plugin
+<p>Wraps platform-specific persistent storage for simple data. Data may be persisted to disk asynchronously, and there is no guarantee
+that writes will be persisted to disk after returning, so this plugin must not be used for storing critical data.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 formValidation() {
     if (emailController.text.isNotEmpty && passwordController.text.isNotEmpty) {
       //login
