@@ -1,0 +1,14 @@
+formValidation() {
+    if (emailController.text.isNotEmpty && passwordController.text.isNotEmpty) {
+      //login
+      loginNow();
+    } else {
+      showDialog(
+          context: context,
+          builder: (c) {
+            return ErrorDialog(
+              message: "Please write email/password.",
+            );
+          });
+    }
+  }
