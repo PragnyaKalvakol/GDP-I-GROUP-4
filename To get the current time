@@ -1,3 +1,19 @@
+INTL
+
+Provides internationalization and localization facilities, including message translation, plurals and genders, date/number formatting and parsing, and bidirectional text.
+
+
+
+
+
+
+
+
+
+
+
+
+
 void initState()
   {
     super.initState();
