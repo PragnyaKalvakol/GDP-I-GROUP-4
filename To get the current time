@@ -1,0 +1,15 @@
+void initState()
+  {
+    super.initState();
+
+    //time
+    timeText = formatCurrentLiveTime(DateTime.now());
+
+    //date
+    dateText = formatCurrentDate(DateTime.now());
+
+    Timer.periodic(const Duration(seconds: 1), (timer)
+    {
+      getCurrentLiveTime();
+    });
+  }
