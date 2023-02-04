@@ -180,6 +180,12 @@ Each project in Android Studio contains one or more modules with source code fil
 - Library modules
 - Google App Engine modules
 
+###### Flutter commands
+
+- Flutter doctor - This command checks your environment and displays a report of the status of your Flutter installation. Check the output carefully for other        software you might need to install or further tasks to perform.
+- pub get - This command gets all the dependencies listed in the pubspec.yaml file in the current working directory, as well as their transitive dependencies.
+- pub upgrade - To get the latest versions of all dependencies used by your Dart app.
+
 ##### Why APK?
 <p>While developing an Android app, you would usually run it on a physical device or an emulator. If you want to share it with someone for their feedback, you would share an APK that can easily be installed on any Android device.</p>
 
