@@ -364,6 +364,13 @@ You can build a form in minutes no training necessary, and respondents can fillÂ
 
 A chatbot is a type of software that can help customers by automating conversations and interact with them through messaging platforms.
 
+##### Create a Bot
+- Name your bot
+- What language will your bot speak
+- Select create
+    After a few minutes, you'll be redirected to the bot's overview 	page.
+- When the bot creation process completes, the banner changes. You now have full functionality in the bot and can modify any User or System topic, test out your content changes, or deploy your bot.
+
 ##### What is a Topic in Chatbot
 
 <p>A topic has trigger phrases and conversation nodes. Trigger phrases are phrases, keywords, and questions that a user is likely to type that are related to a specific issue. Conversation nodes define how a bot should respond to a trigger phrase and what it should do.</p>
