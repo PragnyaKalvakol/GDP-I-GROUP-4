@@ -15,5 +15,15 @@ public class DialogFragment extends DialogFragment {
          // Create the AlertDialog object and return it
          return builder.create();
       }
-   }
+   builder.setPositiveButton(R.string.fire, new DialogInterface.OnClickListener() {
+         public void onClick(DialogInterface dialog, int id) {
+            toast.makeText(this,"Congratulations, food has delivered",Toast.LENTH_SHORT).show();
+         }
+      })
+      .setNegativeButton(R.string.cancel, new DialogInterface.OnClickListener() {
+         public void onClick(DialogInterface dialog, int id) {
+            finish();
+    }
+}
+        return builder.create();
 }
