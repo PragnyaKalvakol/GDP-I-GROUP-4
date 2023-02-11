@@ -8,3 +8,13 @@ To use the latest version of the Flutter SDK:
 flutter channel stable
 flutter upgrade
 
+
+To serve your app from localhost in Chrome
+
+flutter run -d chrome
+
+command to generate a release build
+
+flutter build web
+
+
