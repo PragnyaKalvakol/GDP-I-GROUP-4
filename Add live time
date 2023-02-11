@@ -1,0 +1,24 @@
+String formatCurrentLiveTime(DateTime time)
+  {
+    return DateFormat("hh:mm:ss a").format(time);
+  }
+
+  String formatCurrentDate(DateTime date)
+  {
+    return DateFormat("dd MMMM, yyyy").format(date);
+  }
+
+  getCurrentLiveTime()
+  {
+    final DateTime timeNow = DateTime.now();
+    final String liveTime = formatCurrentLiveTime(timeNow);
+    final String liveDate = formatCurrentDate(timeNow);
+
+    if(this.mounted)
+    {
+      setState(() {
+        timeText = liveTime;
+        dateText = liveDate;
+      });
+    }
+  }
