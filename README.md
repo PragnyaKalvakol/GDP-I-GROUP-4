@@ -391,6 +391,8 @@ A chatbot is a type of software that can help customers by automating conversati
 - Select Go to authoring canvas. This is the graphical dialog tree editor that allows you to define bot responses and the overall bot conversation.
 - Select Add node (+) below the node, and add an Ask a question node.
 <img width="375" alt="chatbot" src="https://user-images.githubusercontent.com/98132897/218126059-06703167-48d2-416b-8ebb-70c8813650b6.png">
+<img width="375" alt="trigger phases" src="https://user-images.githubusercontent.com/98135627/218234382-16c07761-3870-43cd-a7af-dfc0eed9275e.png">
+
 
 ##### Features of Chatbot
 
