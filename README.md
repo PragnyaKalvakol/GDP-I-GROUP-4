@@ -383,8 +383,14 @@ A chatbot is a type of software that can help customers by automating conversati
 ##### What is a Topic in Chatbot
 
 <p>A topic has trigger phrases and conversation nodes. Trigger phrases are phrases, keywords, and questions that a user is likely to type that are related to a specific issue. Conversation nodes define how a bot should respond to a trigger phrase and what it should do.</p>
-<img width="375" alt="chatbot" src="https://user-images.githubusercontent.com/98132897/218126059-06703167-48d2-416b-8ebb-70c8813650b6.png">
 
+##### Create a topic
+- In the navigation menu, select Topics, then select New topic at the top of the page.
+- Name your topic and include some trigger phrases for this topic.
+- Select Save topic to add the topic to the topics list.
+- Select Go to authoring canvas. This is the graphical dialog tree editor that allows you to define bot responses and the overall bot conversation.
+- Select Add node (+) below the node, and add an Ask a question node.
+<img width="375" alt="chatbot" src="https://user-images.githubusercontent.com/98132897/218126059-06703167-48d2-416b-8ebb-70c8813650b6.png">
 
 ##### Features of Chatbot
 
