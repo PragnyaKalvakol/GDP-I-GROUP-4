@@ -272,7 +272,7 @@ Each project in Android Studio contains one or more modules with source code fil
 
 #### Dart
 
-Dart is a client-optimized language for fast apps on any platform.
+<p>Dart is a client-optimized language for fast apps on any platform.It is an open source and scalable programming language with many built-in libraries.Dart can be extensively used to create single-page applications.</p>
 
 ##### Dart Advantages
 -  Easy to learn
