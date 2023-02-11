@@ -1,0 +1,10 @@
+To create a new app that includes web support
+
+flutter create loow_admin
+cd loow_admin
+
+To use the latest version of the Flutter SDK:
+
+flutter channel stable
+flutter upgrade
+
