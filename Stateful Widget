@@ -1,3 +1,7 @@
+A Stateful Widget has its own mutable state that it needs to track. It is modified according to the user’s input. Stateless widgets should be used for building parts of User interfaces, especially when the UI doesn’t need to be updated.
+
+
+
 class MyApp extends StatefulWidget {
   const MyApp({Key? key}) : super(key: key);
 
