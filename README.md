@@ -366,6 +366,13 @@ You can build a form in minutes no training necessary, and respondents can fillÂ
 
 A chatbot is a type of software that can help customers by automating conversations and interact with them through messaging platforms.
 
+##### Choose a bot type
+- In the navigation menu, select Create. You can also select Home then select Create a bot.
+- Choose one of the following options:
+  - Use Build for production to create production bots that are 	intended to be deployed to your customers. 
+  - Use Try the unified canvas (preview) to test out the new authoring features in preview. 
+- After selecting an option then start creating a bot.
+
 ##### Create a Bot
 - Name your bot
 - What language will your bot speak
