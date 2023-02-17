@@ -7,6 +7,30 @@
 
      <com.google.android.material.tabs.TabItem
              android:icon="@drawable/ic_android"/>
+             ],
+            indicatorColor: Colors.white38,
+            indicatorWeight: 6,
+            )
+          ),
+        ),
+        body: Container(
+          decoration: const BoxDecoration(
+              gradient: LinearGradient(
+                begin: Alignment.topRight,
+                end: Alignment.bottomLeft,
+                colors: [
+                  Colors.amber,
+                  Colors.cyan,
+                ],
+              )
+          ),
+          child: const TabBarView(
+            children: [
+              LoginScreen(),
+              RegisterScreen(),
+            ],
+          )
+        ),
 
  </com.google.android.material.tabs.TabLayout>
  
