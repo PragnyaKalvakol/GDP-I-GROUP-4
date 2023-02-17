@@ -1,0 +1,5 @@
+How to add flutter webapp to firebase 
+
+In project overview click on settings and we can find a button called add app
+Then click on add app button it will redirect to registration page where the app name should be given later click create 
+The sdk file should be added in index.html to load the firebase in the application
