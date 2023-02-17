@@ -1,0 +1,28 @@
+Load Firebase JavaScript SDK libraries from the CDN (content delivery network).
+
+Copy and paste these scripts into the bottom of your <body> tag, but before you use any Firebase services:
+
+<script type
+<script type="module">
+  // Import the functions you need from the SDKs you need
+  import { initializeApp } from "https://www.gstatic.com/firebasejs/9.17.1/firebase-app.js";
+  import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.17.1/firebase-analytics.js";
+  // TODO: Add SDKs for Firebase products that you want to use
+  // https://firebase.google.com/docs/web/setup#available-libraries
+
+  // Your web app's Firebase configuration
+  // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+  const firebaseConfig = {
+    apiKey: "AIzaSyA4bcFS-Mg9NHxoI-STkyFPPZLwohAn2ck",
+    authDomain: "loowuserapp.firebaseapp.com",
+    projectId: "loowuserapp",
+    storageBucket: "loowuserapp.appspot.com",
+    messagingSenderId: "531685038148",
+    appId: "1:531685038148:web:2cc9ef5c7a01693be58411",
+    measurementId: "G-468C44NKVG"
+  };
+
+  // Initialize Firebase
+  const app = initializeApp(firebaseConfig);
+  const analytics = getAnalytics(app);
+</script>
