@@ -134,6 +134,8 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 <img width="150" src="https://user-images.githubusercontent.com/98132897/216689508-2b183d98-8445-402f-9c13-a53c6bb1413a.png">
 <p> The order Id date, time and the volunteer who has accepted will be generated automatically when the olunteer accepts to delivery food .</p>
 
+<img width="150" src="https://user-images.githubusercontent.com/98132897/219765380-184e6a3d-a64f-4a44-9ed0-6e2c9d5c8384.png">
+<p>When once the food is delivered to the address accepted then the above screen will be appeared. As the food is delivered. Then the volunteer can again go back dashboard.</P>
 
 #### Interface Requirements
 ##### User Interface
