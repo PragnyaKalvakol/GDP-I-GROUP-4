@@ -272,6 +272,11 @@ Each project in Android Studio contains one or more modules with source code fil
 - Easy learning curve.
 - Cost-saving.
 
+##### Advantages of flutter
+- Flutter-based apps are very smooth in their performance which makes for great UX.
+- With a single code base, quality assurance and testing usually takes much less time.
+- Developing in Flutter is very fast and efficient.
+
 #### Dart
 
 <p>Dart is a client-optimized language for fast apps on any platform.It is an open source and scalable programming language with many built-in libraries.Dart can be extensively used to create single-page applications.</p>
