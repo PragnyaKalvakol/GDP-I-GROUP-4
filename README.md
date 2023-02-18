@@ -449,7 +449,8 @@ A chatbot is a type of software that can help customers by automating conversati
 <p>When using fragments, the app bar can be implemented as an ActionBar that is owned by the host activity or a toolbar within your fragment's layout. Ownership of the app bar varies depending on the needs of your app.</p>
 
 #### Register 
-<p>It is the page which allows the user to type in the details like name,password,emailid,contact details and location details.</p> 
+<p>It is the page which allows the user to type in the details like name,password,emailid,contact details and location details.
+Our basic register page has fields like name, email, password, confirm password, phone and location</p> 
 
 #### Plugins
 <p>UI Plugins provide a way to include Javascript and CSS files in various parts of the Rundeck GUI's HTML pages.</p>
