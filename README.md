@@ -245,9 +245,6 @@ Each project in Android Studio contains one or more modules with source code fil
 
 <img width="375" alt ="power automate email flow" src= "https://user-images.githubusercontent.com/98142665/213960750-be36a97c-0c02-49f0-80b0-48e47fedbcaf.png" >
 
-
-
-
 ##### Flutter
 <p>Flutter is framework created by google. </p>
 <p>A cross-platform framework used to develop application for :</p>
@@ -276,6 +273,11 @@ Each project in Android Studio contains one or more modules with source code fil
 - Flutter-based apps are very smooth in their performance which makes for great UX.
 - With a single code base, quality assurance and testing usually takes much less time.
 - Developing in Flutter is very fast and efficient.
+
+##### Disadvantages of flutter
+- Flutter-based apps are not supported by browsers as of now. This means no web apps.
+- While Flutter is popular, it has not been around long enough to have a huge resource base. Therefore, your team will need to write a lot of stuff from scratch.
+- Dart is not a popular language and if you want to work with Flutter you will have to learn how to use it.
 
 #### Dart
 
