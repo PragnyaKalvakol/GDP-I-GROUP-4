@@ -463,6 +463,11 @@ A chatbot is a type of software that can help customers by automating conversati
 <p>It is the page which allows the user to type in the details like name,password,emailid,contact details and location details.
 Our basic register page has fields like name, email, password, confirm password, phone and location</p> 
 
+##### Sessions
+<p>Session help you when want to store user data outside your application, so that when the next time user use your application, you can easily get back his details and perform accordingly. This can be done in many ways. But the most easiest and nicest way of doing this is through Shared Preferences.<p>
+<p>Shared Preferences allow you to save and retrieve data in the form of key,value pair. In order to use shared preferences, you have to call a method getSharedPreferences() that returns a SharedPreference instance pointing to the file that contains the values of preferences.</p>
+SharedPreferences sharedpreferences = getSharedPreferences(MyPREFERENCES, Context.MODE_PRIVATE);
+
 #### Plugins
 <p>UI Plugins provide a way to include Javascript and CSS files in various parts of the Rundeck GUI's HTML pages.</p>
 <p>UI Plugin Page Configurations consist of:
