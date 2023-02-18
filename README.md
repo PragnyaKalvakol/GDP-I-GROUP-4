@@ -288,6 +288,10 @@ Each project in Android Studio contains one or more modules with source code fil
 - The absence of native support.
 #### Dart Tools
 <img width="375" alt="Dart Tools" src="https://user-images.githubusercontent.com/98137201/218216374-011eaad6-5662-4d5d-bef4-c6d465c956bc.png">
+<p>Dart editor: This editor is similar to the sublime text and notepad++.</br>
+Dartium: A web browser with dart included.</br>
+Dart2js: Used ti convert data script to java script.</br>
+Pub: Package Manager.</p>
 
 
 #### Dart Features
