@@ -283,6 +283,8 @@ Each project in Android Studio contains one or more modules with source code fil
 
 <p>Dart is a client-optimized language for fast apps on any platform.It is an open source and scalable programming language with many built-in libraries.Dart can be extensively used to create single-page applications.</p>
 
+##### Importance of Dart
+<p>Dart is a client-optimized language for creating quick programs on any environment. Its objective is to provide the highest effective software program for inter construction along with a versatile executing environment platform for application architectures. Dart is most widely used in single page application like web application, website.</p>
 ##### Dart Advantages
 -  Easy to learn
 -  Availability of documentation
