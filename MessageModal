@@ -1,3 +1,8 @@
+Navigate to the app > java > LOOW package 
+		            > MessageModal
+			      > Java class 
+
+
 public class MessageModal {
 
 	// string to store our message and sender
