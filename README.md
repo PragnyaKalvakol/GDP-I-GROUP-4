@@ -151,6 +151,13 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 ##### Communication Interface
 <p> The application supports Google Chrome, Mozilla Firefox web browsers.</P>
 
+#### Functional Requirements
+- Admin module - Maps the restaurant and orphanage databases and checks the orders and confirms it. And takes the delivery report. 
+- Restaurant user: Posts the availability of the food. 
+- Volunteer: Goes, picks up the food posted by the user and delivers it to the needy. 
+- Orphanage: Takes the food delivered by volunteer.
+
+
 ##### Flowchart
 ![flowchart](https://user-images.githubusercontent.com/98142665/189464754-b9e92f28-1a30-41d6-b92b-24e8def208b9.jpg)
 
