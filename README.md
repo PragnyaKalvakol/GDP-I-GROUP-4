@@ -157,6 +157,15 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 - Volunteer: Goes, picks up the food posted by the user and delivers it to the needy. 
 - Orphanage: Takes the food delivered by volunteer.
 
+#### Non-Functional Requirements
+The performance requirements refer to static numerical requirements placed on the interaction between the users and the software.
+- Response Time: Average response time shall be less than 2 sec. 
+- Recovery Time: In case of system failure, redundant system shall resume operations within30seconds. Average repair time shall be less than 1 hr. 
+- Start-Up/Shutdown Time: The system shall be operational within 1 minute of starting up. 
+- Capacity: The system accommodates 4000 Concurrent Users. 
+- Utilization of Resources: The system shall store in the database no more than one million transactions. If the database grows over this limit, old transaction shall be backed up and deleted from the operational database.
+
+
 
 ##### Flowchart
 ![flowchart](https://user-images.githubusercontent.com/98142665/189464754-b9e92f28-1a30-41d6-b92b-24e8def208b9.jpg)
