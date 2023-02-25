@@ -51,16 +51,10 @@ flutter run
 
 
 
+Next Steps :
 
-
-
-
-
-
-
-
-
-
-
-
-
+- Get hands-on experience with the Firebase Flutter Codelab.
+- Prepare to launch your app:
+     - Set up budget alerts for your project in the Google Cloud Console.
+     - Monitor the Usage and billing dashboard in the Firebase console to get an overall picture of your project's usage across multiple Firebase services.
+     - Review the Firebase launch checklist.
