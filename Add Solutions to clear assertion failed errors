@@ -1,0 +1,10 @@
+Solution 1
+Here is a better solution so you do not have to import the project again.
+
+Go to: File > Invalidate Caches/Restart and select Invalidate and Restart
+
+Solution 2
+Just remove .idea files from project. And import project again.
+
+Solution 3
+Or update The SDK Build Tools, in Android SDK.
