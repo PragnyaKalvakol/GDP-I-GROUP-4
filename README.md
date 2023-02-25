@@ -486,6 +486,12 @@ Our basic register page has fields like name, email, password, confirm password,
 <p>Shared Preferences allow you to save and retrieve data in the form of key,value pair. In order to use shared preferences, you have to call a method getSharedPreferences() that returns a SharedPreference instance pointing to the file that contains the values of preferences.</p>
 SharedPreferences sharedpreferences = getSharedPreferences(MyPREFERENCES, Context.MODE_PRIVATE);
 
+##### Advantages of sessions
+- It stores user states and data to all over the application.
+- Easy mechanism to implement and we can store any kind of object.
+- Stores every user data separately.
+- Session is secure and transparent from user because session object is stored on the server.
+
 #### Plugins
 <p>UI Plugins provide a way to include Javascript and CSS files in various parts of the Rundeck GUI's HTML pages.</p>
 <p>UI Plugin Page Configurations consist of:
