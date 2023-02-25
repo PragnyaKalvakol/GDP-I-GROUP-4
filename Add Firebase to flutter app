@@ -39,5 +39,28 @@ flutter run
 
 
 
+Step 4:
+Add Firebase plugins
+
+- From your Flutter project directory, run the following command:
+flutter pub add PLUGIN_NAME
+- From your Flutter project directory, run the following command:
+flutterfire configure
+- Once complete, rebuild your Flutter project:
+flutter run
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
