@@ -17,3 +17,27 @@ Configure your apps to use Firebase
 - Use the FlutterFire CLI to configure your Flutter apps to connect to Firebase.
 - From your Flutter project directory, run the following command to start the app configuration workflow:
 flutterfire configure
+
+
+
+Step 3:
+Initialize Firebase in your app
+
+- From your Flutter project directory, run the following command to install the core plugin:
+flutter pub add firebase_core
+- From your Flutter project directory, run the following command to ensure that your Flutter app's Firebase configuration is up-to-date:
+flutterfire configure
+- In your lib/main.dart file, import the Firebase core plugin and the configuration file you generated earlier:
+import 'package:firebase_core/firebase_core.dart';
+import 'firebase_options.dart';
+- Also in your lib/main.dart file, initialize Firebase using the DefaultFirebaseOptions object exported by the configuration file:
+await Firebase.initializeApp(
+  options: DefaultFirebaseOptions.currentPlatform,
+);
+- Rebuild your Flutter application:
+flutter run
+
+
+
+
+
