@@ -492,6 +492,10 @@ SharedPreferences sharedpreferences = getSharedPreferences(MyPREFERENCES, Contex
 - Stores every user data separately.
 - Session is secure and transparent from user because session object is stored on the server.
 
+##### Disadvantages of sessions
+- Performance overhead in case of large number of user, because of session data stored in server memory.
+- Overhead involved in serializing and De-Serializing session data because in case of StateServer and SQLServer session mode we need to serialize the object before store.
+
 #### Plugins
 <p>UI Plugins provide a way to include Javascript and CSS files in various parts of the Rundeck GUI's HTML pages.</p>
 <p>UI Plugin Page Configurations consist of:
