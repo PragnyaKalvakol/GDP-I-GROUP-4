@@ -1,0 +1,6 @@
+Install the Flutter and Dart plugins
+Start Android Studio.<br>
+Open plugin preferences (Preferences > Plugins as of v3.6.3.0 or later).<br>
+Select the Flutter plugin and click Install.<br>
+Click Yes when prompted to install the Dart plugin.<br>
+Click Restart when prompted.<br>
