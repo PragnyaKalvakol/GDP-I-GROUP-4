@@ -263,6 +263,7 @@ Each project in Android Studio contains one or more modules with source code fil
 
 ##### Flutter
 <p>Flutter is framework created by google. </p>
+<p>There are many advantages of Flutter as a cross platform mobile development framework, including the ability to create web applications that have a native look and feel on both Android and iOS devices, reduced development time and costs, and increased flexibility.</p>
 <p>A cross-platform framework used to develop application for :</p>
 
 - Android
