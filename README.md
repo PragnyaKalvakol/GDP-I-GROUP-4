@@ -321,7 +321,16 @@ Pub: Package Manager.</p>
 
 #### Dart Features
 <p>Open Source. Dart is an open-source programming language, which means it is freely available.<br>
-Platform Independent. Dart supports all primary operating systems such as Windows, Linux, Macintosh, etc</p>
+Platform Independent. Dart supports all primary operating systems such as Windows, Linux, Macintosh, etc<br>
+•	Community
+•	Platform independent
+•	Object oriented.
+•	Object
+•	Type safe
+•	Extensive libraries
+•	Easy to learn
+•	Concurrency
+</p>
 
 #### Widgets
 <p>Widgets enable users to interact with an Android Studio application page. There are various kinds of widgets, such as Buttons and TextViews. To see all the widgets at your disposal, create a new application project called “Widgets” and select "empty activity". Call your activity “MainActivity”.</p>
