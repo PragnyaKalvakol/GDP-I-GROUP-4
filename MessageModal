@@ -32,3 +32,18 @@ public class MessageModal {
 		this.sender = sender;
 	}
 }
+
+{
+        {
+	      {
+AlertDialog dialog = builder.create();
+ }
+AlertDialog.Builder builder = new AlertDialog.Builder(getActivity());
+ }
+// Chain together various setter methods to set the dialog characteristics
+{
+builder.setMessage(R.string.dialog_message)
+       .setTitle(R.string.dialog_title);
+       }
+           }
+       
