@@ -516,6 +516,14 @@ styles: A single file, or a list of files. Thes are relative to the resources di
 requires: A single or list of other UI plugin provider IDs.</p>
 <p>Best plugins in android studio are ADB Idea, Key Promoter X, Android Input, Wrap-up and CodeGlance.</p>
 
+Plugins Installation:
+- Launch Android Studio application
+- Choose Project Settings
+- Choose Plugin from disk, if on disk then choose that location of *.jar
+- Click on Apply and OK.
+- Then Android studio will ask for Restart.
+
+
 #### Project Documentation
 <p>Here we are using LaTeX for our documentation.It is a tool for typesetting professional-looking documents.</p>
 
