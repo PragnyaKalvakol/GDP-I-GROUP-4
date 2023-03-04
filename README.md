@@ -499,6 +499,11 @@ SharedPreferences sharedpreferences = getSharedPreferences(MyPREFERENCES, Contex
 ##### Importance of sessions
 <p>Sessions can be analyzed in a way that reveals how users truly interact with an app. For example, session data can determine the average length of time users spend on an app as well as the time of day users are most likely to engage with a particular app. By combining analysis of session metadata (e.g., session length) with usage data (e.g., tracking certain in-app events) and then analyzing behavior across a user base, app businesses can identify opportunities or problems within their apps that can be optimized for improved performance down the line.</p>
 
+##### Examples of sessions
+- E-commerce apps
+- Mid-core game developers 
+- Social media apps
+
 ##### Advantages of sessions
 - It stores user states and data to all over the application.
 - Easy mechanism to implement and we can store any kind of object.
