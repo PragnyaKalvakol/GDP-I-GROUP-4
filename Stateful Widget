@@ -4,6 +4,9 @@ There are two primary categories of StatefulWidgets.
 - The first is one which allocates resources in State.initState and disposes of them in State.dispose, but which does not depend on InheritedWidgets or call State.setState. 
 - Such widgets are commonly used at the root of an application or page, and communicate with subwidgets via ChangeNotifiers, Streams, or other such objects.
 
+- The second category is widgets that use State.setState or depend on InheritedWidgets. 
+- These will typically rebuild many times during the application's lifetime, and it is therefore important to minimize the impact of rebuilding such a widget.
+
 class MyApp extends StatefulWidget {
   const MyApp({Key? key}) : super(key: key);
 
