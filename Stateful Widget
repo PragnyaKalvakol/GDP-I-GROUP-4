@@ -1,6 +1,8 @@
 A Stateful Widget has its own mutable state that it needs to track. It is modified according to the user’s input. Stateless widgets should be used for building parts of User interfaces, especially when the UI doesn’t need to be updated.
 
-
+There are two primary categories of StatefulWidgets.
+- The first is one which allocates resources in State.initState and disposes of them in State.dispose, but which does not depend on InheritedWidgets or call State.setState. 
+- Such widgets are commonly used at the root of an application or page, and communicate with subwidgets via ChangeNotifiers, Streams, or other such objects.
 
 class MyApp extends StatefulWidget {
   const MyApp({Key? key}) : super(key: key);
