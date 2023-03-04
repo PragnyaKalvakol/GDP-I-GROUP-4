@@ -496,6 +496,9 @@ Our basic register page has fields like name, email, password, confirm password,
 <p>Shared Preferences allow you to save and retrieve data in the form of key,value pair. In order to use shared preferences, you have to call a method getSharedPreferences() that returns a SharedPreference instance pointing to the file that contains the values of preferences.</p>
 SharedPreferences sharedpreferences = getSharedPreferences(MyPREFERENCES, Context.MODE_PRIVATE);
 
+##### Importance of sessions
+<p>Sessions can be analyzed in a way that reveals how users truly interact with an app. For example, session data can determine the average length of time users spend on an app as well as the time of day users are most likely to engage with a particular app. By combining analysis of session metadata (e.g., session length) with usage data (e.g., tracking certain in-app events) and then analyzing behavior across a user base, app businesses can identify opportunities or problems within their apps that can be optimized for improved performance down the line.</p>
+
 ##### Advantages of sessions
 - It stores user states and data to all over the application.
 - Easy mechanism to implement and we can store any kind of object.
