@@ -8,3 +8,9 @@ Just remove .idea files from project. And import project again.
 
 Solution 3
 Or update The SDK Build Tools, in Android SDK.
+
+Tried with this solution
+> open your index.html > remove "/" from <base href="/"> 
+
+Try to remove that line <base href="/"> and run in debug mode. If it works then "flutter build web" then deploy and if not working then, when the blank page is showing. Open the browser's console and check for any error. – 
+
