@@ -170,22 +170,6 @@ The performance requirements refer to static numerical requirements placed on th
 ##### Flowchart
 ![flowchart](https://user-images.githubusercontent.com/98142665/189464754-b9e92f28-1a30-41d6-b92b-24e8def208b9.jpg)
 
-##### Restaurant Entity
-<img width="350" alt="Restaurants entity" src="https://user-images.githubusercontent.com/98137201/189466028-f949fd28-fbf1-492c-808d-abaa16ac96f8.png">
-
-##### Orphanage Entity
-<img width="375" alt="Orphanage entity" src="https://user-images.githubusercontent.com/98132897/190834933-6936fd26-47ac-4895-8bc3-b6000a5c8834.png">
-
-##### Volunteer Entity
-
-<img width="376" alt="Volunteer" src="https://user-images.githubusercontent.com/98132897/192072944-6fee3f74-1d0b-4570-bd8d-cddfb19d1c8b.png">
-
-##### Food Request Entity
-<img width="455" alt="Food request entity" src="https://user-images.githubusercontent.com/98132897/195960663-7998b164-0fa5-4c38-93aa-34038d39f40b.png">
-
-##### Admin Entity
-<img width="450" alt="admin entity" src="https://user-images.githubusercontent.com/98132897/195960397-733e9a73-59db-4344-99e2-9bc30b9e6d61.png">
-
 ##### ER Diagram
 <img width="500" alt="ER Diagram" src="https://user-images.githubusercontent.com/98132897/192071174-7d05f6e3-93de-4248-b11a-5202db71539d.jpeg">
 
