@@ -286,6 +286,7 @@ Each project in Android Studio contains one or more modules with source code fil
 
 ##### Importance of Dart
 <p>Dart is a client-optimized language for creating quick programs on any environment. Its objective is to provide the highest effective software program for inter construction along with a versatile executing environment platform for application architectures. Dart is most widely used in single page application like web application, website.</p>
+
 ##### Dart Advantages
 -  Easy to learn
 -  Availability of documentation
@@ -497,6 +498,8 @@ SharedPreferences sharedpreferences = getSharedPreferences(MyPREFERENCES, Contex
 ##### Disadvantages of sessions
 - Performance overhead in case of large number of user, because of session data stored in server memory.
 - Overhead involved in serializing and De-Serializing session data because in case of StateServer and SQLServer session mode we need to serialize the object before store.
+##### How an app maintain its session?
+<p> To maintain state, the mobile app must first authenticate the user through the backend. In response to successful authentication, the server issues a session cookie to the mobile app. The mobile app adds this cookie to all future service transactions between the mobile app and the server.</p>
 
 #### Plugins
 <p>UI Plugins provide a way to include Javascript and CSS files in various parts of the Rundeck GUI's HTML pages.</p>
