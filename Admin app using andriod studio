@@ -7,3 +7,10 @@ Step 1. Create a new project
 - There will be two default files named activity_main.xml and MainActivity.java.
 
 
+
+Step 2. Make an admin app
+
+- Follow the path File > New > New Module.
+- Now name it as Admin_app and select the type of activity you want for this app according to your need and then finish.
+
+
