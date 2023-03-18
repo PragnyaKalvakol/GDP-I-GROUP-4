@@ -17,3 +17,6 @@ Try to remove that line <base href="/"> and run in debug mode. If it works then 
 Try to modify file
 webView.getSettings().setDomStorageEnabled(true)
 
+try this in your manifest may be your problem should be solved
+
+android:usesCleartextTraffic="true"
