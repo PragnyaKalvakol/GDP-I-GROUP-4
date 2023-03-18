@@ -1,0 +1,9 @@
+Step by Step Implementation
+
+Step 1. Create a new project
+
+- Open a new project.
+- This app which will be made through this project is by default a client app.
+- There will be two default files named activity_main.xml and MainActivity.java.
+
+
