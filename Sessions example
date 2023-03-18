@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 
-Android manifest file foe sessions:
+Android manifest file for sessions:
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.sharedpreferencesexample">
@@ -59,3 +59,36 @@ Android manifest file foe sessions:
         <activity android:name=".DetailsActivity" android:label="Shared Preferences - Details"></activity>
     </application>
 </manifest>
+
+Xml file for implementing sessions in android:
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/fstTxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="150dp"
+        android:text="UserName" />
+    <EditText
+        android:id="@+id/txtName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="100dp"
+        android:ems="10"/>
+    <TextView
+        android:id="@+id/secTxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Password"
+        android:layout_marginLeft="100dp" />
+    <EditText
+        android:id="@+id/txtPwd"
+        android:inputType="textPassword"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="100dp"
+        android:ems="10" />
+</LinearLayout>
