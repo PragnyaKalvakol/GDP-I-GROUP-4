@@ -165,6 +165,10 @@ The performance requirements refer to static numerical requirements placed on th
 - Capacity: The system accommodates 4000 Concurrent Users. 
 - Utilization of Resources: The system shall store in the database no more than one million transactions. If the database grows over this limit, old transaction shall be backed up and deleted from the operational database.
 
+#### Safety Requirements
+<p>The database may get crashed at any time due to virus or OS failure. Therefore, it is required to take database backup so that database is not lost. The group-based policy for access control of data project will not affect the data stored outside of its server will not affect any other application installed.</p>
+
+
 
 
 ##### Flowchart
