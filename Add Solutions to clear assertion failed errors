@@ -14,3 +14,6 @@ Tried with this solution
 
 Try to remove that line <base href="/"> and run in debug mode. If it works then "flutter build web" then deploy and if not working then, when the blank page is showing. Open the browser's console and check for any error. – 
 
+Try to modify file
+webView.getSettings().setDomStorageEnabled(true)
+
