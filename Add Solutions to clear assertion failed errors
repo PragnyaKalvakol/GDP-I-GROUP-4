@@ -20,3 +20,15 @@ webView.getSettings().setDomStorageEnabled(true)
 try this in your manifest may be your problem should be solved
 
 android:usesCleartextTraffic="true"
+
+
+I'm trying to build a flutter web app. Everything works fine while developing locally on Windows 10, but when I build and deploy the app, it only works in my desktop Chrome browser.
+
+Run flutter channel master.
+Run flutter upgrade.
+Run flutter config --enable-web.
+Run flutter create mywebapp.
+Run cd webapp.
+Run flutter build web.
+Deploy to server or host locally (e.g. cd build\web and `http-server).
+Connect to  browser(Android/iOS).
