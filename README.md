@@ -331,6 +331,12 @@ Platform Independent. Dart supports all primary operating systems such as Window
 - Upgrade Issues and Compatibility.
 - Developer Lock-In.
 - Lack of Understanding.
+- 
+##### Types of Widgets used
+- Information widgets
+- Collection widgets
+- Control widgets
+- Hybrid widgets
 
 ##### Firebase
 
