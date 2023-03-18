@@ -91,4 +91,10 @@ Xml file for implementing sessions in android:
         android:layout_height="wrap_content"
         android:layout_marginLeft="100dp"
         android:ems="10" />
+     <Button
+        android:id="@+id/btnLogin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="100dp"
+        android:text="Login" />
 </LinearLayout>
