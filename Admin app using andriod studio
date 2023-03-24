@@ -22,3 +22,12 @@ Step 4. Now both the apps are ready to work and you can also run each of these a
 - To run the client app. Click on the app as shown below and then run the application.
 - To run the admin app. Click on the app and then run the application.
 
+
+
+Step 5. To generate separate Apk’s admin app
+
+Follow the path shown below.
+- Select APK and click on next.
+- Select the apk which you want to build either client or admin and click on next.
+
+
