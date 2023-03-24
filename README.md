@@ -546,5 +546,6 @@ Plugins Installation:
 - Multi-lingual typesetting.
 - Typesetting journal articles, technical reports, books, and slide presentations.
 - Advanced typesetting of mathematics with AMS-LaTeX.
+#### How to use latex
 
-
+<img width="375" alt="Use of LaTeX" src= "https://user-images.githubusercontent.com/98137201/227625957-d438aa40-6373-48be-8498-ab89224775f6.png">
