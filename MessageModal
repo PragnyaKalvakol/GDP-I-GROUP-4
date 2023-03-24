@@ -47,3 +47,11 @@ builder.setMessage(R.string.dialog_message)
        }
            }
        
+<button id="openModal">Open Modal</button>
+
+<div id="messageModal" class="modal">
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <p>Message goes here...</p>
+  </div>
+</div>
