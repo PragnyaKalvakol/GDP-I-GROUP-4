@@ -1,3 +1,15 @@
+This will display a dialog box with the message "This is an alert message!" and an OK button to close the dialog box. You can modify the message text to display the desired alert message.
+alert("This is an alert message!");
+<button id="openAlert">Open Alert</button>
+
+<div id="alertBox" class="alert">
+  <div class="alert-content">
+    <span class="close">&times;</span>
+    <p id="alertMessage">Alert message goes here...</p>
+    <button id="alertOK">OK</button>
+  </div>
+</div>
+
 Widget build(BuildContext context) {
     return AlertDialog(
       key: key,
