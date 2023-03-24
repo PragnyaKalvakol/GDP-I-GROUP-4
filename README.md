@@ -219,7 +219,15 @@ Each project in Android Studio contains one or more modules with source code fil
 <p> Power Automate, formerly Microsoft Flow, is an online tool within the Microsoft 365 applications and add-ins, used for the creation of automated workflows between apps and services to synchronize files, get notifications, and collect data.</p>
 
 ##### Benefits of Power Automate
-<p>Streamline everyday tasks,improve workforce productivity and automate tasks across business systems.</p>
+<p>
+•	Streamline everyday tasks.<br>
+•	Improve workforce productivity.<br>
+•	Automate tasks across business systems. <br>
+•	Increase employee satisfaction and reduce human error. <br>
+•	Save time with decision making.<br>
+•	Use predefined templates to create a flow.<br>
+•	Accessible anywhere.<br>
+</p>
 
 ##### Features of Power Automate
 <img width="375" alt="Features of Power Automate" src= "https://user-images.githubusercontent.com/98132897/203895424-93f58f35-e004-4ef6-9e4c-f2bec751baed.jpg">
