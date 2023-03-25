@@ -19,3 +19,9 @@ How to create images in LaTeX:
 \caption{Main Dart}
 \label{}
 \end{figure}
+
+Linking Web Addresses in LaTeX
+Links to a web address or email can added to a LATEX file using the \url command to display the actual link or \href to use a hidden link and show a word/sentence instead.
+- \href{http://www.latex.com}{Refererenceslink}
+- \url{http://www.latex.com}
+
