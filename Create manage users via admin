@@ -1,0 +1,3 @@
+The Firebase Admin SDK provides an API for managing your Firebase Authentication users with elevated privileges. 
+The admin user management API gives you the ability to programmatically complete the following tasks from a secure server environment
+
