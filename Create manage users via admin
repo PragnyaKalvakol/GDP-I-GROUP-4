@@ -1,3 +1,9 @@
 The Firebase Admin SDK provides an API for managing your Firebase Authentication users with elevated privileges. 
-The admin user management API gives you the ability to programmatically complete the following tasks from a secure server environment
+The admin user management API gives you the ability to programmatically complete the following tasks from a secure server environment.
+
+- Create new users without any throttling or rate limiting.
+- Look up users by different criteria such as uid, email or phone number.
+- List all the users of a specified project in batches.
+- Access user metadata including account creation date and last sign-in date.
+- Delete users without requiring their existing password
 
