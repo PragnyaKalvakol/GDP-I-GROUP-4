@@ -1,0 +1,68 @@
+\documentclass[conference]{IEEEtran}
+\IEEEoverridecommandlockouts
+% The preceding line is only needed to identify funding in the first footnote. If that is unneeded, please comment it out.
+\usepackage{cite}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{algorithmic}	
+\usepackage{graphicx}
+\usepackage{textcomp}
+\usepackage{xcolor}
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+	
+
+\begin{document}
+\title{LEFT OVER ON WHEELS\\
+{\footnotesize \textsuperscript{}Feed the needy}
+\thanks{Identify applicable funding agency here. If none, delete this.}
+}
+
+\author{\IEEEauthorblockN{ Dr.Chandra Mouli Kotteti}
+\IEEEauthorblockA{\textit{Applied Computer Science} \\
+\textit{Northwest Missouri State University}\\
+Maryville, USA \\
+CHANDRA@nwmissouri.edu}
+\and
+\IEEEauthorblockN{ Kavya Mandlem}
+\IEEEauthorblockA{\textit{Applied Computer Science} \\
+\textit{Northwest Missouri State University}\\
+Maryville, USA \\
+s546900@nwmissouri.edu}
+\and
+\IEEEauthorblockN{ Pragnya Kalvakol}
+\IEEEauthorblockA{\textit{Applied Computer Science} \\
+\textit{Northwest Missouri State University}\\
+Maryville, USA \\
+s546955@nwmissouri.edu}
+\and
+\IEEEauthorblockN{ Reethu Gopireddy}
+\IEEEauthorblockA{\textit{Applied Computer Science} \\
+\textit{Northwest Missouri State University}\\
+Maryville, USA \\
+s546954@nwmissouri.edu}
+\and
+\IEEEauthorblockN{ Sreeja Kumbhum}
+\IEEEauthorblockA{\textit{Applied Computer Science} \\
+\textit{Northwest Missouri State University}\\
+Maryville, USA \\
+s547055@nwmissouri.edu}
+\and
+\IEEEauthorblockN{ Thaarani Yerramsetty}
+\IEEEauthorblockA{\textit{Applied Computer Science} \\
+\textit{Northwest Missouri State University}\\
+Maryville, USA \\
+s547062@nwmisssouri.edu}
+}
+
+\maketitle
+
+
+
+\section{\textbf{ABSTRACT}}
+Our society frequently struggles with food waste. Managing food waste is vital because it can increase our long-term sustainability of both the climate and the economy. We have recognized the use of digital technology to lessen food waste management and have developed an android mobile application that enables restaurants to donate and share their leftovers to needy people. Users of this application can sign up, sign in, display, add, and remove items from their carts as well as log out and view their items. Firebase storage and a real-time database are both used by this application. Any user can be able to see the availability of food which was updated by the restaurants. And they can request food, which is available for pick-up by a volunteer.
+Centralized computing is being forced onto the software industry. In recent years, mobile phone apps have become increasingly popular. Android is currently used on countless thousands of android platforms in over 190 countries around the globe, making it the most widely used mobile platform. The most widely used mobile platform is Android, and its user base is growing quickly because of the nearly 1 million new Android devices that are bought daily by users who use them right away to access a variety of digital applications and material, including games and applications. As a result, we used Android Studio to create the "LOOW App" android application, which basically forms a bridge between restaurants and orphanages.
+In this we have used Flutter, which is Google's UI toolkit for producing stunning, natively built applications from a single codebase for Android, the web, and desktops. Google's mobile app development platform is called Firebase. An end-to-end development environment, a speedier time to market for developing apps, and scalable infrastructure are some of its advantages. For developing, testing, deploying, and managing apps and services through Google-managed data centers, Google launched their Firebase cloud computing service.
+Through this app, we can aid poor communities or needy organizations in their fight against malnutrition and hotels to donate food to those communities. We can put these items to use by giving them to charities or organizations that support the less fortunate, such as orphanages or old age homes.
+The product is an android application that tries to create a connection between restaurants and charity houses or needy households to facilitate the donation of extra food. Additionally, volunteers who support our effort assist in transporting food from restaurants to orphans. People who want to provide money to those in need can use this program to do so by using PayPal.
+
+\end{document}
