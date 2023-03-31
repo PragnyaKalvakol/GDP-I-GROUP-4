@@ -2,3 +2,11 @@ Steps to Implement the Materialistic Modern Dashboard in Android
 
 Step 1: Create an empty activity project
 
+
+Step 2: Adding the required dependency
+- Add the following material design dependency to the app level gradle file. And click on the “Sync Now” button which appears in the top right corner.
+- Make sure the system is connected to the network so that Android Studio can download all the required files.
+
+implementation ‘com.google.android.material:material:1.2.1’
+
+
