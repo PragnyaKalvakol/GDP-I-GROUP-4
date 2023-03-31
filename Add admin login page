@@ -8,4 +8,20 @@ User? currentAdmin;
     {
       //success
       currentAdmin = fAuth.user;
-    })
+    }).catchError((onError)
+    {
+      //in case of error
+      //display error message
+      final snackBar = SnackBar(
+        content: Text(
+          "Error Occured: " + onError.toString(),
+          style: const TextStyle(
+            fontSize: 36,
+            color: Colors.black,
+          ),
+        ),
+        backgroundColor: Colors.cyan,
+        duration: const Duration(seconds: 5),
+      );
+      ScaffoldMessenger.of(context).showSnackBar(snackBar);
+    });
