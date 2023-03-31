@@ -532,6 +532,12 @@ Plugins Installation:
 - Hyperlinking with hyperref
 - Creating graphics elements with TikZ
 
+#### LaTex vs Word processor
+- High typeset quality
+- Easy to include math formulas
+- Source file format id not bounded to a particular OS or platform
+- Latex implementations exists for all platforms (DOS, Windows, Unices,..)
+- Latex is free
 
 
 
