@@ -494,31 +494,6 @@ A chatbot is a type of software that can help customers by automating conversati
 <p>It is the page which allows the user to type in the details like name,password,emailid,contact details and location details.
 Our basic register page has fields like name, email, password, confirm password, phone and location</p> 
 
-##### Sessions
-<p>Session help you when want to store user data outside your application, so that when the next time user use your application, you can easily get back his details and perform accordingly. This can be done in many ways. But the most easiest and nicest way of doing this is through Shared Preferences.<p>
-<p>Shared Preferences allow you to save and retrieve data in the form of key,value pair. In order to use shared preferences, you have to call a method getSharedPreferences() that returns a SharedPreference instance pointing to the file that contains the values of preferences.</p>
-SharedPreferences sharedpreferences = getSharedPreferences(MyPREFERENCES, Context.MODE_PRIVATE);
-
-##### Importance of sessions
-<p>Sessions can be analyzed in a way that reveals how users truly interact with an app. For example, session data can determine the average length of time users spend on an app as well as the time of day users are most likely to engage with a particular app. By combining analysis of session metadata (e.g., session length) with usage data (e.g., tracking certain in-app events) and then analyzing behavior across a user base, app businesses can identify opportunities or problems within their apps that can be optimized for improved performance down the line.</p>
-
-##### Examples of sessions
-- E-commerce apps
-- Mid-core game developers 
-- Social media apps
-
-##### Advantages of sessions
-- It stores user states and data to all over the application.
-- Easy mechanism to implement and we can store any kind of object.
-- Stores every user data separately.
-- Session is secure and transparent from user because session object is stored on the server.
-
-##### Disadvantages of sessions
-- Performance overhead in case of large number of user, because of session data stored in server memory.
-- Overhead involved in serializing and De-Serializing session data because in case of StateServer and SQLServer session mode we need to serialize the object before store.
-##### How an app maintain its session?
-<p> To maintain state, the mobile app must first authenticate the user through the backend. In response to successful authentication, the server issues a session cookie to the mobile app. The mobile app adds this cookie to all future service transactions between the mobile app and the server.</p>
-
 #### Plugins
 <p>UI Plugins provide a way to include Javascript and CSS files in various parts of the Rundeck GUI's HTML pages.</p>
 <p>UI Plugin Page Configurations consist of:
