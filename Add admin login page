@@ -25,3 +25,34 @@ User? currentAdmin;
       );
       ScaffoldMessenger.of(context).showSnackBar(snackBar);
     });
+
+if(currentAdmin != null)
+    {
+      //check if that admin record also exists in the admins collection in firestore database
+      await FirebaseFirestore.instance
+          .collection("admins")
+          .doc(currentAdmin!.uid)
+          .get().then((snap)
+      {
+        if(snap.exists)
+        {
+          Navigator.push(context, MaterialPageRoute(builder: (c)=> const HomeScreen()));
+        }
+        else
+        {
+          SnackBar snackBar = const SnackBar(
+            content: Text(
+              "No record found, you are not an admin.",
+              style: TextStyle(
+                fontSize: 36,
+                color: Colors.black,
+              ),
+            ),
+            backgroundColor: Colors.cyan,
+            duration: Duration(seconds: 6),
+          );
+          ScaffoldMessenger.of(context).showSnackBar(snackBar);
+        }
+      });
+    }
+  }
