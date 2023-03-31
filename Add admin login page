@@ -1,0 +1,11 @@
+Checking the current user is admin or not
+
+User? currentAdmin;
+    await FirebaseAuth.instance.signInWithEmailAndPassword(
+      email: adminEmail,
+      password: adminPassword,
+    ).then((fAuth)
+    {
+      //success
+      currentAdmin = fAuth.user;
+    })
