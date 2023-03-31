@@ -65,4 +65,24 @@ In this we have used Flutter, which is Google's UI toolkit for producing stunnin
 Through this app, we can aid poor communities or needy organizations in their fight against malnutrition and hotels to donate food to those communities. We can put these items to use by giving them to charities or organizations that support the less fortunate, such as orphanages or old age homes.
 The product is an android application that tries to create a connection between restaurants and charity houses or needy households to facilitate the donation of extra food. Additionally, volunteers who support our effort assist in transporting food from restaurants to orphans. People who want to provide money to those in need can use this program to do so by using PayPal.
 
+\vspace{1\baselineskip}
+\section{\textbf{INTRODUCTION}}
+
+   The approximately of 643 million meals' worth of food, or 390,000 tons, might be diverted from eateries' regular use to recovery each year. There are legal liability protections for food donations, but education is necessary to spread knowledge of and appreciation for the federal Bill Emerson Good Samaritan Food Donation Act, which shields both donors and recipients from legal responsibility. Businesses that qualify for expanded deductions under the 2015 Protecting Americans from Tax Hikes (PATH) Act may be eligible. The kind of nourishment a restaurant serves affects the volume of contributions in any program for recovering food.
+
+An average of one pound of food is wasted by Americans every day, or 150,000 tons. According to study, each day, Americans squander around a pounds of foods, with persons who eat healthy diets high in fruits and veggies among the most wasteful.
+
+In the US, 119 billion pounds of food are wasted annually. That works out to 130 billion meals and more than $\$$408 billion value of food wasted annually. Surprisingly, 40$\%$ of the food produced in America is wasted.
+
+\subsection{Problem statement}
+Food waste is a concerning problem in densely populated nations. There is plenty of evidence in the form of landfills, trash cans, and city streets. Many meals are wasted at weddings, canteens, restaurants, social engagements, and family events. Food waste is a sign of numerous economic issues in addition to hunger or environmental degradation. Food, clothing, and other items are being wasted because of the rapid shifts in lifestyle and inhabitation. We may put these resources to use by donating items to local entities like orphanages, senior living facilities, etc. The concept is an android based application that intends to create a connection connecting restaurants and nonprofit foundations or impoverished families to facilitate the distribution of leftover food.
+
+\subsection{Motivation}
+Food is wasted at each level of food manufacturing and distribution, from cultivators to loaders and exporters, manufactures to consumers, and even in our own households. Approximately 39$\%$ including all food waste, or 42 billion pounds total wasted food, occurs in our homes. While around 61$\%$ of total food scraps, or 66 billion pounds of leftover waste, is composed of business food waste. Reduced food loss on fields, in restaurant work, industry, and commerce are the main goals of Food Banks in America.
+
+\subsection{Scope}
+Many individuals and institutions want to contribute stuff to charities that are in need. Additionally, many charities seek to solicit donations of various items they need, such as food, clothing, food grains, cutlery, etc. However, there is no resource accessible via which they can meet their needs. As a result, an android-based application has been created that permits users to give food products according to their ability and to post requests for any items that charities may need.
+
+\subsection{Outline}
+The primary objective of the project is to create an android application that enables users to give as much food as they can rather than waste it. The goal of this effort is to provide food to those who are hungry.
 \end{document}
