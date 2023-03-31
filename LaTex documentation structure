@@ -1,0 +1,35 @@
+The main point of writing a text is to convey ideas, information, or knowledge to the reader. The reader will understand the text better if these ideas are well-structured, and will see and feel this structure much better if the typographical form reflects the logical and semantic structure of the content.
+
+Document Class 
+Predefined Formats (article, report, book,..).
+ 
+ Document Class structure
+\documentclass[options]{class}
+options = a4paper, 11pt, 12pt, 10pt, twocolumn, landscape,...
+class = article, report, book,...
+
+
+Packages used
+  Added Functionality (graphics, reference style,...). 
+ 
+ Packagesv structure
+\usepackage{package name}
+epsfig = insert PS pictures into the document
+fancyhdr = easy definition of footer and header
+
+
+Main Body
+  Text and Bibliography References.
+
+Main Body Structure
+  Start with \begin{document}
+End with \end{document}
+Typesetting Text
+\\ or \newline and \newpage
+Quotations
+Bold  \textbf{……………} or \bf 
+Italics \emph{…………} or \textit{………} or \it
+Underline \underline{…………} or \ul
+Including Multiple Files
+\input{filename.tex}
+
