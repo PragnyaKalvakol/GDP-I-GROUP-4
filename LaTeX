@@ -36,3 +36,13 @@ Defining a simple command:
 The set of real numbers are usually represented 
 by a blackboard bold capital R: \( \R \).
 \end{document}
+
+Defining commands with parameters:
+\documentclass{article}
+\usepackage{amssymb}
+\begin{document}
+\newcommand{\bb}[1]{\mathbb{#1}}
+Other numerical systems have similar notations. 
+The complex numbers \( \bb{C} \), the rational 
+numbers \( \bb{Q} \) and the integer numbers \( \bb{Z} \).
+\end{document}
