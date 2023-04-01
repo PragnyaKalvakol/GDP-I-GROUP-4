@@ -25,3 +25,5 @@ Links to a web address or email can added to a LATEX file using the \url command
 - \href{http://www.latex.com}{Refererenceslink}
 - \url{http://www.latex.com}
 
+Defining a new environment:
+\newenvironment{name}[numarg][optarg_default]{begin_def}{end_def}
