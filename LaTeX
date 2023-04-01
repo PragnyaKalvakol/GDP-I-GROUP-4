@@ -27,3 +27,12 @@ Links to a web address or email can added to a LATEX file using the \url command
 
 Defining a new environment:
 \newenvironment{name}[numarg][optarg_default]{begin_def}{end_def}
+
+Defining a simple command:
+\documentclass{article}
+\usepackage{amssymb}
+\begin{document}
+\newcommand{\R}{\mathbb{R}}
+The set of real numbers are usually represented 
+by a blackboard bold capital R: \( \R \).
+\end{document}
