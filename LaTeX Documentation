@@ -184,4 +184,32 @@ During our system development, we design both static and dynamic interfaces. The
 \subsubsection{Communication Interface:}
 
 The application supports Google Chrome, Mozilla Firefox web browsers.
+\subsection{Functional Requirements:}
+
+ Admin module - Maps the restaurant and orphanage databases and checks the orders and confirms it. And takes the delivery report. 
+
+Restaurant user: Posts the availability of the food. 
+
+Volunteer: Goes, picks up the food posted by the user and delivers it to the needy. 
+
+Orphanage: Takes the food delivered by volunteer.
+
+\vspace{1\baselineskip}
+\subsection{Non-Functional Requirements:}
+
+
+The performance requirements refer to static numerical requirements placed on the interaction between the users and the software.
+
+\begin{itemize}
+	\item Response Time: Average response time shall be less than 2 sec. 
+
+	\item Recovery Time: In case of system failure, redundant system shall resume operations milliseconds. Average repair time shall be less than 1 hr. 
+
+	\item Start-Up/Shutdown Time: The system shall be operational within 1 minute of starting up. 
+
+	\item Capacity: The system accommodates 4000 Concurrent Users. 
+
+	\item Utilization of Resources: The system shall store in the database no more than one million transactions. If the database grows over this limit, old transaction shall be backed up and deleted from the operational database.
+
+\end{itemize}
 \end{document}
