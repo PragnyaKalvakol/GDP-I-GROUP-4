@@ -3,3 +3,9 @@ Step by Step Implementation
 Step 1: Create a New Project
 - Note that select java as the programming language.
 
+
+Step 2: Add dependency to the build.gradle file
+- Inside build.gradle(app) add Material Design Dependency.
+
+implementation ‘com.google.android.material:material:1.3.0-alpha03’
+
