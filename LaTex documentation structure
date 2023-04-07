@@ -75,3 +75,17 @@ Possible values of num_style are:
 
 \location{address} - This modifies your organization's standard address. This only appears if the firstpage pagestyle is selected.
 
+Group
+
+Text between { and }
+Many commands work until the end of the group
+Code
+     put {one word \bf in bold} here
+     \tiny \scriptsize \footnotesize
+     \small \normalsize 
+     \large \Large 
+     \LARGE \huge
+     \Huge
+
+Result
+     put one word in bold here
