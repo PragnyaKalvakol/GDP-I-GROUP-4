@@ -44,3 +44,21 @@ Sections
 \appendix - changes numbering scheme
 \chapter{…} - To be used with book and report document classes
 
+Titles, Authors and others
+\title{…}		 \author{…}
+\footnote{…}
+
+\maketitle  - Display Title and Author
+\tableofcontents - generates TOC
+\listoftables - generates LOT
+\listoffigures - generates LOF
+
+Labels
+\label{marker} - Marker in document.
+\pageref{marker} - Displays page no. of marker.
+\ref{marker} - Displays section location of marker.
+
+Itemise
+Use either enumerate, itemize or description.
+see handout for example.
+
