@@ -73,3 +73,5 @@ Possible values of num_style are:
 \textwidth is the normal width of the text on a page. It should generally be changed only in the preamble.
 \linewidth is the width of lines in the current environment. Normally equal to \textwidth, it may be different within an environment such as list or quote environments.
 
+\location{address} - This modifies your organization's standard address. This only appears if the firstpage pagestyle is selected.
+
