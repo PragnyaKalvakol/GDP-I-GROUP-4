@@ -123,4 +123,45 @@ Restaurant Users area.
 
 Orphanage area.
 
+
+
+\vspace{1\baselineskip}
+\subsection{Software Requirements:}
+
+\begin{itemize}
+	\item Operating System: Windows 7,10 
+
+	\item User Interface: HTML, CSS
+
+	\item Programming Language: Java
+
+	\item Frameworks: Flutter, Dart, Power Automate, Power Virtual Agent
+
+	\item Database: Firebase 
+
+	\item Communication interface: Google chrome, Mozilla Firefox web browsers
+
+\end{itemize}
+\vspace{1\baselineskip}
+\subsection{Hardware Requirements:}
+
+\begin{itemize}
+	\item Processor: Intel i5 
+
+	\item Hard Disk: 40GB 
+
+	\item RAM: 8GB
+
+	\item System type: 64-bit operating system, x64-based processor
+
+\end{itemize}
+\vspace{1\baselineskip}
+\subsection{Design and Implementation Constraints:}
+
+\begin{itemize}
+	\item The Programming language shall be Firebase for the database. 
+
+	\item The users working system should have an internet.
+
+\end{itemize}
 \end{document}
