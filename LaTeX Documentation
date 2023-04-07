@@ -164,4 +164,24 @@ Orphanage area.
 	\item The users working system should have an internet.
 
 \end{itemize}
+\subsection{External Interface Requirements:}
+
+\subsubsection{User Interface:}
+
+The interface shall be android based allowing user to access the system. This design and layout will be very clear and interactive to the user. There will be a proper collection of GUI interface, which will provide better look and be user friendly.
+
+\vspace{1\baselineskip}
+\subsubsection{Hardware Interface:}
+
+The hardware requirement at the user end is simple and run on the hardware that can run a basic simple browser. The application will run on any system with basic requirement.
+
+\vspace{1\baselineskip}
+\subsubsection{Software Interface:}
+
+During our system development, we design both static and dynamic interfaces. The application software will run on operating systemWindow8, windows 10(x32, x64) with additional requirements.
+
+\vspace{1\baselineskip}
+\subsubsection{Communication Interface:}
+
+The application supports Google Chrome, Mozilla Firefox web browsers.
 \end{document}
