@@ -33,3 +33,14 @@ Underline \underline{…………} or \ul
 Including Multiple Files
 \input{filename.tex}
 
+Format
+Sections
+\section{…}            
+       1. Latex is Great
+\subsection{…}     
+       1.1 Why Latex is Great
+\subsubsection{…}  
+       1.1.1 Reason One
+\appendix - changes numbering scheme
+\chapter{…} - To be used with book and report document classes
+
