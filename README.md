@@ -42,39 +42,7 @@ My Link: [https://github.com/ThaaraniY/](https://github.com/ThaaraniY/)
 
 My Link: [https://www.linkedin.com/in/gopireddy-reethu-a77834194/](https://www.linkedin.com/in/gopireddy-reethu-a77834194/)
 
-### Table of Contents
-- ##### [Introduction](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4#introduction-to-left-over-on-wheels-loow) 
-- ##### [Softwares Used](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4#softwares-used-in-this-project-loow)
-- ##### [Features](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4#features-of-the-application)
-- ##### [Roles and Responsibilities](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4#roles-and-responsibilities-1)
-- ##### [Client details](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4#client-details-1)
-- ##### [How it works](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4#how-it-works-1)
-- ##### [Interface requirements](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4#interface-requirements-1)
-- ##### [Flowchart](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4#flowchart-1)
-- ##### [Prototypes and Templates](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4#login-page)
-- ##### [Database schema](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4#restaurant-entity) 
-- ##### [Pages](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4#web-login-page)
 
-Wiki Link - [https://github.com/PragnyaKalvakol/GDP-I-GROUP-4/wiki](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4/wiki)
-
-Project Link - [https://github.com/PragnyaKalvakol/GDP-I-GROUP-4/projects](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4/projects)
-
-#### Introduction to Left Over On Wheels (LOOW)
-<p>
-In highly populated countries, food wastage is a disturbing issue. High standard of living has resulted in the wastage of food because of quick changes in habits and lifestyle. Instead of wasting these things we can put them in use by donating them to various organizations such as orphanages or old age homes. The product is a android application which aims to establish a link between restaurants and the charity homes/needy households to enable excess food donation.
- </p>
-
-#### Softwares used in this project (LOOW)
-<p> Firebase, Power Automate, Microsoft Power Virtual Agents, HTML, CSS, Android studio</p>
-
-
-#### Features of the Application
-
-<ol>1. Registrations for both end users<br>
-    2. Use of a chatbot to provide assistance<br>
-    3. When food becomes readily accessible, popup notifications will be sent to the receiver.<br>
-    4. Users can donate funds.<br></ol>
-  
 #### Roles And Responsibilities 
 <ol> Chandra Mouli Kotteti : Client <br>
   Kavya Mandlem : Application Designer (User Interface)<br>
@@ -92,6 +60,43 @@ In highly populated countries, food wastage is a disturbing issue. High standard
  GitHub Link : [https://github.com/cm2kotteti](https://github.com/cm2kotteti)
   
   </p>
+
+
+### Table of Contents
+- ##### [Introduction](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4#introduction-to-left-over-on-wheels-loow) 
+- ##### [Softwares Used](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4#softwares-used-in-this-project-loow)
+- ##### [Features](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4#features-of-the-application)
+- ##### [Roles and Responsibilities](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4#roles-and-responsibilities-1)
+- ##### [Client details](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4#client-details-1)
+- ##### [How it works](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4#how-it-works-1)
+- ##### [Interface requirements](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4#interface-requirements-1)
+- ##### [Flowchart](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4#flowchart-1)
+- ##### [Prototypes and Templates](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4#login-page)
+- ##### [Database schema](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4#restaurant-entity) 
+- ##### [Pages](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4#web-login-page)
+
+Wiki Link - [https://github.com/PragnyaKalvakol/GDP-I-GROUP-4/wiki](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4/wiki)
+
+Project Link - [https://github.com/PragnyaKalvakol/GDP-I-GROUP-4/projects](https://github.com/PragnyaKalvakol/GDP-I-GROUP-4/projects)
+
+
+
+#### Introduction to Left Over On Wheels (LOOW)
+<p>
+In highly populated countries, food wastage is a disturbing issue. High standard of living has resulted in the wastage of food because of quick changes in habits and lifestyle. Instead of wasting these things we can put them in use by donating them to various organizations such as orphanages or old age homes. The product is a android application which aims to establish a link between restaurants and the charity homes/needy households to enable excess food donation.
+ </p>
+
+#### Softwares used in this project (LOOW)
+<p> Firebase, Power Automate, Microsoft Power Virtual Agents, HTML, CSS, Android studio</p>
+
+
+#### Features of the Application
+
+<ol>1. Registrations for both end users<br>
+    2. Use of a chatbot to provide assistance<br>
+    3. When food becomes readily accessible, popup notifications will be sent to the receiver.<br>
+    4. Users can donate funds.<br></ol>
+  
  
  #### How it works
  <p> The proposed application is android based application, developed on Android Studio using HTML and CSS which requires internet connection and will provide a platform for donating leftover food to all needy people/organizations.Through this application restaurant  can send the leftover food items as per their capacity and the application also allows organizations to put up their requests,if any.<br>
