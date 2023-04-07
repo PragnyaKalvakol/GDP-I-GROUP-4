@@ -87,15 +87,18 @@ In highly populated countries, food wastage is a disturbing issue. High standard
  </p>
 
 #### Softwares used in this project (LOOW)
-<p> Firebase, Power Automate, Microsoft Power Virtual Agents, HTML, CSS, Android studio</p>
+<p> Firebase,Firestore,Firebase Authentication, Power Automate, Microsoft Power Virtual Agents, HTML, CSS, Android studio,Flutter,Dart</p>
 
 
 #### Features of the Application
 
-<ol>1. Registrations for both end users<br>
-    2. Use of a chatbot to provide assistance<br>
-    3. When food becomes readily accessible, popup notifications will be sent to the receiver.<br>
-    4. Users can donate funds.<br></ol>
+<ol>1. Registrations for both end users.<br>
+    2. Use of a chatbot to provide assistance.<br>
+    3. Location can be fetched directly using google maps API.<br>
+    4. Users can donate funds.<br>
+    5. Toast message will be displayed once the order is added to cart or placed.<br>
+    6. Email will be sent via chatbot for assistance.<br>
+</ol>
   
  
  #### How it works
