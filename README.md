@@ -121,7 +121,7 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 <p>This screen will provide the update by the restaurant regarding food availability.</p>
 
 <img width="150" src ="https://user-images.githubusercontent.com/98135627/213962520-2a591f02-8243-40c0-b637-57997a79ed72.png">
-<p>The orphanage can request the food upto 5 KGs, they have to submit the amount of they want to receive in order not to waste unaccepted amount of food.</p>
+<p>The orphanage can request the food, they have to submit the amount of they want to receive in order not to waste unaccepted amount of food.</p>
 
 <img width="150" src="https://user-images.githubusercontent.com/98135627/213962993-5f65fc21-35b7-4de1-8303-a5973fa9281a.png">
 <p>This screen will be appearing after placing the order and saving the address successfully.</p>
@@ -158,24 +158,6 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 
 ##### Communication Interface
 <p> The application supports Google Chrome, Mozilla Firefox web browsers.</P>
-
-#### Functional Requirements
-- Admin module - Maps the restaurant and orphanage databases and checks the orders and confirms it. And takes the delivery report. 
-- Restaurant user: Posts the availability of the food. 
-- Volunteer: Goes, picks up the food posted by the user and delivers it to the needy. 
-- Orphanage: Takes the food delivered by volunteer.
-
-#### Non-Functional Requirements
-The performance requirements refer to static numerical requirements placed on the interaction between the users and the software.
-- Response Time: Average response time shall be less than 2 sec. 
-- Recovery Time: In case of system failure, redundant system shall resume operations within30seconds. Average repair time shall be less than 1 hr. 
-- Start-Up/Shutdown Time: The system shall be operational within 1 minute of starting up. 
-- Capacity: The system accommodates 4000 Concurrent Users. 
-- Utilization of Resources: The system shall store in the database no more than one million transactions. If the database grows over this limit, old transaction shall be backed up and deleted from the operational database.
-
-#### Safety Requirements
-<p>The database may get crashed at any time due to virus or OS failure. Therefore, it is required to take database backup so that database is not lost. The group-based policy for access control of data project will not affect the data stored outside of its server will not affect any other application installed.</p>
-
 
 
 
@@ -392,26 +374,6 @@ Firebase is a set of hosting services for any type of application. It offers NoS
 ##### Firebase Features
 <p>Developers can create iOS, Android, and Web apps using the Google-sponsored application development platform known as Firebase. Tools are available from Firebase for monitoring analytics, reporting and resolving app errors, as well as developing marketing and product experiments.</p>
 <img width="375" alt="Features" src= "https://user-images.githubusercontent.com/98137201/218240393-66211b39-dfd4-4df2-b77c-c8f7d96c9c4c.png">
-
-
-
-##### Microsoft forms
-
-<p>Microsoft Forms is a simple, lightweight tool that lets you quickly create a form, collect responses in real time, and view automatic charts to visualize your data.
-You can build a form in minutes no training necessary, and respondents can fill it out on any browser without having to install a separate app.</p>
-
-##### Microsoft form features
-
-- Integration With Microsoft Stream.
-- Microsoft Forms Integration with Excel in Real-time.
-- Multi-Language Forms.
-- Mathematical Keyboard.
-- Branching in Microsoft Forms.
-
-##### Limitations of microsoft forms
-- 100 questions limitation.
-- Microsoft Forms does not have an update feature for submitted answers or the option to save a form for later.
-- There is a 4000-character maximum on text responses.
 
 
 ##### Microsoft Power Platform
