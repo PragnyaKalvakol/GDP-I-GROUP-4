@@ -257,31 +257,6 @@ Each project in Android Studio contains one or more modules with source code fil
 - Web
 - Desktop.
 
-##### Why Flutter
-- Open source.
-- Faster development cycle.
-- Super productive.
-- Ease to learn & code sharing.
-- Widget libraries.
-- Community support.
-
-##### Feature of Flutter
-- Rapid app development.
-- Expressive interfaces.
-- Faster debug.
-- Easy learning curve.
-- Cost-saving.
-
-##### Advantages of flutter
-- Flutter-based apps are very smooth in their performance which makes for great UX.
-- With a single code base, quality assurance and testing usually takes much less time.
-- Developing in Flutter is very fast and efficient.
-
-##### Disadvantages of flutter
-- Flutter-based apps are not supported by browsers as of now. This means no web apps.
-- While Flutter is popular, it has not been around long enough to have a huge resource base. Therefore, your team will need to write a lot of stuff from scratch.
-- Dart is not a popular language and if you want to work with Flutter you will have to learn how to use it.
-
 #### Dart
 
 <p>Dart is a client-optimized language for fast apps on any platform.It is an open source and scalable programming language with many built-in libraries.Dart can be extensively used to create single-page applications.</p>
