@@ -296,25 +296,6 @@ Platform Independent. Dart supports all primary operating systems such as Window
 •	Concurrency
 </p>
 
-#### Widgets
-<p>Widgets enable users to interact with an Android Studio application page. There are various kinds of widgets, such as Buttons and TextViews. To see all the widgets at your disposal, create a new application project called “Widgets” and select "empty activity". Call your activity “MainActivity”.</p>
-<p> The ability to customize a home screen is greatly aided by widgets. They could be thought of as "at-a-glance" representations of an app's most crucial information and features that are available directly from the user's home screen. The quantity of information a widget contains can be customized by users by moving widgets across the panels on their home screen and, if supported, by resizing them.</p>
-
-##### Pros of widgets
-- Widgets are simple, easy-to-use software applications intended for one or more platforms. 
-- Serving as independent applications, widgets can easily be embedded into the body of websites. 
-- Widgets work with the real-time website data and can be personalized to respond to website identity.
-
-##### Cons of widgets
-- Upgrade Issues and Compatibility.
-- Developer Lock-In.
-- Lack of Understanding.
-- 
-##### Types of Widgets used
-- Information widgets
-- Collection widgets
-- Control widgets
-- Hybrid widgets
 
 ##### Firebase
 
@@ -359,12 +340,6 @@ Firebase is a set of hosting services for any type of application. It offers NoS
 
 A chatbot is a type of software that can help customers by automating conversations and interact with them through messaging platforms.
 
-##### Choose a bot type
-- In the navigation menu, select Create. You can also select Home then select Create a bot.
-- Choose one of the following options:
-  - Use Build for production to create production bots that are 	intended to be deployed to your customers. 
-  - Use Try the unified canvas (preview) to test out the new authoring features in preview. 
-- After selecting an option then start creating a bot.
 
 ##### Create a Bot
 - Name your bot
@@ -429,34 +404,6 @@ A chatbot is a type of software that can help customers by automating conversati
 
 ##### Architecture of LOOW
 <img width="375" alt="Architecture of LOOW" src= "https://user-images.githubusercontent.com/98135573/194678006-d11dbf36-6dd1-4855-8141-1c6a484921ad.png">
-
-####  Tab bars in Android application
-<p>A tab bar appears at the bottom of the application screen and allows you to quickly move from one section to another in the application. This is the most popular navigation structure for mobile applications. It usually contains between 4 and 5 tabs.</p>
-
-#### App bars in Android Application
-<p>When using fragments, the app bar can be implemented as an ActionBar that is owned by the host activity or a toolbar within your fragment's layout. Ownership of the app bar varies depending on the needs of your app.</p>
-
-#### Register 
-<p>It is the page which allows the user to type in the details like name,password,emailid,contact details and location details.
-Our basic register page has fields like name, email, password, confirm password, phone and location</p> 
-
-#### Plugins
-<p>UI Plugins provide a way to include Javascript and CSS files in various parts of the Rundeck GUI's HTML pages.</p>
-<p>UI Plugin Page Configurations consist of:
-
-pages: A list of applicable Page paths. This can be a single path string, a list of paths, or a * which will match all paths. <br>
-scripts: A single file or list of files. These are relative to the resources directory in your zip file.<br>
-styles: A single file, or a list of files. Thes are relative to the resources directory in your zip file.<br>
-requires: A single or list of other UI plugin provider IDs.</p>
-<p>Best plugins in android studio are ADB Idea, Key Promoter X, Android Input, Wrap-up and CodeGlance.</p>
-
-Plugins Installation:
-- Launch Android Studio application
-- Choose Project Settings
-- Choose Plugin from disk, if on disk then choose that location of *.jar
-- Click on Apply and OK.
-- Then Android studio will ask for Restart.
-
 
 #### Project Documentation
 <p>Here we are using LaTeX for our documentation.It is a tool for typesetting professional-looking documents.</p>
