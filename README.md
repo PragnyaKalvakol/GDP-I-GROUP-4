@@ -1,8 +1,6 @@
 # GDP-I-GROUP-4
 
 
-GDP class
-
 LOOW Hosted on : [https://leftoveronwheels.github.io/](https://leftoveronwheels.github.io/)
 
 #### Kavya Mandlem 
@@ -98,6 +96,9 @@ In highly populated countries, food wastage is a disturbing issue. High standard
     4. Users can donate funds.<br>
     5. Toast message will be displayed once the order is added to cart or placed.<br>
     6. Email will be sent via chatbot for assistance.<br>
+    7. Admin should be authenticated using firebase. <br>
+    8. Admin will be able to manage the users.
+    
 </ol>
   
  
