@@ -265,16 +265,6 @@ Each project in Android Studio contains one or more modules with source code fil
 ##### Importance of Dart
 <p>Dart is a client-optimized language for creating quick programs on any environment. Its objective is to provide the highest effective software program for inter construction along with a versatile executing environment platform for application architectures. Dart is most widely used in single page application like web application, website.</p>
 
-##### Dart Advantages
--  Easy to learn
--  Availability of documentation
--  High performance
--  Dart is very stable and it can be used to build production quality real-time applications.
-
-##### Dart Disadvantages
-- Dart has very limited resources online and it’s hard to find solutions to problems
-- Dart is fairly new to the programmers and rarely used in the market
-- The absence of native support.
 #### Dart Tools
 <img width="375" alt="Dart Tools" src="https://user-images.githubusercontent.com/98137201/218216374-011eaad6-5662-4d5d-bef4-c6d465c956bc.png">
 <p>Dart editor: This editor is similar to the sublime text and notepad++.</br>
@@ -300,33 +290,6 @@ Platform Independent. Dart supports all primary operating systems such as Window
 ##### Firebase
 
 Firebase is a set of hosting services for any type of application. It offers NoSQL and real-time hosting of databases, content, social authentication, and notifications, or services, such as a real-time communication server. Firebase provides detailed documentation and cross-platform SDKs to help you build and ship apps on Android, iOS, the web, C++, and Unity.
-
-###### Firebase Advantages
-
-- Free Plan
-- Faster App Development
-- Turnkey App Development Service
-- Google Supports Firebase
-- Enables Developers to Focus on Frontend Coding.
-- Serverless Platform
-- Integrated Machine Learning Functions
-- Generates Traffic
-- App Monitoring
-- Top-Notch Security
-
-##### Firebase Disadvantages
-
-- A Closed Source Platform
-- Vendor Lock-In
-- Complex Billing Estimation
-- Not Available Globally
-- Do Not Support SQL Database
-- Handling of ACID properties
-- Usage and Limits
-- Free Plan Support Basic Functions Only
-- Restricted to Google Cloud
-- Lacks Dedicated Server and Enterprise Support
-- No GraphQL APIs
 
 ##### Firebase Features
 <p>Developers can create iOS, Android, and Web apps using the Google-sponsored application development platform known as Firebase. Tools are available from Firebase for monitoring analytics, reporting and resolving app errors, as well as developing marketing and product experiments.</p>
@@ -369,19 +332,6 @@ A chatbot is a type of software that can help customers by automating conversati
 - Acknowledge When Questions are Beyond Their Scope
 - Customer Experience Comes First
 
-##### Pros of Chatbot
-
-- Quick customer service
-- Customer satisfaction
-- Reduced labour costs
-- Multipurpose
-
-##### Cons of Chatbot
-
-- Limited responses
-- Complex chatbots are expensive
-- Frustation
-- Chatbots are not fruitful for all businesses
 
 <img width="375" alt="chatbot" src="https://user-images.githubusercontent.com/98142665/194678329-a2dd0a6a-5163-4d4d-8e39-4ea4cec8ad98.PNG">
 
