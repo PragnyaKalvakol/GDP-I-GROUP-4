@@ -1,7 +1,23 @@
 - Firebase Hosting provides fast and secure hosting for your web app.
 - Firebase Hosting is production-grade web content hosting for developers.
+- Can also pair Firebase Hosting with Cloud Functions or Cloud Run to build and host microservices on Firebase.
 
 - Firebase can be hosted on different platforms like:
 a)web, 
 b)android and 
 c)iOS.
+
+
+
+- With a single command, you can quickly deploy web apps and serve both static and dynamic content to a global CDN (content delivery network).
+- For setting up sdk in our web application CDN is used.
+- From CDN we can load firebase JavaScript sdk libraries. 
+
+Key Capabilities:
+a) Serve content over a secure connection.
+b) Host static and dynamic content plus microservices.
+c) Deliver content fast
+d) Emulate and even share your changes before going live
+e) Deploy new versions with one command
+
+
