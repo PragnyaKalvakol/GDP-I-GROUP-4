@@ -21,3 +21,16 @@ d) Emulate and even share your changes before going live
 e) Deploy new versions with one command
 
 
+
+How it works:
+- Firebase Hosting is built for the modern web developer. 
+- Websites and apps are more powerful than ever with the rise of front-end JavaScript frameworks like Angular and static generator tools like Jekyll.
+- Using the Firebase CLI, you deploy files from local directories on your computer to our Hosting servers.
+- You can also view and test your changes before going live.
+- For serving your content, Firebase offers several domain and subdomain options:
+By default, every Firebase project has subdomains at no cost on the web.app and firebaseapp.com domains. 
+These two sites serve the same deployed content and configuration.
+- Deploy your site
+- Link to a Firebase Web App
+
+
