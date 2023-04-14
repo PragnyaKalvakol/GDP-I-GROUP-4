@@ -64,16 +64,28 @@ see handout for example.
 
 \pagenumbering{num_style} - Specifies the style of page numbers. 
 Possible values of num_style are:
-- arabic Arabic numerals
-- roman Lowercase roman numerals
-- Roman Uppercase roman numerals
-- alph Lowercase letters
-- Alph Uppercase letters
+arabic Arabic numerals
+roman Lowercase roman numerals
+Roman Uppercase roman numerals
+alph Lowercase letters
+Alph Uppercase letters
 
 - \textwidth is the normal width of the text on a page. It should generally be changed only in the preamble.
 - \linewidth is the width of lines in the current environment. Normally equal to \textwidth, it may be different within an environment such as list or quote environments.
 - \location{address} - This modifies your organization's standard address. This only appears if the firstpage pagestyle is selected.
 - Footnotes can be produced in one of two ways. They can be produced with one command, the \footnote command. They can also be produced with two commands, the \footnotemark and the \footnotetext commands. See the specific commands, below, for information on why you would use one rather than another.
+- The first thing LaTeX does when processing ordinary text is to translate your input file into a string of glyphs and spaces. To produce a printed document, this string must be broken into lines, and these lines must be broken into pages. In some environments, you do the line breaking yourself with the \\ command, but LaTeX usually does it for you.
+Commands for line and page breaks:
+\hyphenation
+\cleardoublepage
+\clearpage
+\newline
+\linebreak
+\nolinebreak
+\newpage
+\pagebreak
+\nopagebreak
+
 
 Group
 
