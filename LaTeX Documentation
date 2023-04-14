@@ -220,4 +220,12 @@ The database may get crashed at any time due to virus or OS failure. Therefore, 
 \subsection{Security Requirements:}
 System will be secured in database. 
 System will have different types of users and every user has his/her user id and password.
+
+\section{\textbf{FRAMEWORKS OF LOOW}}
+A framework is a structure on which software can be built. Since it acts as a cornerstone, you really aren't completely starting from scratch totally. Frameworks are frequently linked to a particular computer language and are appropriate for certain tasks.
+
+\subsection{Flutter:}
+Google's Flutter is a fast-emerging mobile framework meant to aid in the building of applications for smart phones and tablets with a single source of code and the possibility of exporting them as native apps for iOS and Android devices.
+
+With the use of the tool Flutter, programmers may create native cross-platform applications just by using one simple code and by developing one single development language. It won't generate anything that can be wrapped by native apps or a browser-based app. As an alternative, it builds a native app for both iOS and Android that can be released to the stores at a later point of time.
 \end{document}
