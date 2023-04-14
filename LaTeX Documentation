@@ -212,4 +212,12 @@ The performance requirements refer to static numerical requirements placed on th
 	\item Utilization of Resources: The system shall store in the database no more than one million transactions. If the database grows over this limit, old transaction shall be backed up and deleted from the operational database.
 
 \end{itemize}
+
+\subsection{Safety Requirements:}
+The database may get crashed at any time due to virus or OS failure. Therefore, it is required to take database backup so that database is not lost. The group-based policy for access control of data project will not affect the data stored outside of its server will not affect any other application installed.
+
+
+\subsection{Security Requirements:}
+System will be secured in database. 
+System will have different types of users and every user has his/her user id and password.
 \end{document}
