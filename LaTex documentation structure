@@ -85,6 +85,8 @@ Commands for line and page breaks:
 \newpage
 \pagebreak
 \nopagebreak
+- The following characters play a special role in LaTeX and are called special printing characters, or simply special characters.# $ % & ~ _ ^ \ { }
+
 
 
 Group
