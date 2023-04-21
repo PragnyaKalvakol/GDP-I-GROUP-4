@@ -86,6 +86,7 @@ Commands for line and page breaks:
 \pagebreak
 \nopagebreak
 - The following characters play a special role in LaTeX and are called special printing characters, or simply special characters.# $ % & ~ _ ^ \ { }
+\underline{text} - The \underline command causes the argument text to be underlined. This command can be used in math mode, paragraph mode, and LR mode.
 
 
 
