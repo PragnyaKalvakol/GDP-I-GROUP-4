@@ -107,6 +107,9 @@ In highly populated countries, food wastage is a disturbing issue. High standard
 </p>
 
 #### Application Work Flow
+##### Admin web portal Flow
+<img width="550" src ="https://user-images.githubusercontent.com/98132897/233659661-64f22444-91c9-47f5-abf1-9f4d00985095.png">
+
 ##### Restaurant View
 <img width="150" src="https://user-images.githubusercontent.com/98135573/213960640-c6f8c608-1267-4c6f-a26f-b69a7aef81d6.png">
 <p> This screen will provide the information about user sign in. If they are new user, they must fill the all the requested fields and create an account.</p>
