@@ -303,5 +303,28 @@ Despite any prior experience, a form can be created in a matter of minutes, and 
 
 
 
+\vspace{1\baselineskip}
+\subsubsection{Chatbot}
+
+Instead of enabling real interaction with a normal human agent, a chatbot or chatterbot is a software program that is employed to engage a web chat interaction using word or message. Ai systems or browser popups are the two main ways to contact chatbots online. They fall under the utilization areas of business (including e-commerce conducted via chat), learning, amusement, finances, health, news, and productivity.
+
+\vspace{1\baselineskip}
+
+\vspace{1\baselineskip}
+\subsection{Topics in Chatbot:}
+A topic has trigger phrases and conversation nodes. Trigger phrases are phrases, keywords, and questions that a user is likely to type that are related to a specific issue. Conversation nodes define how a bot should respond to a trigger phrase and what it should do. This is below how the nodes have been created and use in the chatbot. Each topic is created related to the response to the conversation for example greetings, messages, contact details etc.
+
+
+
+\vspace{1\baselineskip}
+\subsection{Working of Chatbot:}
+
+The chatbot checks agent accessibility when a client or customer requests to speak with a member of your organization and directs the inquiry appropriately. The consumer will relate to a knowledgeable person who has the necessary expertise to resolve the issue. The virtual assistant also notifies the agent when a client query arises and provides the customer or user with details about the representative, such as their identify and processing period.
+
+For every question asked by the client or user there should be some estimated predefined response from the bot which are created which as known as topic and each question is the node as shown in the below figure.
+
+
+\vspace{1\baselineskip}
+With the help of power virtual agents, we can be able to publish the bot sin the different multi social media platform which are mentioned below. 
 
 \end{document}
