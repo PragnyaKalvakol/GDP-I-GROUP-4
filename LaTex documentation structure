@@ -70,6 +70,7 @@ Roman Uppercase roman numerals
 alph Lowercase letters
 Alph Uppercase letters
 
+- \title{text} The \title command declares text to be the title. Use \\ to tell LaTeX where to start a new line in a long title.
 - \textwidth is the normal width of the text on a page. It should generally be changed only in the preamble.
 - \linewidth is the width of lines in the current environment. Normally equal to \textwidth, it may be different within an environment such as list or quote environments.
 - \location{address} - This modifies your organization's standard address. This only appears if the firstpage pagestyle is selected.
@@ -95,6 +96,8 @@ Typical usage is for descriptive lists or lists of definitions; the label is the
  \item[label] Second item
  ....
  \end{description}
+ 
+ 
 
 
 
