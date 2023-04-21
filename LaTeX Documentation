@@ -248,4 +248,48 @@ With the use of the tool Flutter, programmers may create native cross-platform a
 
 \end{itemize}
 In fact, most big businesses have built a tiny portion of their current application in Flutter. They begin changing additional sections once they realize the advantages of Flutter.
+\vspace{1\baselineskip}
+\subsection{Dart:}
+
+Dart is a programming language of flutter it mainly focuses on the front-end user interface and front-end application. This is very similar to the coding language like java or JavaScript in its syntax. Therefore, Flutter and Dart are two separate entities that collaborate. Dart leverages the features of the Flutter architecture to create the application. Flutter is a framework for Dart. Flutter will ultimately aid in the development of the application by acting as an SDK.
+
+Since you'll only have one reference implementation, Flutter will provide you the ability to identify the environment you're running on and react appropriately, whether for iOS or Android, if you ever need to differentiate for the platforms you're designing for.
+\vspace{1\baselineskip}
+
+
+
+
+\vspace{1\baselineskip}
+\subsection{Widgets:}
+
+Widgets are used to create Flutter. You might say that a widget is a component if you've spent any time in the React ecosystem. It basically consists of a little code segment with some guidelines that must be placed adjacent to other widgets and communicate with them. Widgets are classified in to following different categories. They are 
+
+\begin{itemize}
+	\item Structural widget
+
+	\item Informational widget
+
+	\item Control widget
+
+	\item Stylistic widgets
+
+	\item Collection widget
+
+	\item Layout widgets
+
+	\item Hybrid widgets
+
+\end{itemize}
+\subsubsection{Widget configuration:}
+
+Widgets may require to be configured so that they can be used. Consider an email widget where the inbox cannot be seen unless a login is provided. Alternatively, a ﬁxed image widget requires the user to select the image from the library that will be shown. When an Android widget is dropped onto a home panel, it immediately displays the setup options. Limit the number of innovative ways in the widget to no more than two or three. Even if it necessitates the usage of many dialogs, provide configuration options in a dialog-style rather than a full-screen activity to preserve the person's perspective of place.
+
+Once installed, there usually isn't much of a purpose to go back and adjust things. Android widgets don't display a "Szetup" or "Configuration" button as a result.
+
+
+
+
+
+
+
 \end{document}
