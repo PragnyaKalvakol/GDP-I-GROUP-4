@@ -129,3 +129,10 @@ cell7 & cell8 & cell9 \\
 \end{tabular}
 \end{center}
 \end{document}
+Importing graphics into a LATEX document needs an add-on package which provides the commands and features required to include external graphics files. 
+\begin{figure}[h]
+\centering
+\includegraphics[width=8.85cm,height=4.83cm]{C:/Users/S547062/Desktop/DOCUMENTATION/roughhh/images/image3.jpeg}
+\caption{Main Dart}
+\label{}
+\end{figure}
