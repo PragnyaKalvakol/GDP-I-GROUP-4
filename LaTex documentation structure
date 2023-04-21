@@ -88,6 +88,14 @@ Commands for line and page breaks:
 - The following characters play a special role in LaTeX and are called special printing characters, or simply special characters.# $ % & ~ _ ^ \ { }
 \underline{text} - The \underline command causes the argument text to be underlined. This command can be used in math mode, paragraph mode, and LR mode.
 
+Description - The description environment is used to make labeled lists. The label is bold face and flushed right. The text of the \item command is indented.
+Typical usage is for descriptive lists or lists of definitions; the label is then the name of the item being described or defined.
+\begin{description}
+ \item[label] First item
+ \item[label] Second item
+ ....
+ \end{description}
+
 
 
 Group
