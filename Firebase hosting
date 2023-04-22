@@ -34,3 +34,13 @@ These two sites serve the same deployed content and configuration.
 - Link to a Firebase Web App
 
 
+
+
+Implementation path
+
+1. Install the Firebase CLI
+2. Set up a project directory
+3. View, test, and share your changes before going live
+4. Deploy your site
+5. Link to a Firebase Web App 
+
