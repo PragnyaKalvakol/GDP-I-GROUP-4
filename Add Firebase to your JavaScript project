@@ -1,0 +1,9 @@
+Add Firebase to your JavaScript project
+
+To use the Firebase JavaScript SDK in web app for end-user access, for example, in a Node.js desktop or IoT application steps are as follows:
+
+Step 1: Create a Firebase project and register your app
+
+- Before you can add Firebase to your JavaScript app, you need to create a Firebase project and register your app with that project. 
+- When you register your app with Firebase, you'll get a Firebase configuration object that you'll use to connect your app with your Firebase project resources.
+
