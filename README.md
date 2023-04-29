@@ -361,29 +361,6 @@ A chatbot is a type of software that can help customers by automating conversati
 #### Project Documentation
 <p>Here we are using LaTeX for our documentation.It is a tool for typesetting professional-looking documents.</p>
 
-#### LaTeX Features
-- Control over large documents containing sectioning, cross-references, tables and figures.
-- Automatic generation of bibliographies and indexes.
-- Multi-lingual typesetting.
-- Typesetting journal articles, technical reports, books, and slide presentations.
-- Advanced typesetting of mathematics with AMS-LaTeX.
-#### How to use latex
-
-<img width="375" alt="Use of LaTeX" src= "https://user-images.githubusercontent.com/98137201/227625957-d438aa40-6373-48be-8498-ab89224775f6.png">
-
-#### General purpose packages used in LaTex
-- Multiple Columns with multicol
-- Document Dimensions with geometry
-- Enhanced Image Support with graphic
-- Hyperlinking with hyperref
-- Creating graphics elements with TikZ
-
-#### LaTex vs Word processor
-- High typeset quality
-- Easy to include math formulas
-- Source file format id not bounded to a particular OS or platform
-- Latex implementations exists for all platforms (DOS, Windows, Unices,..)
-- Latex is free
 
 
 
