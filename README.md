@@ -106,49 +106,6 @@ In highly populated countries, food wastage is a disturbing issue. High standard
  <p> The proposed application is android based application, developed on Android Studio using HTML and CSS which requires internet connection and will provide a platform for donating leftover food to all needy people/organizations.Through this application restaurant  can send the leftover food items as per their capacity and the application also allows organizations to put up their requests,if any.<br>
 </p>
 
-#### Application Work Flow
-##### Admin web portal Flow
-<img width="550" src ="https://user-images.githubusercontent.com/98132897/233659661-64f22444-91c9-47f5-abf1-9f4d00985095.png">
-
-##### Restaurant View
-<img width="150" src="https://user-images.githubusercontent.com/98135573/213960640-c6f8c608-1267-4c6f-a26f-b69a7aef81d6.png">
-<p> This screen will provide the information about user sign in. If they are new user, they must fill the all the requested fields and create an account.</p>
-
-<img width="150" src="https://user-images.githubusercontent.com/98135573/213961101-f7c0ec7f-6c35-489c-9e21-aab2b896d59c.png">
-<p>This screen this provides the information about navigation with in the application.</p>
-
-<img width="150" src ="https://user-images.githubusercontent.com/98135573/213961326-1bf2c12a-1367-44a2-9e01-2b3025382abf.png">
-<p>This screen gives the detailed information about the food available in the restaurant.</p>
-
-##### Orphanage view
-<img width="150" src ="https://user-images.githubusercontent.com/98135627/213962247-e1f2141f-4e33-4a43-a4b2-f3b9aa03e124.png">
-<p>This screen will provide the update by the restaurant regarding food availability.</p>
-
-<img width="150" src ="https://user-images.githubusercontent.com/98135627/213962520-2a591f02-8243-40c0-b637-57997a79ed72.png">
-<p>The orphanage can request the food, they have to submit the amount of they want to receive in order not to waste unaccepted amount of food.</p>
-
-<img width="150" src="https://user-images.githubusercontent.com/98135627/213962993-5f65fc21-35b7-4de1-8303-a5973fa9281a.png">
-<p>This screen will be appearing after placing the order and saving the address successfully.</p>
-
-##### volunteer view
-<img width="150" src="https://user-images.githubusercontent.com/98132897/213963782-c10b16a6-900c-45d0-b8a5-11afa76d5063.png">
-<p>In this the volunteer who has registered will get the notification for the delivery of food to the orphanage from restaurant</p>
-
-<img width="150" src="https://user-images.githubusercontent.com/98132897/213964274-7dee2fb7-60ca-49db-9e56-9768601c81d1.png">
-<p> This screen show the dashboard of the volunteer with the above features. Once he accept the delivery then the request turn into parcel progress category.</p>
-
-<img width="150" src="https://user-images.githubusercontent.com/98132897/213964995-3b99f931-c492-4471-87ed-3ba26ea6c2b0.png">
-<p>This screen volunteer will set the drop-off location</p>
-
-<img width="150" src="https://user-images.githubusercontent.com/98132897/215166809-94bcf120-89b3-4166-920a-69b24f46f2a2.png">
-<p>This screen will show the restaurant pick-up location. </p>
-
-<img width="150" src="https://user-images.githubusercontent.com/98132897/216689508-2b183d98-8445-402f-9c13-a53c6bb1413a.png">
-<p> The order Id date, time and the volunteer who has accepted will be generated automatically when the olunteer accepts to delivery food .</p>
-
-<img width="150" src="https://user-images.githubusercontent.com/98132897/219765380-184e6a3d-a64f-4a44-9ed0-6e2c9d5c8384.png">
-<p>When once the food is delivered to the address accepted then the above screen will be appeared. As the food is delivered. Then the volunteer can again go back dashboard.</P>
-
 #### Interface Requirements
 ##### User Interface
 <p> The interface shall be android based allowing user to access the system. This designand layout will be very clear and interactive to the user. There will be a proper collection of GUI interface, which will provide better look. <br> 
@@ -212,54 +169,10 @@ Each project in Android Studio contains one or more modules with source code fil
 ##### Power Automate
 <p> Power Automate, formerly Microsoft Flow, is an online tool within the Microsoft 365 applications and add-ins, used for the creation of automated workflows between apps and services to synchronize files, get notifications, and collect data.</p>
 
-##### Benefits of Power Automate
-<p>
-•	Streamline everyday tasks.<br>
-•	Improve workforce productivity.<br>
-•	Automate tasks across business systems. <br>
-•	Increase employee satisfaction and reduce human error. <br>
-•	Save time with decision making.<br>
-•	Use predefined templates to create a flow.<br>
-•	Accessible anywhere.<br>
-</p>
-
-##### Features of Power Automate
-<img width="375" alt="Features of Power Automate" src= "https://user-images.githubusercontent.com/98132897/203895424-93f58f35-e004-4ef6-9e4c-f2bec751baed.jpg">
-
-##### Power Automate Flows
-<ol>
-<li>Schedule Flow</li>
-<li>Automated Cloud Flow</li>
-<li>Instant Flow</li>
-<li>UI Flow</li>
-<li>Business Process Flow</li>
-</ol>
-
-##### To send email notifications via power automate
-
-- Select the Create button at the bottom of the screen.
-- In the box that shows Search connectors and actions, enter send email, and then select Send an email
-- If prompted, select the sign-in button, and then provide your credentials.
-- In the form that appears, enter your email address in the To box, and then select your name from the list of contacts that appears.
-- In the Subject box, enter New tweet from:, and then type a space.
-- In the list of tokens, select the Tweeted by token to add a placeholder for it.
-- Select the Body box, and then select the Tweet text token to add a placeholder for it.
-- Optionally, you can add more tokens, other text, or both to the body of the email.
-- Near the top of the screen, select Save.
-
-##### power automate emailflow 
-
-<img width="375" alt ="power automate email flow" src= "https://user-images.githubusercontent.com/98142665/213960750-be36a97c-0c02-49f0-80b0-48e47fedbcaf.png" >
 
 ##### Flutter
 <p>Flutter is framework created by google. </p>
 <p>There are many advantages of Flutter as a cross platform mobile development framework, including the ability to create web applications that have a native look and feel on both Android and iOS devices, reduced development time and costs, and increased flexibility.</p>
-<p>A cross-platform framework used to develop application for :</p>
-
-- Android
-- iOS
-- Web
-- Desktop.
 
 #### Dart
 
@@ -267,28 +180,6 @@ Each project in Android Studio contains one or more modules with source code fil
 
 ##### Importance of Dart
 <p>Dart is a client-optimized language for creating quick programs on any environment. Its objective is to provide the highest effective software program for inter construction along with a versatile executing environment platform for application architectures. Dart is most widely used in single page application like web application, website.</p>
-
-#### Dart Tools
-<img width="375" alt="Dart Tools" src="https://user-images.githubusercontent.com/98137201/218216374-011eaad6-5662-4d5d-bef4-c6d465c956bc.png">
-<p>Dart editor: This editor is similar to the sublime text and notepad++.</br>
-Dartium: A web browser with dart included.</br>
-Dart2js: Used ti convert data script to java script.</br>
-Pub: Package Manager.</p>
-
-
-#### Dart Features
-<p>Open Source. Dart is an open-source programming language, which means it is freely available.<br>
-Platform Independent. Dart supports all primary operating systems such as Windows, Linux, Macintosh, etc<br>
-•	Community
-•	Platform independent
-•	Object oriented.
-•	Object
-•	Type safe
-•	Extensive libraries
-•	Easy to learn
-•	Concurrency
-</p>
-
 
 ##### Firebase
 
@@ -298,61 +189,9 @@ Firebase is a set of hosting services for any type of application. It offers NoS
 <p>Developers can create iOS, Android, and Web apps using the Google-sponsored application development platform known as Firebase. Tools are available from Firebase for monitoring analytics, reporting and resolving app errors, as well as developing marketing and product experiments.</p>
 <img width="375" alt="Features" src= "https://user-images.githubusercontent.com/98137201/218240393-66211b39-dfd4-4df2-b77c-c8f7d96c9c4c.png">
 
-
-##### Microsoft Power Platform
-<img width="375" alt="Microsoft Power Platform" src= "https://user-images.githubusercontent.com/98132897/202502963-63643654-43d2-4030-b66a-26790a5015c6.jpg">
-
 ##### Chatbot 
 
 A chatbot is a type of software that can help customers by automating conversations and interact with them through messaging platforms.
-
-
-##### Create a Bot
-- Name your bot
-- What language will your bot speak
-- Select create
-    After a few minutes, you'll be redirected to the bot's overview 	page.
-- When the bot creation process completes, the banner changes. You now have full functionality in the bot and can modify any User or System topic, test out your content changes, or deploy your bot.
-
-##### What is a Topic in Chatbot
-
-<p>A topic has trigger phrases and conversation nodes. Trigger phrases are phrases, keywords, and questions that a user is likely to type that are related to a specific issue. Conversation nodes define how a bot should respond to a trigger phrase and what it should do.</p>
-
-##### Create a topic
-- In the navigation menu, select Topics, then select New topic at the top of the page.
-- Name your topic and include some trigger phrases for this topic.
-- Select Save topic to add the topic to the topics list.
-- Select Go to authoring canvas. This is the graphical dialog tree editor that allows you to define bot responses and the overall bot conversation.
-- Select Add node (+) below the node, and add an Ask a question node.
-<img width="375" alt="chatbot" src="https://user-images.githubusercontent.com/98132897/218126059-06703167-48d2-416b-8ebb-70c8813650b6.png">
-<img width="375" alt="trigger phases" src="https://user-images.githubusercontent.com/98135627/218234382-16c07761-3870-43cd-a7af-dfc0eed9275e.png">
-
-
-##### Features of Chatbot
-
-- 24/7 Customer service
-- Simple User Interface Design and User Experience
-- Acknowledge When Questions are Beyond Their Scope
-- Customer Experience Comes First
-
-
-<img width="375" alt="chatbot" src="https://user-images.githubusercontent.com/98142665/194678329-a2dd0a6a-5163-4d4d-8e39-4ea4cec8ad98.PNG">
-
-##### How Chatbot is created in powervirtaul agents
-
-<img width="375" alt="creation" src="https://user-images.githubusercontent.com/98142665/195885150-b2cf1708-ffa4-42a4-abea-2cc343eab5b9.png">
-
-
-##### How Chatbot works
-
-<img width="375" alt="testbot" src="https://user-images.githubusercontent.com/98142665/195884613-2a83122a-7ca4-45a8-ad06-2b8210998728.PNG">
-
-##### Creating and Publishing the Node in Chatbot
-<img width="350" alt="chatbot topic " src="https://user-images.githubusercontent.com/98132897/201376232-18b66781-3af5-412b-be26-d7e59ca61923.png">
-
-
-##### How chatbot is published in different channels?
-<img width="375" alt="power virtual agent" src="https://user-images.githubusercontent.com/98135627/195897984-a9d70b9d-908a-49a4-925c-f630ee010427.jpeg">
 
 
 ##### Architecture of LOOW
